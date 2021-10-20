@@ -1,6 +1,6 @@
 # VxScan Checklist
 
-The VxScan Checklist should be run for _each _VxScan. You will need Admin and Poll Worker Cards.  If your VxScan unit is not yet set up or configured for a particular precinct,  see [VxScan Hardware Setup](../../hardware-setup/setting-up-precinct-scanner.md).
+The VxScan Checklist should be run for _each _VxScan. You will need Admin and Poll Worker Cards.  If your VxScan unit is not yet set up or configured for a particular precinct, see [VxScan Hardware Setup](broken-reference).
 
 Before beginning the VxScan part of L\&A, you'll want to split up and reorganize the test ballots by precinct: the VxAdmin test deck, the VxMark test deck, and the additional blank and overvoted ballots.
 

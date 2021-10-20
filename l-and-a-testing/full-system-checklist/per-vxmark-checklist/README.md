@@ -1,6 +1,6 @@
 # VxMark Checklist
 
-The VxMark checklist must be run for _each_ VxMark. You will need an Admin card and a Poll Worker card. If you have not yet set up or configured your VxMarks, see the articles for [Hardware Setup](../../../hardware-setup/vxmark.md) and [Configuration](../../../hardware-setup/configuring-and-operating-vxmark.md).
+The VxMark checklist must be run for _each_ VxMark. You will need an Admin card and a Poll Worker card. If you have not yet set up or configured your VxMarks, see the articles for [Hardware Setup](../../../casting-votes/setting-up-and-opening-polls/vxmark.md) and [Configuration](../../../hardware-setup/configuring-and-operating-vxmark.md).
 
 | Name | Date |
 | ---- | ---- |

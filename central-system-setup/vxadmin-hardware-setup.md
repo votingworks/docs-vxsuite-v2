@@ -37,3 +37,21 @@ New printers come with toner installed by default. The display will alert you wh
 **The printer displays "Select Language" and won't print. What do I do?**
 
 The first time a printer is used or if it is ever reset, it must be configured by responding to the on-screen prompts. You can simply press the "OK" button repeatedly, selecting all the defaults, until it says "Ready."
+
+**How do I fix streaks, lines, or otherwise poor print quality?**
+
+Print a "Cleaning Page." In order to do so, navigate through the following options on the printer LCD screen:
+
+1. **Setup**
+2. **Printer Maintenance**
+3. **Print Quality Tools**
+4. **Cleaning Page**
+
+Printing the cleaning page will usually clear the printer's rollers of stray ink that is causing print issues.&#x20;
+
+**What if printing a "Cleaning Page" helps, but the issue keeps coming back?**
+
+If you are not using the recommended paper, it's possible that the paper you are using is not compatible with the printer. When toner doesn't print properly to a page, it can end up on the rollers where it will cause streaks on later pages. Try printing another cleaning page and then using a [recommended paper](vxadmin-hardware-setup.md#recommended-and-compatible-paper).
+
+If you **are** using a recommended paper, the toner cartridge may be defective and may need to be replaced.
+

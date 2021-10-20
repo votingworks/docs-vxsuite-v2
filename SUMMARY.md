@@ -13,8 +13,7 @@
 ## Precinct System Setup <a href="hardware-setup" id="hardware-setup"></a>
 
 * [Smart Cards](hardware-setup/programming-cards.md)
-* [VxScan Hardware Setup](hardware-setup/setting-up-precinct-scanner.md)
-* [VxMark Hardware Setup](hardware-setup/vxmark.md)
+* [Configure VxScan](hardware-setup/configure-vxscan.md)
 * [Configure VxMark](hardware-setup/configuring-and-operating-vxmark.md)
 
 ## L\&A Testing
@@ -37,9 +36,15 @@
 
 ## Poll Worker Guides <a href="casting-votes" id="casting-votes"></a>
 
-* [Precinct Checklist](casting-votes/precinct-checklist.md)
-* [VxMark Poll Worker Guide](casting-votes/operating-vxmark.md)
-* [VxScan Poll Worker Guide](casting-votes/operating-precinct-scanner.md)
+* [Poll Worker Checklist](casting-votes/precinct-checklist.md)
+* [Setting Up and Opening Polls](casting-votes/setting-up-and-opening-polls/README.md)
+  * [VxScan Setup](casting-votes/setting-up-and-opening-polls/vxscan-setup.md)
+  * [VxMark Setup](casting-votes/setting-up-and-opening-polls/vxmark.md)
+  * [Opening Polls](casting-votes/setting-up-and-opening-polls/opening-polls.md)
+* [Assisting Voters](casting-votes/assisting-voters.md)
+* [Closing Polls and Packing Up](casting-votes/closing-polls-and-packing-up/README.md)
+  * [Closing Polls](casting-votes/closing-polls-and-packing-up/closing-polls.md)
+  * [Handling Results and Packing Up VxScan](casting-votes/closing-polls-and-packing-up/handling-results-and-packing-up-vxscan.md)
 
 ## Election Night Admin Guides <a href="election-ops" id="election-ops"></a>
 

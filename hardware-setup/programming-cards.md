@@ -34,7 +34,7 @@ For each election, you will encode the smart cards specifically for that electio
 
 ![](../.gitbook/assets/card\_tab.jpg)
 
-You will use the HID Omnikey Card Reader provided with VxAdmin. To get started, plug it the card reader into a USB port of the VxAdmin laptop.
+You will use the HID Omnikey Card Reader provided with VxAdmin. To get started, plug the card reader into a USB port of the VxAdmin laptop.
 
 ### Encoding Admin Cards
 
@@ -43,7 +43,7 @@ Insert the smart card labelled "Admin" into the card reader facing toward you. P
 ![Admin Smart Card in Smart Card Reader](../.gitbook/assets/IMG\_4477.jpeg)
 
 {% hint style="warning" %}
-Admin Cards are encrypted for security to prevent anyone from editing or overwriting the correct election data. When reusing a previously programmed Admin Card, you must first `Override Write Protection` on the card.
+Admin Cards are write-protected to prevent accidentally overwriting the correct election data. When reusing a previously programmed Admin Card, you must first `Override Write Protection` on the card.
 {% endhint %}
 
 Under the `Card` tab in VxAdmin, select `Encode Admin Card`:
