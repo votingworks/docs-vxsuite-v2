@@ -2,8 +2,8 @@
 
 Before you can configure VxScan, you will have to setup the machine. You may follow the steps in the Poll Worker VxScan Setup Guide:
 
-{% content-ref url="../casting-votes/setting-up-and-opening-polls/vxscan-setup.md" %}
-[vxscan-setup.md](../casting-votes/setting-up-and-opening-polls/vxscan-setup.md)
+{% content-ref url="../poll-worker-guides/setting-up-and-opening-polls/vxscan-setup.md" %}
+[vxscan-setup.md](../poll-worker-guides/setting-up-and-opening-polls/vxscan-setup.md)
 {% endcontent-ref %}
 
 In order to configure VxScan, you will need to prepare two things:

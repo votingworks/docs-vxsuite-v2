@@ -55,8 +55,9 @@ Repeat the following for each VxBatch:
 Repeat the following for each VxBatch:
 
 * [ ] Insert USB drive with the CVR files
+* [ ] Click "Import CVR Files" in the Tally Tab
 * [ ] Import the CVR file from the given VxBatch
-* [ ] Confirm that the count of ballots in VxAdmin matches the size of the test deck.
+* [ ] Confirm that the CVR count in VxAdmin matches the number of ballots in the test deck
 * [ ] Print Unofficial Full Election Tally Report
 * [ ] Compare to the Test Ballot Deck Tally  and ensure they match
 * [ ] Clear CVR files
