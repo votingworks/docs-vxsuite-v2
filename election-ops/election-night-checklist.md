@@ -1,12 +1,12 @@
 # Election Night Checklist
 
-On election night, you will need the [VxBatch](../central-system-setup/vxbatch-hardware-setup.md) (laptop and scanner) and [VxAdmin](../central-system-setup/vxadmin-hardware-setup.md) (laptop and printer). **Then, run this checklist.**
+On election night, you will need the [VxCentralScan](../central-system-setup/vxcentralscan-hardware-setup.md) (laptop and scanner) and [VxAdmin](../central-system-setup/vxadmin-hardware-setup.md) (laptop and printer). **Then, run this checklist.**
 
 ### [Central Scanning](scanning-ballots.md)
 
-* [ ] Set up VxBatch by plugging the laptop and scanner into power and connecting the two via USB
+* [ ] Set up VxCentralScan by plugging the laptop and scanner into power and connecting the two via USB
 * [ ] Boot up both laptops.
-* [ ] Confirm scanner does not say **TEST MODE** and says **No ballots have been scanned**
+* [ ] Confirm VxCentralScan does not say **TEST MODE** and says **No ballots have been scanned**
   * [ ] If there is a problem, switch the scanner to "Live Mode" or `Delete Ballot Data` from the `Advanced` menu
 * [ ] Scan all ballots in batches of approximately 50.
 * [ ] Create a pile of ballots for adjudication as rejected from the scanner.

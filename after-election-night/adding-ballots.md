@@ -2,35 +2,32 @@
 
 You may receive properly post-marked absentee ballots for the next five days after election night that need to be counted. To add these ballots to unofficial results, you will need to:
 
-1. Scan late-received ballots on **VxBatch**, preserving the election-night scans
+1. Scan late-received ballots on **VxCentralScan**, preserving the election-night scans
 2. Export the CVRs, including both election-night and late-received.
-3. Remove the previous CVR file from **VxAdmin**
-4. Load the new CVR file into **VxAdmin**
-5. Print combined tally report
-6. Export combined results
-7. Upload combined results to SEMS
+3. Import the new CVR file in **VxAdmin**
+4. Print tally report
+5. Export results
+6. Upload results to SEMS
 
 VotingWorks recommends scanning and tabulating all late-received ballots at once though you may process late-received ballots multiple times by repeating these steps.
 
 ## Scan Late-Received Ballots
 
-When you turn on VxBatch, you should see previous batches you scanned on election night. You can scan new batches for the properly postmarked ballots received after election night, using the normal scanning instructions, including adjudicating ballots that don't scan. See [Central Scanning](../election-ops/scanning-ballots.md).
+When you turn on VxCentralScan, you should see previous batches you scanned on election night. You can scan new batches for the properly postmarked ballots received after election night, using the normal scanning instructions, including adjudicating ballots that don't scan. See [Central Scanning](../election-ops/scanning-ballots.md).
 
 ## Export CVR
 
 After scanning all late-received ballots, you can export the combined CVR file that should contain all ballots, both election-night and late-received. See instructions under [Tally Results](../election-ops/tabulating-results.md), the portion on exporting CVRs.
 
-## Load CVR
+## Import CVR
 
-At this point, in **VxAdmin**, you will want to remove the old CVR file and load the new CVR file. (If you loaded an external results file from TSX machines, those results can stay put.)
+In **VxAdmin**, upload the new CVR file. Click Import CVR Files.
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (123).png>)
 
-![](<../.gitbook/assets/image (33).png>)
+Select Import for the CVR file you want to import.
 
-At this point, any external results file should remain, and you can click "Import CVR Files" to import the new CVR file that contains the combined election-night and late-received ballots:
-
-![](<../.gitbook/assets/image (35).png>)
+![](<../.gitbook/assets/image (85).png>)
 
 ## Export Results
 

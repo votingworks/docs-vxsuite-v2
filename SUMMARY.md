@@ -5,12 +5,15 @@
 ## Central System Setup
 
 * [VxAdmin Hardware Setup](central-system-setup/vxadmin-hardware-setup.md)
-* [Configure Ballot Styles](central-system-setup/create-ballots.md)
+* [Configure VxAdmin](central-system-setup/configure-vxadmin.md)
 * [Print & Proof Ballots](central-system-setup/print-proofing-ballots.md)
-* [VxBatch Hardware Setup](central-system-setup/vxbatch-hardware-setup.md)
-* [Configure VxBatch](central-system-setup/configure-ballot-scanner.md)
+* [Export Ballot Package](central-system-setup/export-ballot-package.md)
+* [VxCentralScan Hardware Setup](central-system-setup/vxcentralscan-hardware-setup.md)
+* [Configure VxCentralScan](central-system-setup/configure-ballot-scanner.md)
+* [Setting Date & Time](central-system-setup/setting-date-and-time.md)
+* [Unlocking/Locking Hardware](central-system-setup/unlocking-locking-hardware.md)
 
-## Precinct System Setup <a href="hardware-setup" id="hardware-setup"></a>
+## Precinct System Setup <a href="#hardware-setup" id="hardware-setup"></a>
 
 * [Smart Cards](hardware-setup/programming-cards.md)
 * [Configure VxScan](hardware-setup/configure-vxscan.md)
@@ -24,11 +27,11 @@
   * [VxAdmin Checklist - Part 1](l-and-a-testing/full-system-checklist/vxadmin-checklist-part-1.md)
   * [Precinct (VxScan + VxMark) Checklist](l-and-a-testing/full-system-checklist/precinct-vxscan-+-vxmark-checklist/README.md)
     * [Ballot Style Sub-Checklist](l-and-a-testing/full-system-checklist/precinct-vxscan-+-vxmark-checklist/per-ballot-style-per-vxmark-checklist.md)
-  * [VxBatch Checklist](l-and-a-testing/full-system-checklist/vxbatch-checklist.md)
+  * [VxCentralScan Checklist](l-and-a-testing/full-system-checklist/vxcentralscan-checklist.md)
   * [VxAdmin Checklist - Part 2](l-and-a-testing/full-system-checklist/vxadmin-checklist-part-2.md)
 * [Print VxAdmin Test Materials](l-and-a-testing/test-deck-printing.md)
 * [Print VxMark Test Decks](l-and-a-testing/print-test-deck-2.md)
-* [Scan Test Decks with VxBatch](l-and-a-testing/test-deck-scanning.md)
+* [Scan Test Decks with VxCentralScan](l-and-a-testing/test-deck-scanning.md)
 * [Tally Test Results](l-and-a-testing/tabulate-test-deck.md)
 * [L\&A Cleanup](l-and-a-testing/prepare-for-election-day.md)
 
@@ -45,7 +48,7 @@
   * [Handling Results and Packing Up VxScan](poll-worker-guides/closing-polls-and-packing-up/handling-results-and-packing-up-vxscan.md)
   * [Packing Up VxMark](poll-worker-guides/closing-polls-and-packing-up/packing-up-vxmark.md)
 
-## Election Night Admin Guides <a href="election-ops" id="election-ops"></a>
+## Election Night Admin Guides <a href="#election-ops" id="election-ops"></a>
 
 * [Election Night Checklist](election-ops/election-night-checklist.md)
 * [Central Scanning](election-ops/scanning-ballots.md)

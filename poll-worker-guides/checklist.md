@@ -3,36 +3,37 @@
 ### Equipment Setup
 
 * [ ] [VxScan Setup](setting-up-and-opening-polls/vxscan-setup.md)
-  * [ ] Removed + Documented Top Seal
-  * [ ] Opened Top
-  * [ ] Plugged Power Cable into Outlet
-  * [ ] Lifted Screen Upright
-  * [ ] Turned On (Screen Shows "Polls Closed")
-  * [ ] Removed + Documented Ballot Entry Flap Seal
-  * [ ] Opened Ballot Entry Flap
-  * [ ] Attached Tray
+  * [ ] Remove and document seal
+  * [ ] Open top
+  * [ ] Plug power cable into outlet
+  * [ ] Lift screen upright
+  * [ ] Open ballot entry flap
+  * [ ] Attach tray
 * [ ] [VxMark Setup](setting-up-and-opening-polls/vxmark.md)
-  * [ ] Printer Setup
-    * [ ] Printer Removed from Box
-    * [ ] Plugged Power Cable into Outlet
-    * [ ] Turn On
-  * [ ] Removed + Documented VxMark Seal
-  * [ ] Opened VxMark
-  * [ ] Plugged Power Adapter into Outlet
-  * [ ] Connected Printer Cable to Printer
-  * [ ] Set Accessible Controller to Side
-  * [ ] Plugged Headphones into Accessible Controller
-  * [ ] Set Up Privacy Shield
-  * [ ] Turn On (Screen Shows "Polls Closed")
-* [ ] Poll Worker Cards Ready
+  * [ ] Printer setup
+    * [ ] Remove printer from box
+    * [ ] Plug power cable into outlet
+    * [ ] Turn on
+  * [ ] Remove and document VxMark seal
+  * [ ] Open VxMark
+  * [ ] Plug power cord into outlet
+  * [ ] Connect printer cable to printer
+  * [ ] Set accessible controller to side
+  * [ ] Plug headphones into accessible controller
+  * [ ] Set up privacy shield
+  * [ ] Turn on (screen shows "Polls Closed")
+* [ ] Poll worker cards ready
 
 ### [Open Polls](setting-up-and-opening-polls/opening-polls.md)
 
-* [ ] Insert Poll Worker Card into VxScan
-* [ ] Open Polls on VxScan
+* [ ] Insert poll worker card into VxScan
+* [ ] Tap _Open Polls for \[precinct name]_
+* [ ] Tap _Save Report and Open Polls_
 * [ ] Insert Poll Worker Card into VxMark
-* [ ] Print Polls Open Report
-* [ ] Open Polls on VxMark
+* [ ] Tap _Print Tally Report -_ 2 copies will print
+* [ ] Verify precinct name, date, time and totals are zero
+* [ ] Retain and/or display the _Tally Report_ as instructed by your election administrator
+* [ ] Tap _Open Polls for \[precinct name]_
 
 ### [Assisting Voters](checklist.md#assisting-voters)
 
@@ -41,66 +42,72 @@
 * [ ] Insert Poll Worker Card
 * [ ] Tap the appropriate ballot style
 * [ ] Remove Poll Worker Card
-* [ ] Inform voter they can begin voting
-* [ ] After the voter prints their ballot, instruct them to:
+* [ ] Instruct voter they can begin voting by tapping _Start Voting_ or alternately, provide the voter with headphones and the accessible control for audio instructions
+* [ ] Allow voter to vote privately
+* [ ] After the voter prints their ballot, assist and instruct them to:
   * [ ] Review their printed ballot
-  * [ ] Go to cast their ballot
+  * [ ] Insert their ballot into VxScan
 
 #### **Helping a voter cast their ballot at VxScan**
 
 * [ ] Instruct the voter to insert their ballot in any orientation
 * [ ] _If ballot scans successfully_, let the voter know their vote has been cast
-*   [ ] _If ballot does not scan successfully, _help the voter understand the issues with their ballot specified on the screen. Let them know their options which, depending on the issue, may include casting their ballot despite issues, adding marks to their ballot, or receiving a new ballot
+*   [ ] _If ballot does not scan successfully,_ help the voter understand the issues with their ballot specified on the screen. Let them know their options which, depending on the issue, may include casting their ballot despite issues, adding marks to their ballot, or receiving a new ballot
 
 
 
 ### [Close Polls](checklist.md#close-polls)
 
 * [ ] Insert Poll Worker Card into VxScan
-* [ ] Close Polls on VxScan
+* [ ] Tap _Close Polls for \[precinct name]_
+* [ ] Tap _Save Report and Close Polls_
 * [ ] Insert Poll Worker Card into VxMark
-* [ ] Print Polls Closed Report
-* [ ] Report Election Results with QR Code
-* [ ] Close Polls on VxMark
+* [ ] Tap _Print Tally Report -_ 2 copies will print, each 3 pages
+* [ ] Open the QR code on page three to report election results
+  * [ ] Open the camera on your smart phone
+  * [ ] Point the camera at the QR code
+  * [ ] Follow prompt to open the link&#x20;
+* [ ] Retain and/or display the _Tally Report_ as instructed by your election administrator
+* [ ] Tap _Close Polls for \[precinct name]_
 
 ### [Handle Results](closing-polls-and-packing-up/handling-results-and-packing-up-vxscan.md)
 
 * [ ] Insert Poll Worker Card into VxScan
-* [ ] Export Results to USB
-* [ ] Break Ballot Bag Securing Seals (x2)
-* [ ] Document Ballot Bag Securing Seal Numbers (x2)
-* [ ] Remove Ballot Bag
-* [ ] Close Front Flap of Ballot Bag
-* [ ] Seal Ballot Bag with New Seal
-* [ ] Document New Seal Number
-* [ ] Open Metal Enclosure
-* [ ] Remove USB Drive
-* [ ] Close Metal Enclosure
+* [ ] Tap _Export Results to USB_
+* [ ] Tap _Export_
+* [ ] Tap _Eject USB_
+* [ ] Remove ballot bag securing seals (x2)
+* [ ] Document ballot bag securing seal numbers (x2)
+* [ ] Remove ballot bag
+* [ ] Close front flap of ballot bag
+* [ ] Seal ballot bag with new seal
+* [ ] Document new seal number
+* [ ] Open metal enclosure
+* [ ] Remove USB drive
+* [ ] Close metal enclosure
 
 ### Packing Up Equipment
 
 * [ ] [VxScan](closing-polls-and-packing-up/handling-results-and-packing-up-vxscan.md#cleaning-up)
-  * [ ] Turn Off
-  * [ ] Lower Screen
-  * [ ] Unplug Power Cord and Place in Lid Pocket
-  * [ ] Remove Feeder Tray and Place inside Outer Bag
-  * [ ] Close Ballot Entry Flap
-  * [ ] Seal Ballot Entry Flap
-  * [ ] Document Seal Number
-  * [ ] Close Top
-  * [ ] Seal Top
-  * [ ] Document Seal Number
+  * [ ] Turn off
+  * [ ] Lower screen
+  * [ ] Unplug power cord and place in lid pocket
+  * [ ] Remove feeder tray and place inside outer bag
+  * [ ] Close ballot entry flap
+  * [ ] Close top
+  * [ ] Seal ballot entry flap and top zippers together
+  * [ ] Document seal number
 * [ ] VxMark
-  * [ ] Pack Up Printer
-    * [ ] Disconnect from Power
-    * [ ] Place Printer into Box
-    * [ ] Place Cord into Box
-* [ ] Turn Off
-* [ ] Power Adapter: return to case, top-left
-* [ ] Printer Cable: disconnect from printer
-* [ ] Accessible Controller: return to case, bottom-left
-* [ ] Headphones: return to pouch, place atop screen
-* [ ] All Cables: neatly within case
-* [ ] Privacy Shield: place behind top foam
+  * [ ] Pack up printer
+    * [ ] Disconnect from power
+    * [ ] Place printer into box
+    * [ ] Place cord into box
+  * [ ] Turn off
+  * [ ] Power adapter: return to case, top-left
+  * [ ] Printer cable: disconnect from printer
+  * [ ] Accessible controller: return to case, bottom-left
+  * [ ] Headphones: return to pouch, place atop screen
+  * [ ] All cables: neatly within case
+  * [ ] Privacy shield: place behind top foam
 
 You can find this checklist and guides for the equipment online at **https://docs.voting.works/vxsuite/poll-worker-guides**

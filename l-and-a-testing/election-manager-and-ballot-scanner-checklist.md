@@ -1,6 +1,6 @@
 # Central System Checklist
 
-This checklist is for jurisdictions who are using the VotingWorks central system (VxAdmin and VxBatch) without the precinct system (VxMark or VxScan). It only needs to be run once per election. If you are using any precinct equipment, skip to the next section. Links after each section point to articles with more details on the individual steps.
+This checklist is for jurisdictions who are using the VotingWorks central system (VxAdmin and VxCentralScan) without the precinct system (VxMark or VxScan). It only needs to be run once per election. If you are using any precinct equipment, skip to the next section. Links after each section point to articles with more details on the individual steps.
 
 | Name | Date |
 | ---- | ---- |
@@ -28,13 +28,13 @@ This checklist is for jurisdictions who are using the VotingWorks central system
 [test-deck-printing.md](test-deck-printing.md)
 {% endcontent-ref %}
 
-### VxBatch
+### VxCentralScan
 
-Repeat the following for each VxBatch:
+Repeat the following for each VxCentralScan station:
 
-* [ ] Connect VxBatch to its scanner
-* [ ] Turn on the VxBatch laptop and the scanner
-* [ ] Confirm that VxBatch is configured for the appropriate election
+* [ ] Connect VxCentralScan laptop to its scanner
+* [ ] Turn on the VxCentralScan laptop and the scanner
+* [ ] Confirm that VxCentralScan is configured for the appropriate election
 * [ ] Toggle to `Test` Mode
 * [ ] Scan the full test deck
 * [ ] Scan the blank ballot
@@ -52,11 +52,11 @@ Repeat the following for each VxBatch:
 
 ### VxAdmin - Part 2
 
-Repeat the following for each VxBatch:
+Repeat the following for each VxCentralScan USB:
 
 * [ ] Insert USB drive with the CVR files
 * [ ] Click "Import CVR Files" in the Tally Tab
-* [ ] Import the CVR file from the given VxBatch
+* [ ] Import the CVR file from the given VxCentralScan
 * [ ] Confirm that the CVR count in VxAdmin matches the number of ballots in the test deck
 * [ ] Print Unofficial Full Election Tally Report
 * [ ] Compare to the Test Ballot Deck Tally  and ensure they match
@@ -69,9 +69,9 @@ Repeat the following for each VxBatch:
 ### **Cleanup**
 
 * [ ] Confirm that there are no CVR files left in VxAdmin tally tab
-* [ ] Toggle VxBatch to **Live Mode **(in `Advanced` tab)
+* [ ] Toggle VxCentralScan to **Live Mode** (in `Advanced` tab)
 * [ ] Shut down VxAdmin
-* [ ] Shut down VxBatch
+* [ ] Shut down VxCentralScan
 
 {% content-ref url="prepare-for-election-day.md" %}
 [prepare-for-election-day.md](prepare-for-election-day.md)

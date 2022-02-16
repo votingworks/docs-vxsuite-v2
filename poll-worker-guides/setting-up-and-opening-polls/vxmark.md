@@ -14,7 +14,7 @@ You can place the printer to the left or right of the black case:
 
 ### Set Up Printer
 
-Connect the printer to power by connecting the plugging one end of the power cable into an outlet and the other end into the back of the printer. Turn the printer on by pressing the power button on the front in the top-right corner:
+Connect the printer to power by plugging one end of the power cable into an outlet and the other end into the back of the printer. Turn the printer on by pressing the power button on the front in the top-right corner:
 
 ![](../../.gitbook/assets/printer\_power.jpg)
 
@@ -22,7 +22,7 @@ Connect the printer to power by connecting the plugging one end of the power cab
 
 Pop open the black case by lifting the latches on the side and front. Within the case you'll see the touchscreen and, around it, the different components of the VxMark:&#x20;
 
-1. **Headphones** in the travel pouch on top of the screen. Remove the pouch and set it aside for now.
+1. **Headphones** in the travel pouch on top of the screen. Remove the pouch and set aside for now.
 2. **Accessible Controller** in the lower-left compartment. Remove it and set it beside the case to the left.
 3. **Power Adapter** in the upper-left compartment. Remove the adapter and plug it into an outlet.
 4. **Printer USB Cable** in the mid-right compartment. Connect this to the back of the printer.

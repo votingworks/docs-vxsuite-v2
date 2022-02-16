@@ -2,12 +2,12 @@
 
 ### Processing Late Ballots
 
-* [ ] Scan late absentee and affidavit ballots, as a new batches on top of the existing batches.
+* [ ] In VxCentralScan, scan late absentee and affidavit ballots as new batches.
 * [ ] Create a pile of ballots for adjudication as rejected from the scanner.
 * [ ] Adjudicate ballots as needed with the resolution board.
 * [ ] Scan resolution board ballots.
 * [ ] Export CVRs to USB – this should be the combined CVRs of all ballots, election night + late.
-* [ ] In Election Manager, clear all CVRs.
+* [ ] In VxAdmin, clear all CVRs.
 * [ ] Import the new set of CVRs.
 * [ ] If applicable, load the SEMS file from other machines (e.g. TSX GEMS results).
 * [ ] Print an unofficial tally of the ballots.

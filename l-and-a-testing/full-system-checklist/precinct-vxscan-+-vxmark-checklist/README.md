@@ -23,7 +23,7 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
   * [ ] Open Enclosure
   * [ ] Insert USB Drive
   * [ ] Close Enclosure
-  * [ ] Insert Ballot Bag** **
+  * [ ] Insert Ballot Bag ****&#x20;
 
 ### **Using Equipment**
 
@@ -42,7 +42,8 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 * [ ] Print Zero Report from VxScan (Poll Worker Card)
 * [ ] Confirm Zero Report is all Zeros
 * [ ] Open Polls on VxMark (Poll Worker Card)
-* [ ] Confirm that all expected ballot styles show up as options at top of screen
+* [ ] Confirm all expected ballot styles show up as options at top of screen
+* [ ] Confirm all Poll Worker Cards work
 * [ ] Run the [Ballot Style Sub-Checklist](per-ballot-style-per-vxmark-checklist.md) for _each_ ballot style
 * [ ] For one of the ballot styles selected at random, confirm that the entire ballot can be filled out and printed using only the audio track over headphones and the accessible controller
 * [ ] Print a Test Deck for the Current Precinct (Admin Card)
@@ -98,11 +99,10 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 
 ### **Seal Tracking**
 
-| Seal Location            | Seal Color | Number |
-| ------------------------ | ---------- | ------ |
-| Ballot Box Main Opening  | Red        |        |
-| Ballot Box Flap 1        | Yellow     |        |
-| Ballot Box Flap 2        | Yellow     |        |
-| VxScan Ballot Entry Flap | Green      |        |
-| VxScan Top               | Green      |        |
-| VxMark                   | Green      |        |
+| Seal Location           | Seal Color | Number |
+| ----------------------- | ---------- | ------ |
+| Ballot Box Main Opening | Red        |        |
+| Ballot Box Flap 1       | Yellow     |        |
+| Ballot Box Flap 2       | Yellow     |        |
+| VxScan                  | Green      |        |
+| VxMark                  | Green      |        |

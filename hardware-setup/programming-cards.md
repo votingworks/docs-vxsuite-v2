@@ -19,7 +19,7 @@ Because Admin Cards allow you to configure and unconfigure a machine for an elec
 
 ### Poll Worker Cards
 
-Poll Worker Cards enable poll workers to manage a precinct election day including:
+Poll Worker Cards enable poll workers to manage election day precinct tasks, including:
 
 * Opening the polls
 * Printing reports
@@ -32,13 +32,13 @@ Every precinct will need at least one Poll Worker Card in order to operate the p
 
 For each election, you will encode the smart cards specifically for that election. Smart cards can be encoded quickly and easily with VxAdmin, under the `Cards` tab:
 
-![](../.gitbook/assets/card\_tab.jpg)
+![](<../.gitbook/assets/image (208).png>)
 
-You will use the HID Omnikey Card Reader provided with VxAdmin. To get started, plug the card reader into a USB port of the VxAdmin laptop.
+You will use the HID Omnikey Card Reader provided with VxAdmin.&#x20;
 
 ### Encoding Admin Cards
 
-Insert the smart card labelled "Admin" into the card reader facing toward you. Push the card all the way into the slot, stopping when you feel it tap the bottom of the card reader:
+Insert a smart card labelled "Admin" into the card reader facing toward you. Push the card all the way into the slot, stopping when you feel it tap the bottom of the card reader:
 
 ![Admin Smart Card in Smart Card Reader](../.gitbook/assets/IMG\_4477.jpeg)
 
@@ -48,7 +48,11 @@ Admin Cards are write-protected to prevent accidentally overwriting the correct 
 
 Under the `Card` tab in VxAdmin, select `Encode Admin Card`:
 
-![](../.gitbook/assets/eac.jpg)
+![](<../.gitbook/assets/image (130).png>)
+
+Create a Security Code for the card and click Create Card.
+
+![](<../.gitbook/assets/image (118).png>)
 
 Programming an Admin Card will take several seconds during which the lights on the card reader will flash and the screen will show the following:
 
@@ -64,9 +68,9 @@ Insert the smart card labelled "Poll Worker" into the card reader facing toward 
 
 Under the Card Tab in VxAdmin, select `Encode Poll Worker Card`:
 
-![](../.gitbook/assets/epwc.jpg)
+![](<../.gitbook/assets/image (198).png>)
 
-VxAdmin will show that it is currently "Programming Card..." briefly. The light on the card reader will blink green and red. For a Poll Worker Card, this process will take less a second or less:
+VxAdmin will show that it is "Programming Card..." briefly. The light on the card reader will blink green and red. For a Poll Worker Card, this process will take less a second or less:
 
 ![](<../.gitbook/assets/Screenshot from 2021-06-28 16-07-45.png>)
 

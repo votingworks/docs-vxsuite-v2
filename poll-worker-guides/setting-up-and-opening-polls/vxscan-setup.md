@@ -2,39 +2,34 @@
 
 VxScan consists of two rigid tamper-evident bags - an inner ballot bag and an outer bag containing the ballot bag and the scanning technology:
 
-![](<../../.gitbook/assets/both bags closed\_smaller.jpg>)
+![](<../../.gitbook/assets/image (206).png>)
 
-For transport, the ballot bag is normally placed inside the scanner bag. It may be rolled like suitcase:
+For transport, the ballot bag is normally placed inside the scanner bag. It may be rolled like a suitcase:
 
 ![](../../.gitbook/assets/transport\_smaller.jpg)
 
 ### Opening the Outer Bag
 
-Begin by placing the VxScan on a table:
+Begin by placing the VxScan on a table. Break the seal and record the seal number in the **Equipment Seals Log.**
 
-![](<../../.gitbook/assets/scanner bag sealed.jpg>)
+![](<../../.gitbook/assets/image (204).png>)
 
-Open the top lid. If there the top lid is sealed, break the seal and record the seal number in the **Equipment Seals Log**:
+Unzip the top compartment.
+
+![](<../../.gitbook/assets/image (104).png>)
 
 ![](../../.gitbook/assets/just\_open\_vxscan.jpg)
 
 ### Powering On
 
-Remove the power chord from the lid's pocket and plug it into an outlet:
+Remove the power cord from the lid's pocket and plug it into an outlet. The screen will automatically boot up.
 
-![](../../.gitbook/assets/vxscan\_connected\_power.jpg)
+![](<../../.gitbook/assets/image (156).png>)
 
-Rotate the screen upward so it is facing forward:
+Lift the screen up so it is facing forward.\
 
-![](../../.gitbook/assets/IMG\_5046.jpeg)
 
-Press the power button on the back of the screen:
-
-![](../../.gitbook/assets/IMG\_4998.jpg)
-
-The scanner will begin to boot up:
-
-![](../../.gitbook/assets/IMG\_5044.jpeg)
+![](<../../.gitbook/assets/image (114).png>)
 
 ### Attaching the Tray
 
@@ -42,13 +37,9 @@ VxScan uses an attachable tray to make it easier for voters to insert their ball
 
 ![](../../.gitbook/assets/IMG\_5053.jpeg)
 
-Open the front flap. If it is sealed, break the seal and record the seal number in the **Equipment Seals Log. **Push the flap down so it stays flat against the front of the scanner:&#x20;
+Open the front flap. Push the flap down so it stays flat against the front of the scanner. The tray attaches via posts and magnets. With both hands, align the tray so that the plastic posts fit into the sides of the ballot opening until you feel the magnets snap in place.&#x20;
 
-![](../../.gitbook/assets/IMG\_5054.jpeg)
-
-The tray attaches via screws. With both hands, align the tray so that the plastic nobs fit into the sides of the ballot opening and the screws fit into the screw holes. Tighten the screws until the the tray is tight against the ballot opening and you feel some resistance:
-
-![](../../.gitbook/assets/IMG\_5055.jpeg)
+![](<../../.gitbook/assets/image (183).png>)
 
 ### Securing the Ballot Bag
 

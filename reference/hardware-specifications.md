@@ -11,7 +11,7 @@ VxAdmin and VxMark print ballots with **HP LaserJet Pro Printers**. They are bus
 | VxMark  | HP m404n      | No     | No    | [User Guide](http://h10032.www1.hp.com/ctg/Manual/c06177490.pdf), [Datasheet](https://h20195.www2.hp.com/v2/getpdf.aspx/4aa7-4860enuc.pdf) |
 | VxAdmin | HP m404dn     | Yes    | No    | [User Guide](http://h10032.www1.hp.com/ctg/Manual/c06177490.pdf), [Datasheet](https://h20195.www2.hp.com/v2/getpdf.aspx/4aa7-4860enuc.pdf) |
 
-VxAdmin can also be used to print in color with the **HP m454dn **printer, but due to the increased cost of toner and its bulkier size we normally recommend using the **HP m404dn**.
+VxAdmin can also be used to print in color with the **HP m454dn** printer, but due to the increased cost of toner and its bulkier size we normally recommend using the **HP m404dn**.
 
 ### Toner
 
@@ -45,21 +45,21 @@ VxScan uses the [Plustek VTM 300 ](https://plustek.com/us/products/customized-sc
 
 VotingWorks equipment uses standard laptops and tablets. Below is a list of devices currently in use in our products and links to documentation if you would like to learn more:
 
-| VotingWorks Product | Device               | Documentation                                                                                                              |
-| ------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| VxAdmin + VxBatch   | HP Elitebook 840     | [Datasheet](https://www8.hp.com/h20195/v2/getpdf.aspx/4AA7-4326EEAP.pdf)                                                   |
-| VxMark              | Lenovo Flex 14       | [Specifications](https://psref.lenovo.com/syspool/Sys/PDF/IdeaPad/Lenovo\_Flex\_6\_14IKB/Lenovo\_Flex\_6\_14IKB\_Spec.PDF) |
-| VxScan              | Microsoft Surface Go | [Specifications](https://www.microsoft.com/en-us/surface/devices/surface-go-2/tech-specs)                                  |
+| VotingWorks Product     | Device               | Documentation                                                                                                              |
+| ----------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| VxAdmin + VxCentralScan | HP Elitebook 840     | [Datasheet](https://www8.hp.com/h20195/v2/getpdf.aspx/4AA7-4326EEAP.pdf)                                                   |
+| VxMark                  | Lenovo Flex 14       | [Specifications](https://psref.lenovo.com/syspool/Sys/PDF/IdeaPad/Lenovo\_Flex\_6\_14IKB/Lenovo\_Flex\_6\_14IKB\_Spec.PDF) |
+| VxScan                  | Microsoft Surface Go | [Specifications](https://www.microsoft.com/en-us/surface/devices/surface-go-2/tech-specs)                                  |
 
 ## Hardware Dimensions
 
-| Item                    | Size (inches)      | Weight (pounds) |
-| ----------------------- | ------------------ | --------------- |
-| VxMark                  | 16.4 x 15.8 x 7.2  | 17.7            |
-| VxScan                  | 21.5 x 13.4 x 15.5 | 26.7            |
-| VxAdmin + VxBatch Case  | 16.4 x 15.8 x 7.2  | 22.1            |
-| HP m404n Printer        | 8.5 x 14.1 x 15    | 18.1            |
-| HP m404dn Printer       | 8.5 x 14.1 x 15    | 18.9            |
-| Fujitsu fi-7160 Scanner | 17.7 x 9.5 x 11.2  | 9.3             |
-| HP Elitebook 840        | 9.3 x 13.3 x 0.7   | 3.3             |
+| Item                         | Size (inches)      | Weight (pounds) |
+| ---------------------------- | ------------------ | --------------- |
+| VxMark                       | 16.4 x 15.8 x 7.2  | 17.7            |
+| VxScan                       | 21.5 x 13.4 x 15.5 | 26.7            |
+| VxAdmin + VxCentralScan Case | 16.4 x 15.8 x 7.2  | 22.1            |
+| HP m404n Printer             | 8.5 x 14.1 x 15    | 18.1            |
+| HP m404dn Printer            | 8.5 x 14.1 x 15    | 18.9            |
+| Fujitsu fi-7160 Scanner      | 17.7 x 9.5 x 11.2  | 9.3             |
+| HP Elitebook 840             | 9.3 x 13.3 x 0.7   | 3.3             |
 

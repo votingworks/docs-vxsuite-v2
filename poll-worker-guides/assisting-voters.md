@@ -4,15 +4,15 @@
 
 VxScan is ready to accept a new ballot whenever it displays **Insert Your Ballot Below:**
 
-![](<../.gitbook/assets/Screenshot from 2021-10-14 15-02-07.png>)
+![](<../.gitbook/assets/image (105).png>)
 
 A voter can then push their ballot onto the tray and into the scanner. When a ballot is properly inserted, the scanner will grip onto the ballot. If a ballot is inserted at an angle, the scanner may push the ballot back into the voter's hands without scanning, in which case all the voter needs to do is re-insert their ballot. VxScan will then scan the ballot by pulling it inward, and show the following screen:
 
-![](<../.gitbook/assets/Screenshot from 2021-10-14 15-05-01.png>)
+![](<../.gitbook/assets/image (173).png>)
 
 If the ballot has no errors, the ballot will go into the ballot bag and the screen will show that the ballot has been accepted:
 
-![](<../.gitbook/assets/Screenshot from 2021-06-08 15-25-10.png>)
+![](<../.gitbook/assets/image (217).png>)
 
 After a few moments, VxScan will return to the "Insert Your Ballot Below" screen in preparation for the next voter. &#x20;
 
@@ -46,11 +46,11 @@ The voter can then remove their ballot in order to re-mark it or obtain a new ba
 
 If a voter chooses to use the accessible ballot-marking device, you'll need to use your Poll Worker card to activate the appropriate ballot. The screen will initially display the following:
 
-![](<../.gitbook/assets/Screenshot from 2021-10-18 17-05-10.png>)
+![](<../.gitbook/assets/image (174).png>)
 
-Insert the Poll Worker card to open the Poll Worker screen, which will display all available ballot styles for this precinct under the **Choose Ballot Style **heading:
+Insert the Poll Worker card to open the Poll Worker screen, which will display all available ballot styles for this precinct under the **Choose Ballot Style** heading:
 
-![](../.gitbook/assets/choose\_ballot\_style.jpg)
+![](<../.gitbook/assets/image (186).png>)
 
 Tap the desired ballot style, and the screen changes to indicate that the VxMark has been activated with that ballot style:
 
@@ -58,19 +58,19 @@ Tap the desired ballot style, and the screen changes to indicate that the VxMark
 
 Remove the Poll Worker card and let the voter know they can begin voting by tapping the Start Voting button:
 
-![](../.gitbook/assets/start\_voting\_red.jpg)
+![](<../.gitbook/assets/image (176).png>)
 
 ### Voting Instructions
 
 The voter will be presented with one contest at a time. They will make a selection by tapping on their choice:
 
-![](<../.gitbook/assets/Parallels Picture 41.png>)
+![](<../.gitbook/assets/image (96).png>)
 
 The voter moves to the next contest by tapping the `Next` button. They can skip a contest by moving to the `Next` without making a selection.  To return to a previous contest, they can tap the `Back` button.
 
-After working through all contests, a **Review Your Votes **screen appears that allows the voter to change any of their selections:
+After working through all contests, a **Review Your Votes** screen appears that allows the voter to change any of their selections:
 
-![](<../.gitbook/assets/Parallels Picture 43.png>)
+![](<../.gitbook/assets/image (134).png>)
 
 When done reviewing, the voter taps `I'm Ready to Print My Ballot` . The ballot should then begin printing. Once it's done printing, the screen will display instructions for the voter to cast their ballot:
 

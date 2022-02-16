@@ -4,19 +4,19 @@
 
 To close the polls on VxScan, a poll worker must insert their Poll Worker card into the card reader. The card must be facing away from the screen.&#x20;
 
-![](../../.gitbook/assets/Close\_Polls\_Button.jpg)
+![](<../../.gitbook/assets/image (99).png>)
 
 On the Poll Worker screen that appears, tap `Close Polls for [Precinct Name]`. Then confirm `Save Report and Close Polls`:
 
-![](<../../.gitbook/assets/Screenshot from 2021-10-14 15-08-18.png>)
+![](<../../.gitbook/assets/image (144).png>)
 
-A **Polls Closed Report** is saved to the Poll Worker card which includes the number of ballots scanned and the tabulated results of those ballots.&#x20;
+A **Close Polls Report** is saved to the Poll Worker card which includes the number of ballots scanned and the tabulated results of those ballots.&#x20;
 
-### Printing the Polls Closed Report
+### Printing the Close Polls Report
 
 To print the report, insert the Poll Worker card into a VxMark and tap `Print Tally Report`:&#x20;
 
-![](<../../.gitbook/assets/Screenshot from 2021-10-14 15-25-51.png>)
+![](<../../.gitbook/assets/image (102).png>)
 
 Two copies of the report will now print from the VxMark's printer in the following format:
 
@@ -40,4 +40,4 @@ Simply by visiting the website, you are reporting the results. The QR code repre
 
 You need to separately close the polls on VxMark. With the Poll Worker card inserted, tap `Close Polls for [precinct name]`:
 
-![](../../.gitbook/assets/close\_polls\_vxmark.jpg)
+![](<../../.gitbook/assets/image (201).png>)

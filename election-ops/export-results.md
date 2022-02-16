@@ -12,7 +12,7 @@ description: >-
 If you are using TSX machines alongside VotingWorks for absentee ballots, you must first import the results from GEMS. Read the [Import GEMS Results](export-results.md#appendix-import-gems-results) appendix and then return here.
 {% endhint %}
 
-To export SEMS results, scroll to the **Export Options **section and click `Save Results File`:
+To export SEMS results, scroll to the **Export Options** section and click `Save Results File`:
 
 ![](<../.gitbook/assets/image (80).png>)
 
@@ -40,10 +40,10 @@ First, you will need to save your in-precinct TSX results files from GEMS to a U
 
 Next, you will load the results file you got from the GEMS server into the VotingWorks tabulation screen . This is done by selecting `Import External Results File`:
 
-![](<../.gitbook/assets/image (82).png>)
+![](<../.gitbook/assets/image (181).png>)
 
 Navigate the files on the USB Drive to find and select the GEMS results file. It should load alongside your CVR file.
 
 At that point, the "Unofficial Full Election Tally Report" will show the combined VotingWorks and GEMS results:
 
-![](<../.gitbook/assets/image (81).png>)
+![](<../.gitbook/assets/image (147).png>)

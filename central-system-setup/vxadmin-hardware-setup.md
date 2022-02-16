@@ -6,18 +6,19 @@
 
 ![VxAdmin Laptop and Printer](../.gitbook/assets/election\_manager\_2.jpg)
 
-VotingWorks also provides the USB flash drives, cords, adapters, and programmable smart cards to operate the system. Besides the printer, all equipment is stored in an **Orange Apache 4800 Case**, which also contains the [VxBatch laptop](vxbatch-hardware-setup.md).
+VotingWorks also provides the USB flash drives, cords, adapters, and programmable smart cards to operate the system. Besides the printer, all equipment is stored in an **Orange Apache 4800 Case**, which also contains the [VxCentralScan laptop](vxcentralscan-hardware-setup.md).
 
-![Case containing VxAdmin, VxBatch, and small peripherals](<../.gitbook/assets/image (16).png>)
+![Case containing VxAdmin, VxCentralScan, and small peripherals](<../.gitbook/assets/image (16).png>)
 
 ## Hardware Setup
 
-1. **Unbox Laptop: **remove laptop from case and plug in the included charger to laptop and outlet.
-2. **Unbox Printer: **remove printer from box and plug in the included power cord to printer and outlet.
-3. **Connect Laptop to Printer: **use provided USB cable to connect printer to laptop.
-4. **Turn on Laptop: **turn on laptop using the **power button in the top-left of keyboard.**
-5. **Turn on Printer: **turn on printer using the **power button on the front right** and follow any on-screen instructions.
-6. **Load Paper: **load [compatible paper](vxadmin-hardware-setup.md#recommended-and-compatible-paper) into the printer.
+1. **Unbox Laptop:** remove laptop from case and plug in the included power cord to laptop and outlet.
+2. **Unbox Printer:** remove printer from box and plug in the included power cord to printer and outlet.
+3. **Connect Laptop to Printer:** use provided USB cable to connect printer to laptop.
+4. **Unbox Card Reader:** remove a card reader from the box and plug into the laptop.
+5. **Turn on Laptop:** turn on laptop using the **power button in the top-left of keyboard.**
+6. **Turn on Printer:** turn on printer using the **power button on the front right** and follow any on-screen instructions.
+7. **Load Paper:** load [compatible paper](vxadmin-hardware-setup.md#recommended-and-compatible-paper) into the printer.
 
 ## Recommended and Compatible Paper
 
@@ -42,10 +43,10 @@ The first time a printer is used or if it is ever reset, it must be configured b
 
 Print a "Cleaning Page." In order to do so, navigate through the following options on the printer LCD screen:
 
-1. **Setup**
-2. **Printer Maintenance**
-3. **Print Quality Tools**
-4. **Cleaning Page**
+1. Setup
+2. Printer Maintenance
+3. Print Quality Tools
+4. Cleaning Page
 
 Printing the cleaning page will usually clear the printer's rollers of stray ink that is causing print issues.&#x20;
 

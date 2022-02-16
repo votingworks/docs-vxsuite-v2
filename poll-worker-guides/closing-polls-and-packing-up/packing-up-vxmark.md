@@ -21,7 +21,7 @@ The privacy shield will be stored back behind the top foam layer. Set the top fo
 #### Pack Cables
 
 1. Unplug the power block from the outlet and place in the top-left compartment, with prongs facing up as shown below
-2. Place the accessible controller in the bottom-left compartment, the the buttons facing outward
+2. Place the accessible controller in the bottom-left compartment, with the buttons facing outward
 3. Unplug the printer cable from the printer and place inside case
 
 ![Packed Power Block](../../.gitbook/assets/IMG\_5156.jpeg) ![Packed Accessibility Controller](../../.gitbook/assets/IMG\_5153.jpeg)
