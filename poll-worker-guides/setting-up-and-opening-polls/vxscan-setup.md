@@ -6,7 +6,7 @@ VxScan consists of two rigid tamper-evident bags - an inner ballot bag and an ou
 
 For transport, the ballot bag is normally placed inside the scanner bag. It may be rolled like a suitcase:
 
-![](../../.gitbook/assets/transport\_smaller.jpg)
+![](../../.gitbook/assets/PXL\_20220216\_011608780.PORTRAIT.jpg)
 
 ### Opening the Outer Bag
 
@@ -17,8 +17,6 @@ Begin by placing the VxScan on a table. Break the seal and record the seal numbe
 Unzip the top compartment.
 
 ![](<../../.gitbook/assets/image (104).png>)
-
-![](../../.gitbook/assets/just\_open\_vxscan.jpg)
 
 ### Powering On
 
@@ -33,9 +31,7 @@ Lift the screen up so it is facing forward.\
 
 ### Attaching the Tray
 
-VxScan uses an attachable tray to make it easier for voters to insert their ballots. The tray is typically on top of the scanner bag for transport, as in the pictures above. Remove the tray and set it beside the scanner:
-
-![](../../.gitbook/assets/IMG\_5053.jpeg)
+VxScan uses an attachable tray to make it easier for voters to insert their ballots. The tray is typically on top of the scanner bag for transport, as in the pictures above.
 
 Open the front flap. Push the flap down so it stays flat against the front of the scanner. The tray attaches via posts and magnets. With both hands, align the tray so that the plastic posts fit into the sides of the ballot opening until you feel the magnets snap in place.&#x20;
 
