@@ -2,7 +2,11 @@
 
 ### Unlocking
 
-VxAdmin and VxCentralScan require users to use an Admin Card and a Security Code to login. For both machines, the following screen is displayed when the machine is locked:
+VxAdmin and VxCentralScan require users to use an Admin Card and a Security Code to login. Both machines are provided with a smart card reader as shown below.
+
+![](../.gitbook/assets/PXL\_20220216\_010856279.PORTRAIT.jpg)
+
+For both machines, the following screen is displayed when the machine is locked:
 
 ![](<../.gitbook/assets/image (149).png>)
 
