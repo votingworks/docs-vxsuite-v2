@@ -27,7 +27,7 @@ In **VxAdmin**, upload the new CVR file. Click Import CVR Files.
 
 Select Import for the CVR file you want to import.
 
-![](<../.gitbook/assets/image (85).png>)
+![](<../.gitbook/assets/image (85) (1).png>)
 
 ## Export Results
 

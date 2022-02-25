@@ -12,6 +12,18 @@ On the Poll Worker screen that appears, tap `Close Polls for [Precinct Name]`. T
 
 A **Close Polls Report** is saved to the Poll Worker card which includes the number of ballots scanned and the tabulated results of those ballots.&#x20;
 
+Next, save the results to the USB Drive by tapping the `Export Results to USB` button.
+
+![](<../../.gitbook/assets/image (216).png>)
+
+If there is no USB drive detected, VxScan will prompt you to insert a USB drive. When a USB drive is detected, there will be a pop-up with options to save the results. Tap `Export`.
+
+![](<../../.gitbook/assets/image (85).png>)
+
+The results will then be saved onto the USB drive. Finally, you will be prompted to safely eject the USB before removing it:
+
+![](<../../.gitbook/assets/image (187).png>)
+
 ### Printing the Close Polls Report
 
 To print the report, insert the Poll Worker card into a VxMark and tap `Print Tally Report`:&#x20;

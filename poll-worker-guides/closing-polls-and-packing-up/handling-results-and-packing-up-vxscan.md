@@ -1,19 +1,5 @@
 # Handling Results and Packing Up VxScan
 
-### Exporting Results
-
-Insert the Poll Worker card into the VxScan card reader (behind the screen) to bring up the Poll Worker menu. Then tap the `Export Results to USB` button:
-
-![](<../../.gitbook/assets/image (216).png>)
-
-If there is no USB drive detected, VxScan will prompt you to insert a USB drive. When a USB drive is detected, there will be a pop-up with options to save the results. Choose the default `Export` option:
-
-![](<../../.gitbook/assets/Screenshot from 2021-10-14 15-09-18.png>)
-
-The results will then be saved onto the USB drive. Finally, you will be prompted to safely eject the USB before removing it:
-
-![](<../../.gitbook/assets/image (187).png>)
-
 ### Sealing the Ballot Bag
 
 Before you can remove the USB drive that contains results, you will need to remove the ballot bag. Begin by breaking the seals securing the ballot bag:
