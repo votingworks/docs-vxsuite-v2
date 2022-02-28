@@ -61,6 +61,9 @@
 * [ ] Insert Poll Worker Card into VxScan
 * [ ] Tap _Close Polls for \[precinct name]_
 * [ ] Tap _Save Report and Close Polls_
+* [ ] Tap _Export Results to USB_
+* [ ] Tap _Export_
+* [ ] Tap _Eject USB_
 * [ ] Insert Poll Worker Card into VxMark
 * [ ] Tap _Print Tally Report -_ 2 copies will print, each 3 pages
 * [ ] Open the QR code on page three to report election results
@@ -70,12 +73,8 @@
 * [ ] Retain and/or display the _Tally Report_ as instructed by your election administrator
 * [ ] Tap _Close Polls for \[precinct name]_
 
-### [Handle Results](closing-polls-and-packing-up/handling-results-and-packing-up-vxscan.md)
+### [Securing Results](closing-polls-and-packing-up/securing-results-and-packing-up-vxscan.md)&#x20;
 
-* [ ] Insert Poll Worker Card into VxScan
-* [ ] Tap _Export Results to USB_
-* [ ] Tap _Export_
-* [ ] Tap _Eject USB_
 * [ ] Remove ballot bag securing seals (x2)
 * [ ] Document ballot bag securing seal numbers (x2)
 * [ ] Remove ballot bag
@@ -85,10 +84,11 @@
 * [ ] Open metal enclosure
 * [ ] Remove USB drive
 * [ ] Close metal enclosure
+* [ ] Secure USB drive as instructed by your election administrator
 
 ### Packing Up Equipment
 
-* [ ] [VxScan](closing-polls-and-packing-up/handling-results-and-packing-up-vxscan.md#cleaning-up)
+* [ ] [VxScan](closing-polls-and-packing-up/securing-results-and-packing-up-vxscan.md#cleaning-up)
   * [ ] Turn off
   * [ ] Lower screen
   * [ ] Unplug power cord and place in lid pocket
@@ -102,9 +102,9 @@
     * [ ] Disconnect from power
     * [ ] Place printer into box
     * [ ] Place cord into box
-  * [ ] Turn off
+  * [ ] Turn off VxMark
   * [ ] Power adapter: return to case, top-left
-  * [ ] Printer cable: disconnect from printer
+  * [ ] Printer cable: return to case, middle-right
   * [ ] Accessible controller: return to case, bottom-left
   * [ ] Headphones: return to pouch, place atop screen
   * [ ] All cables: neatly within case
