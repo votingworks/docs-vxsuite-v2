@@ -45,7 +45,7 @@
 * [Assisting Voters](poll-worker-guides/assisting-voters.md)
 * [Closing Polls and Packing Up](poll-worker-guides/closing-polls-and-packing-up/README.md)
   * [Closing Polls](poll-worker-guides/closing-polls-and-packing-up/closing-polls.md)
-  * [Securing Results and Packing Up VxScan](poll-worker-guides/closing-polls-and-packing-up/securing-results-and-packing-up-vxscan.md)
+  * [Securing Results and Packing Up VxScan](poll-worker-guides/closing-polls-and-packing-up/handling-results-and-packing-up-vxscan.md)
   * [Packing Up VxMark](poll-worker-guides/closing-polls-and-packing-up/packing-up-vxmark.md)
 
 ## Election Night Admin Guides <a href="#election-ops" id="election-ops"></a>

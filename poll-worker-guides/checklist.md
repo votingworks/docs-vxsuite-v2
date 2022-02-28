@@ -22,7 +22,6 @@
   * [ ] Plug headphones into accessible controller
   * [ ] Set up privacy shield
   * [ ] Turn on (screen shows "Polls Closed")
-* [ ] Poll worker cards ready
 
 ### [Open Polls](setting-up-and-opening-polls/opening-polls.md)
 
@@ -52,9 +51,7 @@
 
 * [ ] Instruct the voter to insert their ballot in any orientation
 * [ ] _If ballot scans successfully_, let the voter know their vote has been cast
-*   [ ] _If ballot does not scan successfully,_ help the voter understand the issues with their ballot specified on the screen. Let them know their options which, depending on the issue, may include casting their ballot despite issues, adding marks to their ballot, or receiving a new ballot
-
-
+* [ ] _If ballot does not scan successfully,_ help the voter understand the issues with their ballot specified on the screen. Let them know their options which, depending on the issue, may include casting their ballot despite issues, adding marks to their ballot, or receiving a new ballot
 
 ### [Close Polls](checklist.md#close-polls)
 
@@ -73,7 +70,7 @@
 * [ ] Retain and/or display the _Tally Report_ as instructed by your election administrator
 * [ ] Tap _Close Polls for \[precinct name]_
 
-### [Securing Results](closing-polls-and-packing-up/securing-results-and-packing-up-vxscan.md)&#x20;
+### [Securing Results](closing-polls-and-packing-up/handling-results-and-packing-up-vxscan.md)&#x20;
 
 * [ ] Remove ballot bag securing seals (x2)
 * [ ] Document ballot bag securing seal numbers (x2)
@@ -88,7 +85,7 @@
 
 ### Packing Up Equipment
 
-* [ ] [VxScan](closing-polls-and-packing-up/securing-results-and-packing-up-vxscan.md#cleaning-up)
+* [ ] [VxScan](closing-polls-and-packing-up/handling-results-and-packing-up-vxscan.md#cleaning-up)
   * [ ] Turn off
   * [ ] Lower screen
   * [ ] Unplug power cord and place in lid pocket

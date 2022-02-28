@@ -1,4 +1,4 @@
-# Handling Results and Packing Up VxScan
+# Securing Results and Packing Up VxScan
 
 ### Sealing the Ballot Bag
 
