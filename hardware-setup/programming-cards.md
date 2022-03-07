@@ -52,7 +52,7 @@ Under the `Card` tab in VxAdmin, select `Encode Admin Card`:
 
 Create a Security Code for the card and click Create Card.
 
-![](<../.gitbook/assets/image (118).png>)
+![](<../.gitbook/assets/image (118) (1).png>)
 
 Programming an Admin Card will take several seconds during which the lights on the card reader will flash and the screen will show the following:
 

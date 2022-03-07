@@ -8,7 +8,7 @@ To close the polls on VxScan, a poll worker must insert their Poll Worker card i
 
 On the Poll Worker screen that appears, tap `Close Polls for [Precinct Name]`. Then confirm `Save Report and Close Polls`:
 
-![](<../../.gitbook/assets/image (144).png>)
+![](<../../.gitbook/assets/image (144) (1).png>)
 
 A **Close Polls Report** is saved to the Poll Worker card which includes the number of ballots scanned and the tabulated results of those ballots.&#x20;
 

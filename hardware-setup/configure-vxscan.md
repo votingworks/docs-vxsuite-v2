@@ -19,7 +19,7 @@ An unconfigured machine will prompt you to insert a USB drive with the election'
 
 After you insert the USB drive, VxScan will begin loading all ballot styles for the election:
 
-![](<../.gitbook/assets/image (120).png>)
+![](<../.gitbook/assets/image (120) (1).png>)
 
 If the USB drive contains multiple ballot packages, VxScan will use the most recent.
 
@@ -41,13 +41,13 @@ Select a precinct in the dropdown list:&#x20;
 
 Your chosen precinct will appear on the precinct button and in the lower left-hand corner of the screen:
 
-![](<../.gitbook/assets/image (139).png>)
+![](<../.gitbook/assets/image (139) (1).png>)
 
 ## Setting Mode
 
 Use the toggle button to switch between **Testing Mode** and **Live Election Mode**. You will want to put the machine in **Testing Mode** before Logic and Accuracy Testing and return it to **Live Election Mode** at the very end of Logic and Accuracy Testing.&#x20;
 
-![](<../.gitbook/assets/image (119).png>)
+![](<../.gitbook/assets/image (119) (1).png>)
 
 ## Calibrating the Scanner
 

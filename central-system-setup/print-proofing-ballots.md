@@ -10,7 +10,7 @@ To proof a particular ballot, click `View Ballot` button next to the desired bal
 
 The ballot details view presents a rendered ballot, exactly as it will print, for easy proofing and functionality to print ballots on-demand:
 
-![](<../.gitbook/assets/image (162).png>)
+![](<../.gitbook/assets/image (162) (1).png>)
 
 You need to select three options before printing a ballot:
 

@@ -16,7 +16,7 @@ To unlock the machine, insert your Admin card into the attached card reader.
 
 And enter the card security code:
 
-![](<../.gitbook/assets/image (165).png>)
+![](<../.gitbook/assets/image (165) (1).png>)
 
 Remove your Admin Card.
 

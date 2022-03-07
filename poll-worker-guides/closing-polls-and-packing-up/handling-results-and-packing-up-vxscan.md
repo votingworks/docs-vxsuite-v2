@@ -11,7 +11,7 @@ After breaking the seals you can remove the ballot bag:
 ![](<../../.gitbook/assets/IMG\_5081 (1).jpeg>) ![](<../../.gitbook/assets/IMG\_5082 (1).jpeg>) ![](<../../.gitbook/assets/IMG\_5083 (1).jpeg>)
 
 Close and the front flap on the ballot bag. You may seal it by passing a seal through the zippers and the metal circle:\
-![](<../../.gitbook/assets/image (215).png>)![](<../../.gitbook/assets/image (172).png>)
+![](<../../.gitbook/assets/image (215) (1).png>)![](<../../.gitbook/assets/image (172) (1).png>)
 
 Record the seal number on the **Equipment Seals Log**.
 

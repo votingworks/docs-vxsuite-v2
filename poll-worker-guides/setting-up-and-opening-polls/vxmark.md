@@ -1,53 +1,58 @@
+---
+description: >-
+  Part of the Precinct System, the VxMark is an accessible ballot marking device
+  that gives voters the ability to mark their choices and print their ballot
+  from a touchscreen.
+---
+
 # VxMark Setup
 
-The VxMark ballot marking device gives voters the ability to mark their choices and print their ballot from a touchscreen.
+## Hardware Overview
 
-![VxMark Ballot Marking Device](../../.gitbook/assets/big\_fancy\_bmd\_pic.jpeg)
+**VxMark** is in a self-contained black case and the HP printer is inside a gray rolling case.\
 
-VxMark can be set up in just a couple of minutes. Before you start, confirm that you have the black VxMark case, its associated printer, and enough table space to comfortably fit both. &#x20;
 
-### Place Equipment on Table
+![](<../../.gitbook/assets/Vxmark with printer in case.png>)
 
-You can place the printer to the left or right of the black case:
+## VxMark Setup
 
-![](../../.gitbook/assets/IMG\_5128.jpeg)
+The **VxMark** should be setup on a different table than the **VxScan**, in a place that provides a voter using the device privacy to vote and print a ballot.\
+\
+**VxMark** can be set up through the following steps:
 
-### Set Up Printer
+1. **Unbox and setup printer**:&#x20;
+   * [ ] remove the printer and power cord from the case
+   * [ ] place the printer on the side of the table closest to the **VxScan**'s location
+   * [ ] plug the power cord into the back of the printer
+   * [ ] plug the power cord into an outlet
+   * [ ] press the power button to turn the printer on
+   * [ ] load paper into the paper tray
 
-Connect the printer to power by plugging one end of the power cable into an outlet and the other end into the back of the printer. Turn the printer on by pressing the power button on the front in the top-right corner:
+![Remove printer and power cord](<../../.gitbook/assets/printer in case.png>) ![Plug the power cord into the back of the printer and into an outlet](<../../.gitbook/assets/printer power cord.png>) ![Press the power button to turn on](<../../.gitbook/assets/printer power button.png>)
 
-![](../../.gitbook/assets/printer\_power.jpg)
+2\. **Setup VxMark:**
 
-### Unpack VxMark
+* [ ] open the case by lifting the latches on the sides and front
 
-Pop open the black case by lifting the latches on the side and front. Within the case you'll see the touchscreen and, around it, the different components of the VxMark:&#x20;
+![Open the case by lifting the latches](<../../.gitbook/assets/vxmark case latches highlighted.png>)
 
-1. **Headphones** in the travel pouch on top of the screen. Remove the pouch and set aside for now.
-2. **Accessible Controller** in the lower-left compartment. Remove it and set it beside the case to the left.
-3. **Power Adapter** in the upper-left compartment. Remove the adapter and plug it into an outlet.
-4. **Printer USB Cable** in the mid-right compartment. Connect this to the back of the printer.
-5. **Card Reader** in the lower-right compartment. Leave this alone, it stays put.
+*   [ ] prepare the components:
 
-![Packed VxMark](../../.gitbook/assets/IMG\_5180.jpg) ![Connected VxMark](<../../.gitbook/assets/IMG\_5136 (2).jpeg>)
+    * [ ] pull the **accessible controller** (a) out from the front-left compartment and set it to the left of the case
+    * [ ] remove the **headphones** (b) from the travel pouch on top of the screen and plug them into the accessible controller (a)
+    * [ ] pull the **power** **cord** (c) out from the back-left compartment and plug it into an outlet
+    * [ ] pull the **printer cable** (d) from the mid-right compartment and connect it to the back of the printer
+    * [ ] do **not** remove **** the **card reader** (e) from the front-right compartment, no action is required
 
-#### Set Up the Privacy Shield
 
-Behind the top layer of foam there is a privacy shield. Remove the privacy shield, set it up around the touchscreen, and replace the top foam. You can route the cables through the back corners of the privacy shield:
 
-![](../../.gitbook/assets/IMG\_5137.jpeg) ![](../../.gitbook/assets/IMG\_5138.jpeg)
+![Prepare components](<../../.gitbook/assets/components .png>) ![Plug headphones into accessible controller](<../../.gitbook/assets/accessible controller.png>)
 
-#### Plug in the Headphones
+* [ ] turn the VxMark on: the power button is located to the middle-right of the screen, next to the printer cord. Run your finger along the side of the screen and press the power button firmly for 1 second and then release. The card reader and accessible controller will light up within 3-5 seconds.
+* [ ] remove the privacy screen from the case top (behind the foam)
+* [ ] set up the privacy screen
+* [ ] store the empty headphone pouch behind the privacy screen
 
-Remove the headphones and plug them into the audio outlet on the accessible controller:
+![Turn the VxMark on with the power button](<../../.gitbook/assets/power button.png>) ![Remove the privacy screen](<../../.gitbook/assets/privacy screen.png>) ![Set up the privacy screen](<../../.gitbook/assets/privacy sleeve on.png>)
 
-![](../../.gitbook/assets/IMG\_5141.jpeg)
-
-You can place the empty travel pouch behind the privacy shield.
-
-### Turning On VxMark
-
-The power button is located in the middle-right compartment next to the printer cable. To find it, run your finger along the side of the screen. Press the power button firmly for 1 second and then release. You should see the card reader and accessible controller light up within 3-5 seconds:
-
-![Power Button Location](../../.gitbook/assets/IMG\_5143.jpeg) ![Turned On VxMark](../../.gitbook/assets/IMG\_5147.jpeg)
-
-You are done setting up the VxMark and are ready, when necessary, to open the polls and print the polls opened report.
+VxMark hardware setup is complete.&#x20;

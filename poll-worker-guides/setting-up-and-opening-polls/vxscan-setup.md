@@ -1,56 +1,46 @@
+---
+description: >-
+  Part of the Precinct System, the VxScan scans, stores, and tabulates ballots
+  hand marked by voters or ballots printed by voters via the VxMark.
+---
+
 # VxScan Setup
 
-VxScan consists of two rigid tamper-evident bags - an inner ballot bag and an outer bag containing the ballot bag and the scanning technology:
+## Hardware Overview
 
-![](<../../.gitbook/assets/image (206).png>)
+**VxScan** is in a tamper-evident blue container that may be rolled like a suitcase. Inside is an additional tamper-evident blue container used to store scanned ballots.
 
-For transport, the ballot bag is normally placed inside the scanner bag. It may be rolled like a suitcase:
-
-![](../../.gitbook/assets/PXL\_20220216\_011608780.PORTRAIT.jpg)
-
-### Opening the Outer Bag
-
-Begin by placing the VxScan on a table. Break the seal and record the seal number in the **Equipment Seals Log.**
-
-![](<../../.gitbook/assets/image (204).png>)
-
-Unzip the top compartment.
-
-![](<../../.gitbook/assets/image (104).png>)
-
-### Powering On
-
-Remove the power cord from the lid's pocket and plug it into an outlet. The screen will automatically boot up.
-
-![](<../../.gitbook/assets/image (156).png>)
-
-Lift the screen up so it is facing forward.\
+![](<../../.gitbook/assets/precinct scanner rolling.png>) ![](<../../.gitbook/assets/precinct scanner ballot box outside (1).png>)
 
 
-![](<../../.gitbook/assets/image (114).png>)
 
-### Attaching the Tray
+## VxScan Setup
 
-VxScan uses an attachable tray to make it easier for voters to insert their ballots. The tray is typically on top of the scanner bag for transport, as in the pictures above.
+The **VxScan** should be setup on it's own table and the table should be located somewhere between the privacy booths and the exit to the polling place.\
+\
+**VxScan** can be set up through the following steps:
 
-Open the front flap. Push the flap down so it stays flat against the front of the scanner. The tray attaches via posts and magnets. With both hands, align the tray so that the plastic posts fit into the sides of the ballot opening until you feel the magnets snap in place.&#x20;
+1. **Open the container and plug it in:**
+   * [ ] break the seal and record the seal number in the **Equipment Seals Log**
+   * [ ] unzip the top compartment
+   * [ ] remove the power cord from the lid pocket and plug it into an outlet
 
-![](<../../.gitbook/assets/image (183).png>)
+![Break the seal](<../../.gitbook/assets/vxscan with seal highlighted (1).png>) ![Unzip the top compartment](<../../.gitbook/assets/vxscan top open.png>) ![Plug in the power cord](<../../.gitbook/assets/vxscan cord.png>)
 
-### Securing the Ballot Bag
+2\. **Prepare the scanner:**
+
+* [ ] lift the screen up so it is facing forward
+* [ ] open the front flap and secure it to the velcro at the bottom of the container
+* [ ] attach the tray by inserting the posts until you feel the magnets snap in place
+
+![Lift the screen up](<../../.gitbook/assets/vxscan screen up.png>) ![Attach the tray](<../../.gitbook/assets/vxscan tray posts highlighted (1).png>)
+
+3\. **Ensure ballot bag is sealed into the scanner with one seal on each latch.**
+
+![](<../../.gitbook/assets/image (165).png>)
 
 {% hint style="warning" %}
-Your jurisdiction may secure the ballot bag before the equipment reaches the precinct. In that case, your ballot bag will already be sealed as in the picture below and you are already done with setup.&#x20;
+If the ballot bag is not secured, contact your election administrator for further instruction.&#x20;
 {% endhint %}
 
-![](../../.gitbook/assets/IMG\_5073.jpeg)
-
-In order to secure the ballot bag in place as pictured above:
-
-1. Remove the ballot bag from the outer bag
-2. Open the front flap of the ballot bag
-3. Put the ballot bag back into the outer bag
-4. Place the metal ovals of the outer bag over the metal loops
-5. Secure with two seals, one on each side
-
-![](../../.gitbook/assets/IMG\_5107.jpeg) ![](../../.gitbook/assets/IMG\_5108.jpeg)
+VxScan hardware setup is complete.

@@ -26,7 +26,7 @@ When loading is complete, VxCentralScan prompts you to eject the USB drive. You 
 
 Then, the main VxCentralScan screen is shown. The screen will state that `No ballots have been scanned.` Election summary information (name, date, county, etc.) will be shown at the bottom of the screen.
 
-![](<../.gitbook/assets/image (124).png>)
+![](<../.gitbook/assets/image (200).png>)
 
 VxCentralScan is now ready for scanning! To learn how to scan ballots with VxCentralScan, please reference our central scanning guide:
 

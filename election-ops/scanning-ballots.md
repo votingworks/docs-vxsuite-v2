@@ -6,7 +6,7 @@ VxCentralScan is a central scanning solution that allows you to quickly scan lar
 
 Before scanning the first ballot batch, confirm that VxCentralScan displays `No ballots have been scanned` and that the scanner display shows no scans. If otherwise, you should select the `Delete Ballot Data` option under the `Admin` menu.
 
-![](<../.gitbook/assets/image (193).png>)
+![](<../.gitbook/assets/image (193) (1).png>)
 
 To load a ballot batch, place a stack of ballots into the feeder tray of the scanner connected to VxCentralScan. VotingWorks recommends scanning no more than 50 ballot sheets per batch. The ballots need to be in a neat stack, unfolded and lying flat, but ballots can be in any orientation (e.g. upside down or backwards is fine).
 

@@ -14,7 +14,7 @@ Tap `View Test Ballot Decks`, which then shows you a list of Test Ballot Decks.
 
 You can select `All Precincts` or choose a precinct, which then leads to the following screen.
 
-![](<../.gitbook/assets/image (211).png>)
+![](<../.gitbook/assets/image (211) (1).png>)
 
 The number of ballots depends on your number of precincts and ballot styles. Tap `Print ... ballots` and the test deck will then print. Depending on your number of ballots, this may take a few minutes.
 

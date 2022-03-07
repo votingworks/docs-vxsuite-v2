@@ -34,7 +34,7 @@ When printed, you can set aside the results report until test deck tabulation.
 
 Before scanning the test deck, you'll first confirm that the Election Manager does not have any ballot results loaded by visiting the `Tally` tab. In this view, you'll be presented a **Ballot Count by Precinct** report which should read `0` for all precincts and the Total Ballot Count. To print a confirmed zero report, click `View Unofficial Full Election Tally` and then the green `Print Report` button in the subsequent screen:
 
-![](<../.gitbook/assets/image (199).png>)
+![](<../.gitbook/assets/image (199) (1).png>)
 
 ![](<../.gitbook/assets/image (125).png>)
 

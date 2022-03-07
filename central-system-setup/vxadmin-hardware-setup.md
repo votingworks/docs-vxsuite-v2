@@ -1,24 +1,47 @@
+---
+description: >-
+  Part of the Central System, VxAdmin is used by local election officials to
+  program elections, print ballots, and tabulate results on election night.
+---
+
 # VxAdmin Hardware Setup
 
 ## Hardware Overview
 
-**VxAdmin** consists of a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software and an HP printer:
+**VxAdmin** is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software and an HP printer. All USB flash drives, cords, adapters, and programmable smart cards needed to operate the system are included and stored in orange cases.
 
-![VxAdmin Laptop and Printer](../.gitbook/assets/election\_manager\_2.jpg)
+![](<../.gitbook/assets/VxAdmin case.png>) ![](<../.gitbook/assets/VxAdmin unpacked.png>)
 
-VotingWorks also provides the USB flash drives, cords, adapters, and programmable smart cards to operate the system. Besides the printer, all equipment is stored in an **Orange Apache 4800 Case**, which also contains the [VxCentralScan laptop](vxcentralscan-hardware-setup.md).
+## **VxAdmin** Setup
 
-![Case containing VxAdmin, VxCentralScan, and small peripherals](<../.gitbook/assets/image (16).png>)
+**VxAdmin** can be set up through the following steps:
 
-## Hardware Setup
+1. **Unbox and Setup Printer**:&#x20;
+   * [ ] remove the printer and power cord from the case
+   * [ ] plug the power cord into the back of the printer
+   * [ ] plug the power cord into an outlet
+   * [ ] press the power button to turn the printer on
+   * [ ] load paper into the paper tray
 
-1. **Unbox Laptop:** remove laptop from case and plug in the included power cord to laptop and outlet.
-2. **Unbox Printer:** remove printer from box and plug in the included power cord to printer and outlet.
-3. **Connect Laptop to Printer:** use provided USB cable to connect printer to laptop.
-4. **Unbox Card Reader:** remove a card reader from the box and plug into the laptop.
-5. **Turn on Laptop:** turn on laptop using the **power button in the top-left of keyboard.**
-6. **Turn on Printer:** turn on printer using the **power button on the front right** and follow any on-screen instructions.
-7. **Load Paper:** load [compatible paper](vxadmin-hardware-setup.md#recommended-and-compatible-paper) into the printer.
+![Remove printer and power cord](<../.gitbook/assets/printer in case.png>) ![Plug the power cord into the back of the printer and into an outlet](<../.gitbook/assets/printer power cord.png>) ![Press the power button to turn on](<../.gitbook/assets/printer power button.png>)
+
+2\. **Setup VxAdmin laptop:**
+
+* [ ] open the case by lifting the latches on the front
+
+![Open the case by lifting the latches](<../.gitbook/assets/image (134).png>)
+
+* [ ] **prepare the components:**
+  * [ ] remove the **laptop**
+  * [ ] pull the **power cord** (a) out and plug into the laptop and an outlet
+  * [ ] pull the **USB hub** (b) out and plug into the laptop
+  * [ ] pull the **card reader** (c) out and plug into the USB hub (b)
+  * [ ] pull the **printer cord** (d) out and plug into the printer
+  * [ ] turn the laptop on
+
+![Remove laptop](<../.gitbook/assets/VxAdmin case open laptop in.png>) ![Remove components](<../.gitbook/assets/VxAdmin case open laptop removed.png>) ![Plug components in](<../.gitbook/assets/vxadmin peripherals (1).png>)
+
+VxAdmin hardware setup is complete.
 
 ## Recommended and Compatible Paper
 

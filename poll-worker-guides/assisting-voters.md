@@ -70,7 +70,7 @@ The voter moves to the next contest by tapping the `Next` button. They can skip 
 
 After working through all contests, a **Review Your Votes** screen appears that allows the voter to change any of their selections:
 
-![](<../.gitbook/assets/image (134).png>)
+![](<../.gitbook/assets/image (134) (1).png>)
 
 When done reviewing, the voter taps `I'm Ready to Print My Ballot` . The ballot should then begin printing. Once it's done printing, the screen will display instructions for the voter to cast their ballot:
 

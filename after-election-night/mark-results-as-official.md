@@ -22,6 +22,6 @@ You can print an official tally by scrolling to `View Official Full Election Tal
 
 To print, click `Print Report` in the subsequent screen.
 
-![](<../.gitbook/assets/image (163).png>)
+![](<../.gitbook/assets/image (163) (1).png>)
 
 After printing official election results, you can export and upload official election results to SEMS by following the [Export Results documentation.](https://docs.voting.works/vxpaper/election-ops/export-results)

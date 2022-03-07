@@ -18,7 +18,7 @@ All test deck scanning must be performed in test mode. To change modes, click `A
 
 Once in test mode, confirm that  `TEST MODE` is shown at the top of the screen and `No ballots have been scanned.`
 
-![](<../.gitbook/assets/image (212).png>)
+![](<../.gitbook/assets/image (212) (1).png>)
 
 ## Scan Test Deck
 
@@ -28,7 +28,7 @@ Load the stack of ballots into the feeder tray of the scanner. VotingWorks recom
 
 From Vx`CentralScan`, click `Scan New Batch`. Ballots will feed through the scanner automatically and the number of ballots scanned within each batch will progress onscreen. The batch is finished scanning when a timestamp is presented under the `Finished At` header for that particular batch. Repeat the scanning process for as many batches are necessary to finish scanning all ballots in the test deck.
 
-![](<../.gitbook/assets/image (95).png>)
+![](<../.gitbook/assets/image (95) (1).png>)
 
 Next, scan the additional test ballots created. One is blank and one should be marked with an overvote. Verify the scanner requests each [ballot be adjudicated](../election-ops/scanning-ballots.md#adjudicate-ballots) before proceeding.
 

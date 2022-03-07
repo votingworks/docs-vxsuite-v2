@@ -16,7 +16,7 @@ To open the polls, a poll worker must insert their Poll Worker card into the car
 
 Then confirm `Save Report and Open Polls`:
 
-![](<../../.gitbook/assets/image (154).png>)
+![](<../../.gitbook/assets/image (154) (1).png>)
 
 A **Open Polls Report** is saved to the Poll Worker card which should show that no ballots have been scanned. This will also serve as the precinct's **Zero Report**.&#x20;
 

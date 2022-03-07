@@ -8,7 +8,7 @@ The following should be repeated for each CVR file saved from either VxScan or V
 
 First click `Tally` to access the tally tab and then click `Import CVR Files`.&#x20;
 
-![](<../.gitbook/assets/image (202).png>)
+![](<../.gitbook/assets/image (202) (1).png>)
 
 You'll be prompted to insert the USB stick on which CVRs are stored:
 

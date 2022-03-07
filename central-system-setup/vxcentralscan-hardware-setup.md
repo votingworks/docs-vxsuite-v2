@@ -1,22 +1,49 @@
+---
+description: >-
+  Part of the Central System, VxCentralScan is used by local election officials
+  to rapidly scan ballots.
+---
+
 # VxCentralScan Hardware Setup
 
-## Hardware Overview
+### Hardware Overview
 
-**VxCentralScan** consists of a commercial off-the-shelf (COTS) laptop with VxCentralScan software pre-installed and a Fujitsu scanner:
+**VxCentralScan** is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software pre-installed and a Fujitsu scanner stored in tan cases.
 
-![VxCentralScan Laptop and Scanner](../.gitbook/assets/ballot\_scanner.jpg)
+![](<../.gitbook/assets/vxcentral in cases.png>) ![](<../.gitbook/assets/vxcentral setup.png>)
 
-The VxCentralScan laptop is stored in the same case as the [VxAdmin laptop](vxadmin-hardware-setup.md), along with necessary cables and adapters, in an **Orange** **Apache 4800 Case**.
 
-![The VxCentralScan laptop is below the VxAdmin laptop and the second layer of protective foam.](<../.gitbook/assets/image (19).png>)
 
-## Hardware Setup
+## **VxCentralScan** Setup
 
-VxCentralScan can be set up through the following steps:
+**VxCentralScan** can be set up through the following steps:
 
-1. **Unbox Laptop:** remove the laptop from the case and plug in the included power cord to the laptop and outlet.
-2. **Unbox Scanner:** remove the scanner from the box and plug in the included power cord to the scanner and outlet.
-3. **Connect Laptop to Scanner:** use the provided USB cable in the scanner box to connect the laptop to the scanner.
-4. **Unbox Card Reader:** remove a card reader from the box and plug into the laptop.
-5. **Turn on Laptop:** turn on the laptop using the **power button in the top-left of keyboard.**&#x20;
-6. **Turn on Scanner:** turn on the scanner using the **front power button**.
+1. **Unbox and Setup Scanner**:&#x20;
+   * [ ] remove the scanner and power cord from the case
+   * [ ] attach and pull out the paper feed guide tray (a)
+   * [ ] pull out the paper holder tray (b)
+   * [ ] plug the USB cord (c) into the back of the scanner and into the laptop
+   * [ ] plug the power cord (d) into the back of the scanner and into an outlet
+   * [ ] press the power button (e) to turn the scanner on
+
+![Remove scanner and power cord from case](<../.gitbook/assets/central scan not setup.png>) ![Attach and pull out paper trays](<../.gitbook/assets/central scan telesopoing.png>) ![Plug cords in](<../.gitbook/assets/central scan plug ins.png>) ![Press the power button to turn on](<../.gitbook/assets/central scan power (1).png>)
+
+
+
+2**.  Setup VxCentralScan laptop:**
+
+* [ ] open the case by lifting the latches on front
+
+![](<../.gitbook/assets/image (199).png>)
+
+* [ ] **prepare the components:**
+  * [ ] remove the **laptop**
+  * [ ] pull the **power cord** (a) out and plug into the laptop and an outlet
+  * [ ] pull the **USB hub** (b) out and plug into the laptop
+  * [ ] pull the **card reader** (c) out and plug into the USB hub (b)
+  * [ ] pull the **scanner cord** (d) out and plug into the scanner
+  * [ ] turn the laptop on
+
+![Remove laptop](<../.gitbook/assets/VxCentralScan case open laptop in.png>) ![Remove components](<../.gitbook/assets/Vxcentral scan case open laptop removed.png>) ![Plug components in](<../.gitbook/assets/vxadmin peripherals.png>)
+
+VxCentralScan hardware setup is complete.

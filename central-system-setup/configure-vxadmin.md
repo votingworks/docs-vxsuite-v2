@@ -15,7 +15,7 @@ Before creating ballots, you'll need to download two files from SEMS:
 
 When VxAdmin has not yet been configured, you'll be presented a screen prompting you to **Configure VxAdmin**.
 
-![](<../.gitbook/assets/image (184).png>)
+![](<../.gitbook/assets/image (184) (1).png>)
 
 SEMS files can be loaded to define an election in a self-service fashion. Due to frequent irregularities in SEMS data, however, many customers prefer that VotingWorks check and convert their SEMS files into a VotingWorks election definition file.
 
@@ -25,7 +25,7 @@ You must have the two election details files exported from SEMS saved to a USB d
 
 Click the `Convert from SEMS files` button to open the SEMS file conversion page:
 
-![](<../.gitbook/assets/image (200).png>)
+![](<../.gitbook/assets/image (200) (1).png>)
 
 From this view, click `SEMS main file` and select the main SEMS file which should be named `COUNTYID_DATE.txt`. Click `Open`.&#x20;
 
