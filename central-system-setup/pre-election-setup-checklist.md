@@ -1,4 +1,4 @@
-# Election Setup Checklist
+# Pre-Election Setup Checklist
 
 To prepare for an election, follow the following steps:
 
@@ -6,7 +6,7 @@ To prepare for an election, follow the following steps:
 * [ ] [Configure VxAdmin](configure-vxadmin.md)
 * [ ] Verify all election information under the Definition tab in VxAdmin
 * [ ] [Proof ballots](print-proofing-ballots.md)
-* [ ] [Create Admin Cards](programming-cards.md)
+* [ ] [Create Admin Cards](../hardware-setup/programming-cards.md)
 * [ ] [Export Ballot Package](export-ballot-package.md) - if ballots or sample ballots will be printed by a vendor or external printer
 * [ ] [Configure VxScans](../hardware-setup/configure-vxscan.md)
 * [ ] [Configure VxMarks](../hardware-setup/configuring-and-operating-vxmark.md)

@@ -67,7 +67,7 @@
 
 ### Packing Up Equipment
 
-* [ ] [VxScan](closing-polls-and-packing-up/packing-up-vxscan.md#cleaning-up)
+* [ ] [VxScan](closing-polls-and-packing-up/handling-results-and-packing-up-vxscan.md#cleaning-up)
   * [ ] Turn off
   * [ ] Lower screen
   * [ ] Unplug power cord and place in lid pocket

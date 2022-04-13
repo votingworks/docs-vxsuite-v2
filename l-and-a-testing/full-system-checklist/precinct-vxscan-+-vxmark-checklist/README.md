@@ -95,7 +95,7 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 * [ ] Seal Ballot Bag in place
   * [ ] Flap side 1
   * [ ] Flap side 2
-* [ ] Pack Up VxScan according to [Poll Worker Instructions](../../../poll-worker-guides/closing-polls-and-packing-up/packing-up-vxscan.md#cleaning-up)
+* [ ] Pack Up VxScan according to [Poll Worker Instructions](../../../poll-worker-guides/closing-polls-and-packing-up/handling-results-and-packing-up-vxscan.md#cleaning-up)
 * [ ] Zip ballot entry flap and top
 * [ ] Seal ballot entry flap and top together
 * [ ] Pack Up VxMark according to [Poll Worker Instructions](../../../poll-worker-guides/closing-polls-and-packing-up/packing-up-vxmark.md)

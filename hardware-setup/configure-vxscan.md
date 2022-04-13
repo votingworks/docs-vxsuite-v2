@@ -9,7 +9,7 @@ Before you can configure VxScan, you will have to setup the machine. You may fol
 To configure **VxScan**, you must do two things:
 
 1. [Export the ballot package](../central-system-setup/export-ballot-package.md) to a USB drive.
-2. [Encode an Admin Card](../central-system-setup/programming-cards.md#encoding-admin-cards).
+2. [Encode an Admin Card](programming-cards.md#encoding-admin-cards).
 
 ## Loading The Ballot Package
 

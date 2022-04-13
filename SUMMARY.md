@@ -5,14 +5,14 @@
 ## Central System Setup
 
 * [VxAdmin Hardware Setup](central-system-setup/vxadmin-hardware-setup.md)
-* [Election Setup Checklist](central-system-setup/election-setup-checklist.md)
+* [Pre-Election Setup Checklist](central-system-setup/pre-election-setup-checklist.md)
 * [Configure VxAdmin](central-system-setup/configure-vxadmin.md)
 * [Print & Proof Ballots](central-system-setup/print-proofing-ballots.md)
 * [Export Ballot Package](central-system-setup/export-ballot-package.md)
 * [VxCentralScan Hardware Setup](central-system-setup/vxcentralscan-hardware-setup.md)
 * [Configure VxCentralScan](central-system-setup/configure-ballot-scanner.md)
 * [Unlocking/Locking Hardware](central-system-setup/unlocking-locking-hardware.md)
-* [Smart Cards](central-system-setup/programming-cards.md)
+* [Smart Cards](hardware-setup/programming-cards.md)
 * [Setting Date & Time](central-system-setup/setting-date-and-time.md)
 
 ## Precinct System Setup <a href="#hardware-setup" id="hardware-setup"></a>
@@ -46,7 +46,7 @@
 * [Assisting Voters](poll-worker-guides/assisting-voters.md)
 * [Closing Polls and Packing Up](poll-worker-guides/closing-polls-and-packing-up/README.md)
   * [Closing Polls](poll-worker-guides/closing-polls-and-packing-up/closing-polls.md)
-  * [Packing Up VxScan](poll-worker-guides/closing-polls-and-packing-up/packing-up-vxscan.md)
+  * [Packing Up VxScan](poll-worker-guides/closing-polls-and-packing-up/handling-results-and-packing-up-vxscan.md)
   * [Packing Up VxMark](poll-worker-guides/closing-polls-and-packing-up/packing-up-vxmark.md)
 
 ## Election Night Admin Guides <a href="#election-ops" id="election-ops"></a>

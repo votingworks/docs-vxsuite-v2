@@ -1,6 +1,6 @@
 # Configure VxMark
 
-Configuring VxMark requires an Admin Card - see[ Smart Cards](../central-system-setup/programming-cards.md) for information on how to program Admin Cards for your election.
+Configuring VxMark requires an Admin Card - see[ Smart Cards](programming-cards.md) for information on how to program Admin Cards for your election.
 
 Turn the VxMark on. Device Not Configured will be displayed on the screen.
 
