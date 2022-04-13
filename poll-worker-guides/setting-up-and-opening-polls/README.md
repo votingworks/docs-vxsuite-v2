@@ -5,7 +5,7 @@ There are two main pieces of equipment that you will set up at your polling plac
 * **VxScan:** a scanner where voters will cast their ballots and precinct results will be tabulated
 * **VxMark:** an accessible ballot-marking device (a.k.a. voting machine) where voters can vote on a touchscreen and print their ballot. The VxMark's connected printer will also be used to print polls open and polls closed reports
 
-Use the following guides to set up the equipment before you need to open polls:
+Use the following guides to set up the equipment before you open polls:
 
 {% content-ref url="vxscan-setup.md" %}
 [vxscan-setup.md](vxscan-setup.md)

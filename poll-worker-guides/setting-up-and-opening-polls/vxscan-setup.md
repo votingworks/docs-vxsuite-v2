@@ -25,7 +25,7 @@ The **VxScan** should be setup on it's own table and the table should be located
    * [ ] unzip the top compartment
    * [ ] remove the power cord from the lid pocket and plug it into an outlet
 
-![Break the seal](<../../.gitbook/assets/vxscan with seal highlighted (1).png>) ![Unzip the top compartment](<../../.gitbook/assets/vxscan top open.png>) ![Plug in the power cord](<../../.gitbook/assets/vxscan cord.png>)
+![Break the seal](<../../.gitbook/assets/vxscan with seal highlighted (1) (1).png>) ![Unzip the top compartment](<../../.gitbook/assets/vxscan top open (1).png>) ![Plug in the power cord](<../../.gitbook/assets/vxscan cord.png>)
 
 2\. **Prepare the scanner:**
 

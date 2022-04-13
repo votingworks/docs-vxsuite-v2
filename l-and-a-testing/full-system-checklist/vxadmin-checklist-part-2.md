@@ -1,20 +1,20 @@
 # VxAdmin Checklist - Part 2
 
-You've already printed test decks, scanned them, and exported their results as CVR files. In this final step, we combine all the the CVR files from VxScan and VxBatch to confirm the results are correct.&#x20;
+You've already printed test decks, scanned them, and exported their results as CVR files. In this final step, we combine all the CVR files from VxScan and VxCentralScan to confirm the results are correct.&#x20;
 
 | Name | Date |
 | ---- | ---- |
 
-For **every** USB Drive:
+For **every** USB drive:
 
-* [ ] Insert USB Drive with the CVR file
-* [ ] Click `Import CVR Files` under the `Tally` tab
+* [ ] Insert USB drive with the CVR file
+* [ ] Select _`Import CVR Files`_ under the Tally tab
 * [ ] Import the CVR file
-* [ ] Eject USB Drive
+* [ ] Eject USB drive
 
 After all files are imported:
 
-* [ ] Print the `Unofficial Full Election Tally`
+* [ ] Print the _`Unofficial Full Election Tally`_
 * [ ] Confirm that the tallies are **four times** the Test Ballot Deck Tally
 * [ ] Clear CVR files
 

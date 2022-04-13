@@ -28,7 +28,7 @@ The **VxMark** should be setup on a different table than the **VxScan**, in a pl
    * [ ] press the power button to turn the printer on
    * [ ] load paper into the paper tray
 
-![Remove printer and power cord](<../../.gitbook/assets/printer in case.png>) ![Plug the power cord into the back of the printer and into an outlet](<../../.gitbook/assets/printer power cord.png>) ![Press the power button to turn on](<../../.gitbook/assets/printer power button.png>)
+![Remove printer and power cord](<../../.gitbook/assets/printer in case.png>) ![Plug the power cord into the back of the printer and into an outlet](<../../.gitbook/assets/printer power cord.png>) ![Press the power button to turn on](<../../.gitbook/assets/printer power button (1).png>)
 
 2\. **Setup VxMark:**
 

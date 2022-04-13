@@ -1,48 +1,37 @@
 # Packing Up VxMark
 
-Use these instructions to pack up the VxMark Ballot Marking Device after the polls have closed.
+Pack up **VxMark** through the following steps:
 
-### Turn Off VxMark
+1. **Unplug and store printer**:&#x20;
+   * [ ] press the power button to turn the printer off
+   * [ ] unplug the power cord from the outlet
+   * [ ] unplug the power cord from the back of the printer
+   * [ ] unplug the printer cable
+   * [ ] place the printer in the case
+   * [ ] place the power cord on top of the printer&#x20;
+   * [ ] zip the top closed
 
-The power button is located in the middle-right compartment next to the printer cable. To find it, run your finger along the side of the screen. Press the power button firmly for 1 second and then release. You should see the screen change as the machine starts to shut down.
+![Press the power button to turn off](<../../.gitbook/assets/printer power button.png>) ![Unplug cords](<../../.gitbook/assets/printer power cord (1).png>) ![Place printer and cable in case](<../../.gitbook/assets/printer in case (1).png>)
 
-### Pack Up VxMark
+****
 
-#### **Headphones**
+2\. **Store the components:**
 
-Unplug the headphones from the accessible controller. Place the headphones into the travel pouch.
+* [ ] remove the **privacy screen** and place behind the foam
+* [ ] remove the **headphones** (b) from the accessible controller (a), place them in the travel pouch, and place them on to of the screen
+* [ ] put the **accessible controller** (a) in the front-left compartment&#x20;
+* [ ] unplug the the **power** **cord** (c) from the outlet and put in the back-left compartment&#x20;
+* [ ] put the **printer cable** (d) in the mid-right compartment&#x20;
+* [ ] press and hold for 1 second the power button to turn the VxMark off (button on the mid-right side of the screen)
 
-#### Privacy Shield
+![Remove privacy screen](<../../.gitbook/assets/remove privacy screen vxmark (1).png>) ![Store components](<../../.gitbook/assets/components vxmark.png>) ![Turn VxMark off](<../../.gitbook/assets/power button vxmark (1).png>)
 
-The privacy shield will be stored back behind the top foam layer. Set the top foam aside. Lift the privacy shield up, fold it, and place it in the top lid. You can then put the top foam back in place, covering the privacy shield:
+3\. **Close the case and seal:**
 
-![Privacy Shield Placed in Top Lid](<../../.gitbook/assets/IMG\_5137 (1).jpeg>) ![Foam Covers Privacy Shield](../../.gitbook/assets/IMG\_5136.jpeg)
+* [ ] secure all four latches
+* [ ] seal in one of the two locations highlighted with a square in the picture below
+* [ ] record the seal number
 
-#### Pack Cables
+![](<../../.gitbook/assets/image (220).png>)
 
-1. Unplug the power block from the outlet and place in the top-left compartment, with prongs facing up as shown below
-2. Place the accessible controller in the bottom-left compartment, with the buttons facing outward
-3. Unplug the printer cable from the printer and place inside case
-
-![Packed Power Block](../../.gitbook/assets/IMG\_5156.jpeg) ![Packed Accessibility Controller](../../.gitbook/assets/IMG\_5153.jpeg)
-
-#### Close VxMark
-
-Make sure that:
-
-1. Headphone Pouch is inside the case, on top of the screen
-2. All cords are within case and not overflowing
-
-Your VxMark should look something like this:
-
-![](../../.gitbook/assets/IMG\_5157.jpeg)
-
-Close and latch the case.
-
-### Pack Up Printer&#x20;
-
-* [ ] Unplug printer power cord from the outlet and the printer
-* [ ] Place the printer in its case
-* [ ] Place power cord inside the case
-* [ ] Close the case
-
+Record the seal number on the **Equipment Seals Log** and store or return the equipment according to your election administrator's directions.

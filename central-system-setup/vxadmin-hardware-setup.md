@@ -6,13 +6,13 @@ description: >-
 
 # VxAdmin Hardware Setup
 
-## Hardware Overview
+### Hardware Overview
 
-**VxAdmin** is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software and an HP printer. All USB flash drives, cords, adapters, and programmable smart cards needed to operate the system are included and stored in orange cases.
+**VxAdmin** is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software and an HP printer. All USB flash drives, cords, adapters, and programmable smart cards needed to operate the system are included and stored in an orange case.
 
 ![](<../.gitbook/assets/VxAdmin case.png>) ![](<../.gitbook/assets/VxAdmin unpacked.png>)
 
-## **VxAdmin** Setup
+### **VxAdmin** Setup
 
 **VxAdmin** can be set up through the following steps:
 
@@ -23,13 +23,13 @@ description: >-
    * [ ] press the power button to turn the printer on
    * [ ] load paper into the paper tray
 
-![Remove printer and power cord](<../.gitbook/assets/printer in case.png>) ![Plug the power cord into the back of the printer and into an outlet](<../.gitbook/assets/printer power cord.png>) ![Press the power button to turn on](<../.gitbook/assets/printer power button.png>)
+![Remove printer and power cord](<../.gitbook/assets/printer in case.png>) ![Plug the power cord into the back of the printer and into an outlet](<../.gitbook/assets/printer power cord.png>) ![Press the power button to turn on](<../.gitbook/assets/printer power button (1).png>)
 
 2\. **Setup VxAdmin laptop:**
 
 * [ ] open the case by lifting the latches on the front
 
-![Open the case by lifting the latches](<../.gitbook/assets/image (134).png>)
+![Open the case by lifting the latches](<../.gitbook/assets/image (120).png>)
 
 * [ ] **prepare the components:**
   * [ ] remove the **laptop**
@@ -43,7 +43,7 @@ description: >-
 
 VxAdmin hardware setup is complete.
 
-## Recommended and Compatible Paper
+### Recommended and Compatible Paper
 
 We recommend using 28 lb letter paper (8.5" x 11"), specifically the following:
 
@@ -52,7 +52,7 @@ We recommend using 28 lb letter paper (8.5" x 11"), specifically the following:
 
 You may also use 24 lb or 32 lb paper. **Do not use paper thinner than 24 lb.** Thinner paper is somewhat transparent, and marks from one side of the ballot show through the paper and interfere with scanning of the opposite side.
 
-## HP Printer FAQ
+### HP Printer FAQ
 
 **Do we need to install toner?**
 

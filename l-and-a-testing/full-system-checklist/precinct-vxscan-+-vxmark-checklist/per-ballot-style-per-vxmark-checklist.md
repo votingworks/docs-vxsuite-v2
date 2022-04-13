@@ -1,6 +1,6 @@
-# Ballot Style Sub-Checklist
+# Ballot Style Checklist
 
-Each VxMark unit is configured to a particular precinct. The Ballot Style Sub-Checklist should be run for every ballot style that is available at the precinct for which the VxMark unit is configured. This is a sub-checklist of the main [Precinct Checklist](./).
+Each VxMark unit is configured to a particular precinct. The Ballot Style Checklist should be run for every ballot style that is available at the precinct for which the VxMark unit is configured. This is a checklist of the main [Precinct Checklist](./).
 
 | Name: | Date: |
 | ----- | ----- |
@@ -10,11 +10,11 @@ Each VxMark unit is configured to a particular precinct. The Ballot Style Sub-Ch
 * [ ] Confirm each candidate / choice can be selected and deselected
 * [ ] Confirm the review screen lists all contests
 * [ ] At the review screen, for each contest
-  * [ ] tap `Change`, leave blank, tap `Review`, confirming the contest is left blank
-  * [ ] tap `Change`, choose a write-in (if appropriate), tap `Review`, confirm the write-in appears
-  * [ ] tap `Change`, attempt to select more than the max number of choices, confirm you cannot
-  * [ ] tap `Change`, make a selection, tap `Review`
-* [ ] Tap `I'm Ready to Print My Ballot`, and confirm the ballot prints.
+  * [ ] select _`Change`_, leave blank, select _`Review`_, confirming the contest is left blank
+  * [ ] select _`Change`_, choose a write-in (if appropriate), select _`Review`_, confirm the write-in appears
+  * [ ] select _`Change`_, attempt to select more than the max number of choices, confirm you cannot
+  * [ ] select _`Change`_, make a selection, select _`Review`_
+* [ ] Select _`I'm Ready to Print My Ballot`_, and confirm the ballot prints
 * [ ] Confirm the printed ballot includes the selections made on screen\
   (write down the selections from your review screen on this checklist to make this easier)
 

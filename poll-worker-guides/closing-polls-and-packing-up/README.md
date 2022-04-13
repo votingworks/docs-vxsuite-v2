@@ -6,8 +6,8 @@ At the end of the voting period, use the following guides to close the polls, pr
 [closing-polls.md](closing-polls.md)
 {% endcontent-ref %}
 
-{% content-ref url="handling-results-and-packing-up-vxscan.md" %}
-[handling-results-and-packing-up-vxscan.md](handling-results-and-packing-up-vxscan.md)
+{% content-ref url="packing-up-vxscan.md" %}
+[packing-up-vxscan.md](packing-up-vxscan.md)
 {% endcontent-ref %}
 
 {% content-ref url="packing-up-vxmark.md" %}

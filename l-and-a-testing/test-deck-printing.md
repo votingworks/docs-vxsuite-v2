@@ -2,45 +2,47 @@
 
 ## Print Test Deck
 
-To print the test deck of test ballots, first click the `Tally` tab and then click `Print Test Decks`:
+To print the test deck of test ballots, first select the Tally tab and then select _`Print Test Decks`_ under Pre-Election Features.
 
-![](<../.gitbook/assets/image (219).png>)
+![](<../.gitbook/assets/image (219) (1).png>)
 
-In the **Test Deck** view, a list of precincts available for the election will appear. Click the name of the precinct you would like to print a test deck for or click `All Precincts` for the entire county. VotingWorks recommends to print one precinct at a time (in alphabetical order) given the large size of test decks:
+A list of precincts available for the election will appear. Select the name of the precinct you would like to print a test deck for or select _`All Precincts`_ for all precincts.&#x20;
 
 ![](<../.gitbook/assets/image (151).png>)
 
-Confirm the election and precinct information and click `Print Test Deck`. If you are printing test decks for all precincts, VxAdmin will show the status of the printing by precinct:
+Verify the election and precinct and select _`Print Test Deck`_.
 
-![Printing Test Decks](<../.gitbook/assets/image (73).png>)
+![](<../.gitbook/assets/image (147).png>)
 
 ## Print Test Ballot Deck Tallies
 
-The "Test Ballot Deck Tally" are the results we expect to see after scanning the test deck. To print the Test Ballot Deck Tally, first click the `Tally` tab and then click `View Test Ballot Deck Tally`:
+The Test Ballot Deck Tally are the results we expect to see after scanning the test deck. To print the Test Ballot Deck Tally, go to the Tally tab and  select _`View Test Ballot Deck Tally.`_
 
 ![](<../.gitbook/assets/image (108).png>)
 
-In the **Test Ballot Deck Tally** view, a list of precincts available for the election will appear. Click the name of the precinct you would like to print a test deck tally for or click `All Precincts` for the entire county:
+In the Test Ballot Deck Tally view, a list of precincts available for the election will appear. Select the name of the precinct you would like to print a test deck tally for or select _`All Precincts`_ for all precincts.
 
 ![](<../.gitbook/assets/image (205).png>)
 
-Confirm the election and precinct information and click `Print Results Report`:
+Confirm the election and precinct information and select _`Print Results Report.`_
 
-![](<../.gitbook/assets/image (86).png>)
+![](<../.gitbook/assets/image (86) (1).png>)
 
 When printed, you can set aside the results report until test deck tabulation.
 
 ## Print Zero Report
 
-Before scanning the test deck, you'll first confirm that the Election Manager does not have any ballot results loaded by visiting the `Tally` tab. In this view, you'll be presented a **Ballot Count by Precinct** report which should read `0` for all precincts and the Total Ballot Count. To print a confirmed zero report, click `View Unofficial Full Election Tally` and then the green `Print Report` button in the subsequent screen:
+Before scanning the test deck, confirm VxAdmin does not have ballot results loaded. Go to the Tally tab and review the ballot counts. They should all be zero. To print a confirmed zero report, select _`View Unofficial Full Election Tally.`_
 
 ![](<../.gitbook/assets/image (199) (1).png>)
+
+Then select the green _`Print Report`_ button.
 
 ![](<../.gitbook/assets/image (125).png>)
 
 ## Last Steps
 
-Return to the Ballots tab and print two additional test ballots from any precinct.  Leave one test ballot blank and mark the second test ballot as an overvote. After this stage of L\&A, you should have the 5 following documents:
+Return to the Ballots tab and print two additional test ballots for each precinct.  Leave one test ballot blank and overvote one contest on the second test ballot. You should now have these 5 documents ready for testing.
 
 ![VxAdmin Test Materials](../.gitbook/assets/la\_materials6.jpg)
 

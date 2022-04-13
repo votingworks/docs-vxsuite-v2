@@ -9,11 +9,11 @@ This checklist is for jurisdictions who are using the VotingWorks central system
 
 * [ ] Connect VxAdmin to its printer
 * [ ] Ensure the printer has plenty of paper
-* [ ] Turn on VxAdmin
+* [ ] Turn on VxAdmin and printer
 * [ ] Confirm that VxAdmin is configured for the appropriate election
-* [ ] `Print Test Decks` for  `All Precincts`. This may take a few minutes.
-* [ ] Print the `Test Ballot Deck Tally` for `All Precincts`
-* [ ] Print an `Unofficial Full Election Tally Report` as the Zero Report
+* [ ] _`Print Test Decks`_ for  _`All Precincts`_- this may take a few minutes
+* [ ] Print the _`Test Ballot Deck Tally`_ for _`All Precincts`_
+* [ ] Print an _`Unofficial Full Election Tally Report`_ as the Zero Report
 * [ ] Print two additional test ballots from any precinct
   * [ ] Leave one test ballot blank
   * [ ] Mark the second test ballot as an overvote
@@ -35,14 +35,14 @@ Repeat the following for each VxCentralScan station:
 * [ ] Connect VxCentralScan laptop to its scanner
 * [ ] Turn on the VxCentralScan laptop and the scanner
 * [ ] Confirm that VxCentralScan is configured for the appropriate election
-* [ ] Toggle to `Test` Mode
+* [ ] Toggle to Test Mode
 * [ ] Scan the full test deck
 * [ ] Scan the blank ballot
   * [ ] Confirm it shows up as blank
-  * [ ] Choose `Original Ballot Removed`.
+  * [ ] Choose _`Tabulate Duplicate Ballot`_
 * [ ] Scan the overvoted ballot
   * [ ] Confirm it shows up as overvote
-  * [ ] Choose `Original Ballot Removed`.
+  * [ ] Choose _`Tabulate Duplicate Ballot`_
 * [ ] Verify the count of scanned ballots
 * [ ] Export CVRs to USB drive
 
@@ -52,13 +52,13 @@ Repeat the following for each VxCentralScan station:
 
 ### VxAdmin - Part 2
 
-Repeat the following for each VxCentralScan USB:
+Repeat the following for each VxCentralScan USB drive:
 
 * [ ] Insert USB drive with the CVR files
-* [ ] Click "Import CVR Files" in the Tally Tab
+* [ ] Select _`Import CVR Files`_ in the Tally tab
 * [ ] Import the CVR file from the given VxCentralScan
 * [ ] Confirm that the CVR count in VxAdmin matches the number of ballots in the test deck
-* [ ] Print Unofficial Full Election Tally Report
+* [ ] Print _`Unofficial Full Election Tally Report`_
 * [ ] Compare to the Test Ballot Deck Tally  and ensure they match
 * [ ] Clear CVR files
 
@@ -68,8 +68,8 @@ Repeat the following for each VxCentralScan USB:
 
 ### **Cleanup**
 
-* [ ] Confirm that there are no CVR files left in VxAdmin tally tab
-* [ ] Toggle VxCentralScan to **Live Mode** (in `Advanced` tab)
+* [ ] Confirm that there are no CVR files left in VxAdmin Tally tab
+* [ ] Toggle VxCentralScan to **Live Mode** (in `Admin` tab)
 * [ ] Shut down VxAdmin
 * [ ] Shut down VxCentralScan
 

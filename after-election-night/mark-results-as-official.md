@@ -6,9 +6,11 @@ When you are ready to certify election results, you can mark VxAdmin results as 
 You may not add additional CVR files after marking as official so please ensure you are ready to do so!
 {% endhint %}
 
-To mark as official, navigate to the `Tally` **** tab and click `Mark Tally Results as Official...` and then confirm by clicking the green `Mark Tally Results as Official` in the subsequent dialog.
+To mark as official, navigate to the `Tally` **** tab and select `Mark Tally Results as Official....`
 
 ![](<../.gitbook/assets/image (210).png>)
+
+&#x20;Confirm by selecting `Mark Tally Results as Official.`
 
 ![](<../.gitbook/assets/Parallels Picture 65.png>)
 
@@ -16,7 +18,7 @@ All references in VxAdmin to unofficial results will be changed to official. Not
 
 ![](<../.gitbook/assets/Parallels Picture 66.png>)
 
-You can print an official tally by scrolling to `View Official Full Election Tally:`
+You can print an official tally by scrolling to `View Official Full Election Tally.`
 
 ![](<../.gitbook/assets/image (42).png>)
 

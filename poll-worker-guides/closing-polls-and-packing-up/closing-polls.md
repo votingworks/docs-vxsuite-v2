@@ -2,33 +2,20 @@
 
 ### Closing Polls on VxScan
 
-To close the polls on VxScan, a poll worker must insert their Poll Worker card into the card reader. The card must be facing away from the screen.&#x20;
+To close the polls on VxScan, a poll worker must insert their Poll Worker Card into the card reader. The card must be facing away from the screen. Select _`Yes, Close the Polls.`_
 
-![](<../../.gitbook/assets/image (99).png>)
+![](<../../.gitbook/assets/image (148).png>)
 
-On the Poll Worker screen that appears, tap `Close Polls for [Precinct Name]`. Then confirm `Save Report and Close Polls`:
+A Close Polls Repor**t** is saved to the Poll Worker Card which includes the number of ballots scanned and the tabulated results of those ballots. Take the Poll Worker \
+Card to VxMark to print.
 
-![](<../../.gitbook/assets/image (144) (1).png>)
-
-A **Close Polls Report** is saved to the Poll Worker card which includes the number of ballots scanned and the tabulated results of those ballots.&#x20;
-
-Next, save the results to the USB Drive by tapping the `Export Results to USB` button.
-
-![](<../../.gitbook/assets/image (216).png>)
-
-If there is no USB drive detected, VxScan will prompt you to insert a USB drive. When a USB drive is detected, there will be a pop-up with options to save the results. Tap `Export`.
-
-![](<../../.gitbook/assets/image (85).png>)
-
-The results will then be saved onto the USB drive. Finally, you will be prompted to safely eject the USB before removing it:
-
-![](<../../.gitbook/assets/image (187).png>)
+![](<../../.gitbook/assets/image (217).png>)
 
 ### Printing the Close Polls Report
 
-To print the report, insert the Poll Worker card into a VxMark and tap `Print Tally Report`:&#x20;
+To print the report, insert the Poll Worker Card into a VxMark and select _`Print Tally Report.`_&#x20;
 
-![](<../../.gitbook/assets/image (102).png>)
+![](<../../.gitbook/assets/image (102) (1).png>)
 
 Two copies of the report will now print from the VxMark's printer in the following format:
 
@@ -36,7 +23,7 @@ Two copies of the report will now print from the VxMark's printer in the followi
 
 ### QuickResults Reporting
 
-The final page of the polls closed report contains a QR code which contains VxScan's results:
+The final page of the polls closed report contains a QR code which contains VxScan's results.
 
 ![](../../.gitbook/assets/QR\_Code\_Arrow.jpg)
 
@@ -50,6 +37,8 @@ Simply by visiting the website, you are reporting the results. The QR code repre
 
 ### Closing Polls on VxMark
 
-You need to separately close the polls on VxMark. With the Poll Worker card inserted, tap `Close Polls for [precinct name]`:
+To close the polls on the VxMark, insert the Poll Worker Card and select _`Close Polls for [precinct name].`_
 
-![](<../../.gitbook/assets/image (201).png>)
+![](<../../.gitbook/assets/image (102).png>)
+
+``
