@@ -77,5 +77,5 @@ Printing the cleaning page will usually clear the printer's rollers of stray ink
 
 If you are not using the recommended paper, it's possible that the paper you are using is not compatible with the printer. When toner doesn't print properly to a page, it can end up on the rollers where it will cause streaks on later pages. Try printing another cleaning page and then using a [recommended paper](vxadmin-hardware-setup.md#recommended-and-compatible-paper).
 
-If you **are** using a recommended paper, the toner cartridge may be defective and may need to be replaced.
+If you are using a recommended paper, the toner cartridge may be defective and may need to be replaced.
 

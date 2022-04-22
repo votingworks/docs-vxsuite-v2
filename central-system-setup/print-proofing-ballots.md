@@ -1,6 +1,6 @@
 # Print & Proof Ballots
 
-Once VxAdmin is configured, ballots are ready for proofing and printing. All ballot styles are found in the Ballots tab. The number of generated ballot styles generated is shown at the top. The list may be sorted by _`Precinct`_ or _`Style`_ using the buttons next to Sort N ballots by.
+Once VxAdmin is configured, ballots are ready for proofing and printing. All ballot styles are found in the Ballots tab. The number of generated ballot styles generated is shown at the top. The list may be sorted by _`Precinct`_ or _`Style`_ using the buttons to the right of Sort  number of ballot by:.
 
 ![](<../.gitbook/assets/image (145) (1).png>)
 

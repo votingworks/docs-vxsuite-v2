@@ -26,7 +26,7 @@ VxCentralScan will stop scanning and present a review screen if scanning cannot 
 
 ### Blank & Overvoted Ballots
 
-#### Original Ballot Scan
+#### **Original Ballot Scan**
 
 If scanning an original voter-marked ballot, remove the last ballot sheet scanned from the scanner output tray and confirm it matches the ballot sheet displayed onscreen. Once removed, select _`Original Ballot Removed`_ and confirm by selecting _`Confirm Ballot Removed and Continue Scanning`_. Once confirmed, the scanner will resume scanning ballots in the batch.&#x20;
 
@@ -38,7 +38,7 @@ The removed ballot should be duplicated and prepared for the Resolution Board. U
 
 The Resolution Board will examine the original ballot and mark the duplicate ballot in a manner consistent with the voter’s intent and applicable laws. When all original ballot batches have been scanned, a final batch containing all the duplicated ballots may be scanned to reincorporate these ballots into the tally.
 
-#### Duplicate Ballot Scan
+#### **Duplicate Ballot Scan**
 
 If scanning a duplicated ballot prepared by the Resolution Board, first confirm that the reason presented on screen is valid and that the duplicate ballot should be tabulated as such. VotingWorks recommends scanning all duplicate ballots as the last batch on election night.
 

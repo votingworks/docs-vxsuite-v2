@@ -1,6 +1,6 @@
 # L\&A Overview
 
-Logic & Accuracy testing is meant to ensure that every component of the voting system is operating as expected and has been configured properly for a specific election.
+Logic & accuracy testing (L\&A) is meant to ensure that every component of the voting system is operating as expected and has been configured properly for a specific election.
 
 To perform logic & accuracy testing, you will need all the election equipment that you will or might use in the upcoming election, including peripherals like printers and scanners.
 

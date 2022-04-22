@@ -5,7 +5,7 @@ The VxCentralScan Checklist should be run for _each_ VxCentralScan station. If y
 | Name | Date |
 | ---- | ---- |
 
-* [ ] Recombine VxMark + VxScan test decks from each precinct into one batch of ballots (you may also print new test decks - 1 from VxAdmin and 1 from any VxMark - if that is easier)
+* [ ] Recombine VxMark + VxScan test decks from each precinct into one batch of ballots (you may also print new test decks: 1 from VxAdmin and 1 from any VxMark - if that is easier)
 * [ ] Connect VxCentralScan laptop to its scanner
 * [ ] Turn on the VxCentralScan laptop and the scanner
 * [ ] Confirm that VxCentralScan is configured for the appropriate election

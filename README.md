@@ -13,7 +13,7 @@ If you have any questions, please don't hesitate to reach out to the VotingWorks
 VotingWorks consists of two subsystems:
 
 1. **Central System:** all the equipment necessary for use at election central for on-demand ballot printing, election programming, central batch ballot scanning, and results tabulation.
-2. **Precinct System:** all equipment necessary for use at the precinct to scan hand-marked ballots ballots and provide an accessible ballot marking device for voters unable to hand mark paper ballots.
+2. **Precinct System:** all equipment necessary for use at the precinct to scan hand-marked ballots and provide an accessible ballot marking device for voters unable to hand mark paper ballots.
 
 ### Central System
 

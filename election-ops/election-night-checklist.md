@@ -7,7 +7,7 @@ On election night, you will need the [VxCentralScan](../central-system-setup/vxc
 * [ ] [Set up VxCentralScan ](../central-system-setup/vxcentralscan-hardware-setup.md)
 * [ ] Confirm VxCentralScan is in Live Mode and says No ballots have been scanned
   * [ ] If not, switch the scanner to Live Mode or select _`Delete Ballot Data`_ from the Admin menu
-* [ ] Scan ballots in batches of \~50
+* [ ] Scan ballots in batches of \~fifty (50)
 * [ ] Create a pile of ballots for adjudication as rejected by the scanner
 * [ ] Adjudicate ballots with the resolution board
 * [ ] Scan resolution board ballots

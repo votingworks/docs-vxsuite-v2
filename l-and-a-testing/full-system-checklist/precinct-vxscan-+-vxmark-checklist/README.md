@@ -1,6 +1,6 @@
 # Precinct (VxScan + VxMark) Checklist
 
-This Precinct Checklist is appropriate for any precinct using both VxMark as an accessible ballot-marking device and VxScan as a precinct scanner. The equipment is best tested together, as they need matching configurations and will be used together at the precinct. At the point of Logic and Accuracy testing, both [VxScan](../../../hardware-setup/configure-vxscan.md) and [VxMark](../../../hardware-setup/configuring-and-operating-vxmark.md) should already be configured.
+This Precinct Checklist is appropriate for any precinct using both VxMark as an accessible ballot-marking device and VxScan as a precinct scanner. The equipment is best tested together, as they need matching configurations and will be used together at the precinct. At this point in logic and accuracy testing, both [VxScan](../../../hardware-setup/configure-vxscan.md) and [VxMark](../../../hardware-setup/configuring-and-operating-vxmark.md) should already be configured.
 
 | Name: | Date: |
 | ----- | ----- |
