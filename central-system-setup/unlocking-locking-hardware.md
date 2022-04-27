@@ -4,21 +4,15 @@
 
 VxAdmin and VxCentralScan require users to use an Admin Card and a Security Code to login. Both machines have a smart card reader as shown below.
 
-![](../.gitbook/assets/PXL\_20220216\_010856279.PORTRAIT.jpg)
+![Laptop on and locked](<../.gitbook/assets/image (219).png>)
 
-For both machines, the following screen is displayed when the machine is locked.
+Both machines will display Machine Locked when turned on. To unlock the machine, insert your Admin Card into the attached card reader.
 
-![](<../.gitbook/assets/image (149) (1).png>)
+![Machine locked screen](<../.gitbook/assets/machine locked screen.png>) ![Admin Card in card reader](<../.gitbook/assets/admin card in card reader.png>)
 
-To unlock the machine, insert your Admin Card into the attached card reader.
+Enter the card security code and remove your Admin Card.
 
-![](<../.gitbook/assets/image (143).png>)
-
-Enter the card security code.
-
-![](<../.gitbook/assets/image (165) (1).png>)
-
-Remove your Admin Card.
+![Enter card security code](<../.gitbook/assets/image (173).png>)
 
 ### Locking
 

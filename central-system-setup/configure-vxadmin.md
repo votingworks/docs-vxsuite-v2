@@ -15,7 +15,7 @@ Before creating an election, you'll need to download two files from SEMS:
 
 When VxAdmin is not configured, the screen will display **Configure VxAdmin**.
 
-![](<../.gitbook/assets/image (184) (1) (1).png>)
+![Configure VxAdmin](<../.gitbook/assets/image (216).png>)
 
 SEMS files can be loaded to define an election in a self-service fashion. Due to frequent irregularities in SEMS data, however, many customers prefer that VotingWorks check and convert their SEMS files into a VotingWorks election definition file.
 
@@ -23,21 +23,13 @@ SEMS files can be loaded to define an election in a self-service fashion. Due to
 
 You must have the two election details files exported from SEMS saved to a USB drive. Insert the USB drive into the VxAdmin laptop's USB hub. In the top-right of the screen, the text should change from _`No USB`_ to _`Eject USB`_ .
 
-Select _`Convert from SEMS files`_ to open the SEMS file conversion page.
+Select _`Convert from SEMS files`_ to open the SEMS file conversion page. Then select _`SEMS main file.`_
 
-![](<../.gitbook/assets/image (200) (1).png>)
+![Convert from SEMS files](<../.gitbook/assets/convert SEMS.png>) ![SEMS main file](<../.gitbook/assets/Sems main file.png>)
 
-Next, select _`SEMS main file.`_
+&#x20;Next, select the main SEMS file which should be named COUNTYID\_DATE.txt. Select _`Open`_. _`✓ Loaded SEMS main file`_ will display when loaded.
 
-![](<../.gitbook/assets/image (152).png>)
-
-&#x20;Then select the main SEMS file which should be named COUNTYID\_DATE.txt. Select _`Open`_.&#x20;
-
-![](<../.gitbook/assets/image (119).png>)
-
-_`✓ Loaded SEMS main file`_ will display when loaded.
-
-![](<../.gitbook/assets/image (90).png>)
+![Select main SEMS file](<../.gitbook/assets/select sems file.png>) ![Loaded SEMS file displayed](<../.gitbook/assets/loaded sems file.png>)
 
 Once complete, the Ballots tab will show the list of all ballots.
 
@@ -45,13 +37,9 @@ Once complete, the Ballots tab will show the list of all ballots.
 
 Save the election definition file provided by VotingWorks to a USB drive. Insert the USB drive into the VxAdmin laptop's USB hub. In the top-right of the screen, the text should change from _`No USB`_ to _`Eject USB`_.
 
-Select _`Select Existing Election Definition File.`_
+Select _`Select Existing Election Definition File.`_Select the file from the USB drive and select _`Open.`_
 
-![](<../.gitbook/assets/image (141).png>)
-
-Select the file from the USB drive and select _`Open.`_
-
-![](<../.gitbook/assets/image (98).png>)
+![Select existing election definition file](<../.gitbook/assets/select existing election def.png>) ![Select main SEMS file](<../.gitbook/assets/select sems file (1).png>)
 
 Once complete, the Ballots tab will show the list of all ballots.
 
@@ -61,6 +49,6 @@ If you need to change an election definition or reset VxScan for the next electi
 
 Select the Definition tab and scroll to the bottom. Select the red _`Remove Election`_ button.
 
-![](<../.gitbook/assets/image (101) (1).png>)
+![Remove Election](<../.gitbook/assets/image (141).png>)
 
 After confirming that you want to remove the election definition and results data, you will return to the initial VxAdmin configuration screen. From there you can re-configure VxAdmin and load a new election definition file by repeating the steps above.

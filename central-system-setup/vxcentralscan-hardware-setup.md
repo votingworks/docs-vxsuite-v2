@@ -10,9 +10,7 @@ description: >-
 
 **VxCentralScan** is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software pre-installed and a Fujitsu scanner stored in tan cases.
 
-![](<../.gitbook/assets/vxcentral in cases.png>) ![](<../.gitbook/assets/vxcentral setup.png>)
-
-
+![VxCentralScan in cases](<../.gitbook/assets/vxcentral in cases.png>) ![VxCentralScan set up](<../.gitbook/assets/vxcentral setup.png>)
 
 ## **VxCentralScan** Setup
 
@@ -34,7 +32,7 @@ description: >-
 
 * [ ] open the case by lifting the latches on front
 
-![](<../.gitbook/assets/image (199).png>)
+![Lift the latches](<../.gitbook/assets/image (87).png>)
 
 * [ ] **prepare the components:**
   * [ ] remove the **laptop**

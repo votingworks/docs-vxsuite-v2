@@ -78,7 +78,7 @@ You don't need to worry about filenames. The export process takes care of that.
 
 Once you've selected Export, you'll see a confirmation screen, select _`Eject USB`_.
 
-![](<../.gitbook/assets/image (203) (1).png>)
+![](<../.gitbook/assets/image (203) (1) (1).png>)
 
 Then, you can physically remove the USB drive that now holds the CVR file.
 

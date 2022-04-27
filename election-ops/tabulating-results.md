@@ -16,7 +16,7 @@ When imported, confirm that the presented file name, CVR count, and precinct(s) 
 
 After importing your CVR file(s), scroll to the Unofficial Tally Reports and select _`View Unofficial Full Election Tally Report`._&#x20;
 
-![](<../.gitbook/assets/image (126).png>)
+![](<../.gitbook/assets/image (126) (1).png>)
 
 Select _`Print Report`_ to print results, _`Preview Report`_ to view the report on screen, or _`Save Report as PDF` _ to save the election tally to a USB drive.
 

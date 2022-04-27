@@ -12,7 +12,7 @@ If there is an orange banner that says "Testing Mode" on the screen, contact you
 
 To open the polls, a poll worker must insert their Poll Worker Card into the card reader behind the screen. The front of the Poll Worker Card must be facing away from the screen. To open the polls, select _`Yes, Open the Polls`_.
 
-![](<../../.gitbook/assets/image (219).png>)
+![](<../../.gitbook/assets/image (219) (1).png>)
 
 Once complete, the screen will say Polls are open. As the polls were opening, the Open Polls Report was saved to the Poll Worker Card. The **** Open Polls Report should show that no ballots have been scanned. This will also serve as the precinct's Zero Report. Take the Poll Worker Card to VxMark to print.
 
@@ -32,7 +32,7 @@ Two copies of the report will print from the VxMark's printer. All contest total
 
 The last step to opening the polls, is to select _`Open Polls for [precinct name]`_ from the VxMark screen.
 
-![](<../../.gitbook/assets/image (145).png>)
+![](<../../.gitbook/assets/image (145) (1).png>)
 
 {% hint style="warning" %}
 If "Machine is in Testing Mode" is displayed on the VxMark poll worker screen, contact your election administrators immediately to prepare the machine for the election.&#x20;

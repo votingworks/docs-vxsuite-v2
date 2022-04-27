@@ -48,10 +48,10 @@ An export dialog appears prompting you to insert a USB drive. Once you do, the U
 
 Once the CVR file has been saved to the USB drive, select _`Eject USB`_.
 
-![](<../.gitbook/assets/image (212).png>)
+![](<../.gitbook/assets/image (212) (1).png>)
 
 When complete, the Download Complete screen will tell you to remove the USB drive.
 
-![](<../.gitbook/assets/image (87).png>)
+![](<../.gitbook/assets/image (87) (1).png>)
 
 ##

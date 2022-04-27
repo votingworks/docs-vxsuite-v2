@@ -26,7 +26,7 @@ Remove the Admin Card, and confirm that the VxMark is in live mode by ensuring t
 
 Insert the Admin Card into VxScan to show the Administrator Settings Screen, and select _`Live Election Mode`_.
 
-![](<../.gitbook/assets/image (100).png>)
+![](<../.gitbook/assets/image (100) (1).png>)
 
 Remove the Admin Card, and confirm that the VxScan is in live mode by ensuring there is no orange Test Mode banner and Polls Closed is displayed.
 

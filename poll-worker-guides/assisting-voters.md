@@ -8,11 +8,11 @@ VxScan is ready to accept a new ballot whenever it displays Insert Your Ballot B
 
 A voter can then push their ballot onto the tray and into the scanner. When a ballot is properly inserted, the scanner will grip the ballot. If a ballot is inserted at an angle, the scanner may push the ballot back into the voter's hands without scanning, the voter should simply re-insert their ballot. VxScan will then scan the ballot by pulling it in and show the following screen.
 
-![](<../.gitbook/assets/image (173).png>)
+![](<../.gitbook/assets/image (173) (1).png>)
 
 If the ballot has no errors, the ballot will go into the ballot box and the screen will show that the ballot has been counted.
 
-![](<../.gitbook/assets/image (217) (1).png>)
+![](<../.gitbook/assets/image (217) (1) (1).png>)
 
 After a few seconds, VxScan will return to the Insert Your Ballot Below screen in preparation for the next voter. &#x20;
 

@@ -2,7 +2,7 @@
 
 Once VxAdmin is configured, ballots are ready for proofing and printing. All ballot styles are found in the Ballots tab. The number of generated ballot styles generated is shown at the top. The list may be sorted by _`Precinct`_ or _`Style`_ using the buttons to the right of Sort  number of ballot by:.
 
-![](<../.gitbook/assets/image (145) (1).png>)
+![](<../.gitbook/assets/image (205).png>)
 
 ## Proof and Print a Ballot
 
@@ -10,7 +10,7 @@ To proof a ballot, select _`View Ballot`_to the right of the ballot to review
 
 The ballot preview will display the ballot, exactly as it will print, for easy proofing and printing.
 
-![](<../.gitbook/assets/image (162) (1) (1).png>)
+![Print and proof ballots](<../.gitbook/assets/image (203).png>)
 
 You need to select three options before printing a ballot:
 
@@ -54,7 +54,7 @@ A sample ballot should be used for display or demonstration use. Sample ballots 
 
 An absentee ballot should be used for absentee voting and a precinct ballot should be used for all voters, including affidavit, curbside, and emergency voters. Absentee and precinct ballots are the same with the exception of a label printed in the top-left corner and on every page footer for absentee ballots. With a color printer, the label is printed as white text on purple background. With a black-and-white printer, the label is printed as white text on grey background.
 
-![Absentee Header in Color](../.gitbook/assets/header.png)
+![Absentee header in color](<../.gitbook/assets/image (179).png>)
 
 ## Edit Election Definition
 

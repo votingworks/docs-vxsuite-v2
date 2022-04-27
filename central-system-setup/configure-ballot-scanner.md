@@ -8,25 +8,17 @@ To configure VxCentralScan, you must first [export the ballot package](export-ba
 
 Once you have the ballot package saved to a USB drive, you can load the file to VxCentralScan.
 
-When turned on and authenticated, the VxCentralScan laptop will display the Load Election Configuration screen, prompting you to insert a USB drive.
+When turned on and authenticated, the VxCentralScan laptop will display the Load Election Configuration screen, prompting you to insert a USB drive.Insert the USB drive with the ballot package saved from VxAdmin. After a few seconds, VxCentralScan will display all ballot packages found on the USB drive. _`Select`_the correct ballot package.&#x20;
 
-![](<../.gitbook/assets/Parallels Picture 18.png>)
+![Load election configuration](<../.gitbook/assets/load election config.png>) ![Select ballot package](<../.gitbook/assets/select ballot package.png>)
 
-Insert the USB drive with the ballot package saved from VxAdmin. After a few seconds, VxCentralScan will display all ballot packages found on the USB drive. _`Select`_the correct ballot package.&#x20;
+As the package loads, the screen will read Uploading ballot package # of # and VxCentralScan will load each ballot style in the ballot package. When loading is complete, VxCentralScan prompts you to eject the USB drive. Select _`Eject USB`_ and remove the USB drive.
 
-![](<../.gitbook/assets/image (167).png>)
-
-As the package loads, the screen will read Uploading ballot package # of # and VxCentralScan will load each ballot style in the ballot package.
-
-![](<../.gitbook/assets/image (214) (1).png>)
-
-When loading is complete, VxCentralScan prompts you to eject the USB drive. Select _`Eject USB`_ and remove the USB drive.
-
-![](<../.gitbook/assets/image (112).png>)
+![Uploading ballot package](<../.gitbook/assets/uploading ballot package.png>) ![Successfully configured - eject USB](<../.gitbook/assets/successfully configured.png>)
 
 VxCentralScan is now configured and in Test Mode. The screen will show No ballots have been scanned and election summary information (name, date, county, etc.) will be shown at the bottom of the screen.&#x20;
 
-![](<../.gitbook/assets/image (177).png>)
+![VxCentralScan in test mode](<../.gitbook/assets/image (99).png>)
 
 VxCentralScan is now ready for scanning. To learn how to scan ballots with VxCentralScan, please reference our central scanning guide.
 
@@ -49,7 +41,7 @@ Confirm by selecting _`Yes, Delete Election Data`_.
 
 And one more time, by selecting_`I am sure. Delete all election data.`_
 
-![](<../.gitbook/assets/image (121).png>)
+![](<../.gitbook/assets/image (121) (1).png>)
 
 You can now re-configure VxCentralScan with a different ballot package.
 

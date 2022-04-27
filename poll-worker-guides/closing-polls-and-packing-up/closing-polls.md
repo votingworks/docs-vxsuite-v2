@@ -8,7 +8,7 @@ To close the polls on VxScan, a poll worker must insert their Poll Worker Card i
 
 A Close Polls Report is saved to the Poll Worker Card which includes the number of ballots scanned and the tabulated results of those ballots. Take the Poll Worker Card to VxMark to print.
 
-![](<../../.gitbook/assets/image (217).png>)
+![](<../../.gitbook/assets/image (217) (1).png>)
 
 ### Printing the Close Polls Report
 

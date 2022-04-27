@@ -4,7 +4,7 @@
 
 To print the test deck of test ballots, first select the Tally tab and then select _`Print Test Decks`_ under Pre-Election Features.
 
-![](<../.gitbook/assets/image (219) (1).png>)
+![](<../.gitbook/assets/image (219) (1) (1).png>)
 
 A list of precincts available for the election will appear. Select the name of the precinct you would like to print a test deck for or select _`All Precincts`_ for all precincts.&#x20;
 
@@ -22,7 +22,7 @@ The Test Ballot Deck Tally are the results we expect to see after scanning the t
 
 In the Test Ballot Deck Tally view, a list of precincts available for the election will appear. Select the name of the precinct you would like to print a test deck tally for or select _`All Precincts`_ for all precincts.
 
-![](<../.gitbook/assets/image (205).png>)
+![](<../.gitbook/assets/image (205) (1).png>)
 
 Confirm the election and precinct information and select _`Print Results Report.`_
 
@@ -38,7 +38,7 @@ Before scanning the test deck, confirm VxAdmin does not have ballot results load
 
 Then select the green _`Print Report`_ button.
 
-![](<../.gitbook/assets/image (125).png>)
+![](<../.gitbook/assets/image (125) (1).png>)
 
 ## Last Steps
 

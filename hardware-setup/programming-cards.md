@@ -4,7 +4,7 @@
 
 Smart cards are used to configure and operate equipment. It's the same technology as the chip in your credit card, but instead used to enable administrators and poll workers to configure and operate the equipment. There are two types of cards: Admin Cards and Poll Worker Cards**.**
 
-![Admin and Poll Worker Cards](../.gitbook/assets/smartcards.jpg)
+![Admin and Poll Worker Cards](<../.gitbook/assets/image (157).png>)
 
 ### Admin Cards
 
@@ -32,43 +32,31 @@ Every precinct will need at least one Poll Worker Card in order to operate the p
 
 For each election, you will encode the smart cards specifically for that election. Smart cards can be encoded quickly and easily with VxAdmin, in the Cards tab.
 
-![](<../.gitbook/assets/image (208).png>)
+![Cards tab](<../.gitbook/assets/image (130).png>)
 
 You will use the HID Omnikey Card Reader provided with VxAdmin.&#x20;
 
 ### Encoding Admin Cards
 
-Insert a smart card labelled Admin Card into the card reader. Push the card into the slot, stopping when you feel it tap the bottom of the card reader.
+Insert a smart card labelled Admin Card into the card reader. Push the card into the slot, stopping when you feel it tap the bottom of the card reader. In the Cards tab in VxAdmin, select _`Encode Admin Card.`_
 
-![](<../.gitbook/assets/image (123).png>)
+![Insert Admin Card in reader](<../.gitbook/assets/admin card in card reader (1).png>) ![Select Encode Admin Card](<../.gitbook/assets/encode admin card.png>)
 
-In the Cards tab in VxAdmin, select _`Encode Admin Card.`_
+Create a Security Code for the card and click _`Create Card`_. Programming an Admin Card will take several seconds during which the lights on the card reader will flash and the screen will show Programming card...
 
-![](<../.gitbook/assets/image (130) (1).png>)
-
-Create a Security Code for the card and click _`Create Card`_.
-
-![](<../.gitbook/assets/image (184).png>)
-
-Programming an Admin Card will take several seconds during which the lights on the card reader will flash and the screen will show Programming card...
-
-![](<../.gitbook/assets/image (101).png>)
+![Create security code](<../.gitbook/assets/create card.png>) ![Wait for programming to complete](<../.gitbook/assets/programming card.png>)
 
 After the message is gone, the card is programmed.
 
 ### Encoding Poll Worker Cards
 
-Insert the smart card labelled Poll Worker into the card reader. Push the card into the slot, stopping when you feel it tap the bottom of the card reader.
+Insert the smart card labelled Poll Worker into the card reader. Push the card into the slot, stopping when you feel it tap the bottom of the card reader. In the Cards tab in VxAdmin, select _Encode Poll Worker Card._
 
-![](<../.gitbook/assets/image (150).png>)
-
-In the Cards tab in VxAdmin, select _Encode Poll Worker Card._
-
-![](<../.gitbook/assets/image (198).png>)
+![Insert Poll Worker Card in reader](<../.gitbook/assets/poll worker card in reader.png>) ![Select Encode Poll Worker Card](<../.gitbook/assets/encode poll worker card.png>)
 
 VxAdmin will show that it is Programming card... briefly. The light on the card reader will blink green and red. For a Poll Worker card, this process will take a second or less.
 
-![](<../.gitbook/assets/image (203).png>)
+![](<../.gitbook/assets/image (203) (1).png>)
 
 After the message is gone, the card is programmed.
 
