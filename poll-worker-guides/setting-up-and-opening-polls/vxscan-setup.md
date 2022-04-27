@@ -20,14 +20,22 @@ The **VxScan** should be setup on it's own table and the table should be located
 \
 **VxScan** can be set up through the following steps:
 
-1. **Open the container and plug it in:**
+1. **Open the container:**
    * [ ] break the seal and record the seal number in the **Equipment Seals Log**
    * [ ] unzip the top compartment
-   * [ ] remove the power cord from the lid pocket and plug it into an outlet
 
-![Break the seal](<../../.gitbook/assets/vxscan with seal highlighted (1) (1).png>) ![Unzip the top compartment](<../../.gitbook/assets/vxscan top open (1).png>) ![Plug in the power cord](<../../.gitbook/assets/vxscan cord.png>)
+![Break the seal](<../../.gitbook/assets/vxscan with seal highlighted (1) (1).png>) ![Unzip the top compartment](<../../.gitbook/assets/vxscan top open (1).png>) ![Plug in the power cord](<../../.gitbook/assets/vxscan cord (1).png>)
 
-2\. **Prepare the scanner:**
+2\. **Plug VxScan into the power backup:**
+
+* [ ] remove the power cord from the lid pocket&#x20;
+* [ ] plug it into the lower portion of the power backup
+* [ ] plug the power backup into an outlet
+* [ ] turn power backup on
+
+![Remove power cord](<../../.gitbook/assets/vxscan cord.png>) ![Plug into power backup](<../../.gitbook/assets/vxscan into ups.png>) ![Plug power backup into outlet](<../../.gitbook/assets/ups plugged in wall (1).png>) ![Turn power backup on](<../../.gitbook/assets/ups power button.png>)
+
+3\. **Prepare the scanner:**
 
 * [ ] lift the screen up so it is facing forward
 * [ ] open the front flap and secure it to the velcro at the bottom of the container
@@ -35,7 +43,7 @@ The **VxScan** should be setup on it's own table and the table should be located
 
 ![Lift the screen up](<../../.gitbook/assets/vxscan screen up.png>) ![Attach the tray](<../../.gitbook/assets/vxscan tray posts highlighted (1).png>)
 
-3\. **Ensure ballot bag is sealed into the scanner with one seal on each latch.**
+4\. **Ensure ballot bag is sealed into the scanner with one seal on each latch.**
 
 ![](<../../.gitbook/assets/image (165).png>)
 

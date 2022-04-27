@@ -5,7 +5,9 @@
 * [ ] [VxScan Setup](setting-up-and-opening-polls/vxscan-setup.md)
   * [ ] Remove and document seal
   * [ ] Open top
-  * [ ] Plug power cable into outlet
+  * [ ] Plug power cable into power backup
+  * [ ] Plug power backup into outlet
+  * [ ] Turn power backup on
   * [ ] Lift screen upright
   * [ ] Open ballot entry flap
   * [ ] Attach tray

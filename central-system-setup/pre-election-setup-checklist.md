@@ -1,6 +1,6 @@
 # Pre-Election Setup Checklist
 
-To prepare for an election, follow the following steps:
+To prepare for an election, complete the following steps:
 
 * [ ] Verify the [previous election's files were retained and removed](../after-election-night/retaining-and-removing-election-files.md)
 * [ ] [Configure VxAdmin](configure-vxadmin.md)
