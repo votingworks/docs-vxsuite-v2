@@ -53,6 +53,6 @@ The **VxMark** should be setup on a different table than the **VxScan**, in a pl
 * [ ] set up the privacy screen
 * [ ] store the empty headphone pouch behind the privacy screen
 
-![Turn the VxMark on with the power button](<../../.gitbook/assets/power button.png>) ![Remove the privacy screen](<../../.gitbook/assets/privacy screen.png>) ![Set up the privacy screen](<../../.gitbook/assets/privacy sleeve on.png>)
+![Turn the VxMark on with the power button](<../../.gitbook/assets/power button.png>) ![Remove the privacy screen](<../../.gitbook/assets/new privacy sheild vxmark.png>) ![Set up the privacy screen](<../../.gitbook/assets/privacy sleeve on.png>)
 
 VxMark hardware setup is complete.&#x20;

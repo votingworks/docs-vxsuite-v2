@@ -4,7 +4,7 @@ For each election, you will configure VxAdmin by loading your election definitio
 
 ## Download SEMS Files
 
-Before creating an election, you'll need to download two files from SEMS:
+Before creating an election, you'll need to download two files from SEMS (be sure to complete the SEMS Generate Ballot Styles step first):
 
 1. On the SEMS home page, select _`Election Management`_ under **Elections**
 2. In the **Election Management** view, select _`Ballot Styles`_ on the left-hand navigation
