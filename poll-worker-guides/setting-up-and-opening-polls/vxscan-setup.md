@@ -33,7 +33,7 @@ The **VxScan** should be setup on it's own table and the table should be located
 * [ ] plug the power backup into an outlet
 * [ ] turn power backup on
 
-![Remove power cord](<../../.gitbook/assets/vxscan cord.png>) ![Plug into a white outlet ](<../../.gitbook/assets/vxscan into ups.png>) ![Plug power backup into outlet](<../../.gitbook/assets/ups plugged in wall (1).png>) ![Turn power backup on](<../../.gitbook/assets/ups power button.png>)
+![Remove power cord](<../../.gitbook/assets/vxscan cord.png>) ![Plug into a white outlet ](<../../.gitbook/assets/vxscan into ups (1).png>) ![Plug power backup into outlet](<../../.gitbook/assets/ups plugged in wall (1).png>) ![Turn power backup on](<../../.gitbook/assets/ups power button.png>)
 
 3\. **Prepare the scanner:**
 
