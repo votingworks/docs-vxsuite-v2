@@ -31,6 +31,10 @@ Select _`Convert from SEMS files`_ to open the SEMS file conversion page. Then s
 
 ![Select main SEMS file](<../.gitbook/assets/select sems file.png>) ![Loaded SEMS file displayed](<../.gitbook/assets/loaded sems file.png>)
 
+Next, select _`SEMS candidate mapping file`_ to open the SEMS candidate mapping file. Select the SEMS Candidate Mapping file which should be named COUNTYID\_CANDMAP\_DATE.txt. Select _`Open`_.&#x20;
+
+![Select SEMS candidate mapping file](<../.gitbook/assets/sems candidate mapping.png>) ![Select SEMS CANDMAP file](<../.gitbook/assets/candmap file picker.png>)
+
 Once complete, the Ballots tab will show the list of all ballots.
 
 ### Option 2: From VotingWorks Election Definition File
