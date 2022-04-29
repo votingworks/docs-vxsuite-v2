@@ -67,6 +67,8 @@
 * [ ] Retain and/or display the Tally Report as instructed by your election administrator
 * [ ] Select _`Close Polls for [precinct name]`_
 
+###
+
 ### Packing Up Equipment
 
 * [ ] [VxScan](closing-polls-and-packing-up/handling-results-and-packing-up-vxscan.md#cleaning-up)

@@ -10,21 +10,25 @@ description: >-
 
 **VxScan** is in a tamper-evident blue container that may be rolled like a suitcase. Inside is an additional tamper-evident blue container used to store scanned ballots.
 
-![](<../../.gitbook/assets/precinct scanner rolling.png>) ![](<../../.gitbook/assets/precinct scanner ballot box outside (1).png>)
-
-
+![VxScan with ballot box inside](<../../.gitbook/assets/vxscan sealed and on wheels.png>) ![VxScan and ballot box](<../../.gitbook/assets/vxscan with ballot box outside.png>)
 
 ## VxScan Setup
 
 The **VxScan** should be setup on it's own table and the table should be located somewhere between the privacy booths and the exit to the polling place.\
 \
+\
 **VxScan** can be set up through the following steps:
 
-1. **Open the container:**
-   * [ ] break the seal and record the seal number in the **Equipment Seals Log**
-   * [ ] unzip the top compartment
+1.  **Open the container:**
 
-![Break the seal](<../../.gitbook/assets/vxscan with seal highlighted (1) (1).png>) ![Unzip the top compartment](<../../.gitbook/assets/vxscan top open (1).png>) ![Plug in the power cord](<../../.gitbook/assets/vxscan cord (1).png>)
+    * [ ] break the seal and record the seal number in the **Equipment Seals Log**
+    * [ ] unzip the top compartment
+
+
+
+![Break the seal](<../../.gitbook/assets/vxscan sealed.png>) ![Unzip the top compartment](<../../.gitbook/assets/vxscan top open (4).png>)
+
+
 
 2\. **Plug VxScan into the power backup:**
 
@@ -35,13 +39,19 @@ The **VxScan** should be setup on it's own table and the table should be located
 
 ![Remove power cord](<../../.gitbook/assets/vxscan cord.png>) ![Plug into a white outlet ](<../../.gitbook/assets/vxscan into ups (1).png>) ![Plug power backup into outlet](<../../.gitbook/assets/ups plugged in wall (1).png>) ![Turn power backup on](<../../.gitbook/assets/ups power button.png>)
 
+
+
 3\. **Prepare the scanner:**
 
 * [ ] lift the screen up so it is facing forward
 * [ ] open the front flap and secure it to the velcro at the bottom of the container
 * [ ] attach the tray by inserting the posts until you feel the magnets snap in place
 
-![Lift the screen up](<../../.gitbook/assets/vxscan screen up.png>) ![Attach the tray](<../../.gitbook/assets/vxscan tray posts highlighted (1).png>)
+
+
+![Lift the screen up](<../../.gitbook/assets/vxscan screen up (1).png>) ![Attach the tray](<../../.gitbook/assets/attach the tray.png>)
+
+
 
 4\. **Ensure ballot bag is sealed into the scanner with one seal on each latch.**
 

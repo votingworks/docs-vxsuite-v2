@@ -29,6 +29,8 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
   * [ ] Close enclosure
   * [ ] Insert ballot bag ****&#x20;
 
+### ****
+
 ### **Using Equipment**
 
 #### **Part 1: VxScan - Opening**
@@ -37,6 +39,8 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 * [ ] Calibrate scanner with the blank paper (Admin Card)
 * [ ] Confirm VxScan is in Testing Mode (Admin Card)
 * [ ] Open polls (Poll Worker Card)
+
+
 
 #### Part 2: VxMark - Opening and Marking Ballots
 
@@ -52,6 +56,8 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 * [ ] For one of the ballot styles selected at random, confirm that the entire ballot can be filled out and printed using only the audio track over headphones and the accessible controller (do not scan this ballot)
 * [ ] Print a Test Deck for the current precinct (Admin Card)
 
+
+
 #### Part 3: VxScan - Casting Votes and Closing
 
 * [ ] Scan each ballot in VxMark (machine-marked) Test Deck
@@ -63,6 +69,8 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
   * [ ] Confirm it is rejected & select _`Count Ballot`_
 * [ ] Close polls (Poll Worker Card)
 * [ ] Switch to _`Live Election Mode`_ (Admin Card)
+
+####
 
 #### Part 4: VxMark - Closing
 
