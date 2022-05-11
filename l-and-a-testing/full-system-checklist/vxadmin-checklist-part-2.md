@@ -16,7 +16,7 @@ After all files are imported:
 
 * [ ] Print the _`Unofficial Full Election Tally`_
 * [ ] Confirm that the tallies are **four times** the Test Ballot Deck Tally
-* [ ] Clear CVR files
+* [ ] Remove CVR files
 
 {% content-ref url="../tabulate-test-deck.md" %}
 [tabulate-test-deck.md](../tabulate-test-deck.md)

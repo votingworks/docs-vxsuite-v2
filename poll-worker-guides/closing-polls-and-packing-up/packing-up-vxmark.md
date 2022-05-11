@@ -11,7 +11,7 @@ Pack up **VxMark** through the following steps:
    * [ ] place the power cord on top of the printer&#x20;
    * [ ] zip the top closed
 
-![Press the power button to turn off](<../../.gitbook/assets/printer power button.png>) ![Unplug cords](<../../.gitbook/assets/printer power cord (1).png>) ![Place printer and cable in case](<../../.gitbook/assets/printer in case (1).png>)
+![Press the power button to turn off](<../../.gitbook/assets/printer power button.png>) ![Unplug cords](<../../.gitbook/assets/printer power cord (1).png>) ![Place printer and cord in case](<../../.gitbook/assets/printer in case (1).png>)
 
 ****
 

@@ -26,11 +26,11 @@ The final page of the polls closed report contains a QR code which contains VxSc
 
 ![](../../.gitbook/assets/QR\_Code\_Arrow.jpg)
 
-**You will use your smartphone camera to read the QR code and report the results:**
+**Using your smartphone camera, read the QR code, and report the results:**
 
-1. Open the camera app on your phone
-2. Point your camera at the QR code and make sure the whole code is in focus.&#x20;
-3. Once your camera recognizes the code, it will try to open the results website. Follow the link to visit the website.
+* [ ] Open the camera app on your phone
+* [ ] Point your camera at the QR code and make sure the whole code is in focus.&#x20;
+* [ ] Once your camera recognizes the code, it will try to open the results website. Follow the link to visit the website.
 
 Simply by visiting the website, you are reporting the results. The QR code represents a tamper-proof summary of your precinct's results. While the QR code can be scanned as many times as you would like, the results will only be reported once, and valid QR codes can only be created on a registered VotingWorks machine.
 

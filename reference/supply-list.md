@@ -28,3 +28,9 @@ There are a handful of USB drive models that we have tested and recommend to cus
 * SanDisk Cruzer - [Amazon](https://www.amazon.com/SanDisk-Cruzer-Blade-8GB-SDCZ50-008G/dp/B07D7WFVK5)
 
 You can try USB drives that are not on this list, but you must test each model with our equipment before you use it in an election.&#x20;
+
+### Voting Instruction Posters
+
+[Voting Instruction Poster - landscape](https://drive.google.com/file/d/1SMwmFbpt\_7QXWu1r4bmcX3r35XBnc3y0/view?usp=sharing)
+
+[Voting Instruction Poster - portrait](https://drive.google.com/file/d/1lcm2-5lAm0YHjBGzCdUw5txQ5gD2o8j0/view?usp=sharing)

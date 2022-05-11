@@ -14,7 +14,7 @@ description: >-
 
 ## VxScan Setup
 
-The **VxScan** should be setup on it's own table and the table should be located somewhere between the privacy booths and the exit to the polling place.\
+The **VxScan** should be set up on its own table and the table should be located somewhere between the privacy booths and the exit to the polling place.\
 \
 \
 **VxScan** can be set up through the following steps:

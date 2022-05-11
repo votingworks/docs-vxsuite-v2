@@ -20,7 +20,7 @@ Next, complete the following steps to remove and seal the ballot bag:
 
 * [ ] verify and remove the ballot box flap seals
 * [ ] remove the ballot box from VxScan
-* [ ] zip the ballot box flap
+* [ ] zip the ballot box flap closed
 * [ ] seal and record the ballot box flap seal
 
 ![Verify and remove the seals](<../.gitbook/assets/ballot box sealed in vxscan.png>) ![Remove the ballot box](<../.gitbook/assets/ballot box being removed vxscan.png>) ![Zip the ballot box flap, seal and record](<../.gitbook/assets/vxscan ballot box sealed.png>)

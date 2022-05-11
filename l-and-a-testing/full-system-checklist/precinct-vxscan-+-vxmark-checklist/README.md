@@ -27,7 +27,7 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
   * [ ] Open enclosure
   * [ ] Insert USB drive
   * [ ] Close enclosure
-  * [ ] Insert ballot bag ****&#x20;
+  * [ ] Insert ballot bag (optional)
 
 ### ****
 
@@ -36,7 +36,7 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 #### **Part 1: VxScan - Opening**
 
 * [ ] Confirm Election, Election ID, Date, Time, and Precinct (Admin Card)
-* [ ] Calibrate scanner with the blank paper (Admin Card)
+* [ ] Select _`Calibrate Scanner`_ and insert a blank sheet of paper (Admin Card)
 * [ ] Confirm VxScan is in Testing Mode (Admin Card)
 * [ ] Open polls (Poll Worker Card)
 
@@ -44,25 +44,25 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 
 #### Part 2: VxMark - Opening and Marking Ballots
 
-* [ ] Confirm Election, Election ID, Date, Time, and Precinct (Admin Card)
 * [ ] Confirm printer has plenty of paper
-* [ ] Confirm VxMark is in Testing Mode (Admin Card)
 * [ ] Print Tally Report from VxScan to serve as the Zero Report (Poll Worker Card)
 * [ ] Confirm Zero Report is all zeros
 * [ ] Open polls on VxMark (Poll Worker Card)
 * [ ] Confirm all expected ballot styles show up as options at top of screen
 * [ ] Confirm all Poll Worker Cards work
 * [ ] Run the [Ballot Style Sub-Checklist](per-ballot-style-per-vxmark-checklist.md) for _each_ ballot style
-* [ ] For one of the ballot styles selected at random, confirm that the entire ballot can be filled out and printed using only the audio track over headphones and the accessible controller (do not scan this ballot)
+* [ ] For one of the ballot styles selected at random, confirm that the entire ballot can be filled out and printed using only the audio track over headphones and the accessible controller **(do not scan this ballot)**
+* [ ] Confirm Election, Election ID, Date, Time, and Precinct (Admin Card)
+* [ ] Confirm VxMark is in Testing Mode (Admin Card)
 * [ ] Print a Test Deck for the current precinct (Admin Card)
 
 
 
 #### Part 3: VxScan - Casting Votes and Closing
 
-* [ ] Scan each ballot in VxMark (machine-marked) Test Deck
-  * [ ] Do not scan your own test votes from VxMark&#x20;
-* [ ] Scan each ballot in VxAdmin (hand-marked) Test Deck
+* [ ] Scan each ballot from VxMark (machine-marked) Test Deck
+  * [ ] Do **not** scan your own test votes from VxMark&#x20;
+* [ ] Scan each ballot from VxAdmin (hand-marked) Test Deck
 * [ ] Scan blank ballot
   * [ ] Confirm it is rejected & select _`Count Ballot`_
 * [ ] Scan overvoted ballot
@@ -77,7 +77,7 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 * [ ] Print Polls Closed Report (Poll Worker Card)
 * [ ] Confirm Polls Closed Report matches Test Deck Tally (x2 if scanning VxMark & VxScan ballots)
 * [ ] Scan QR code
-* [ ] Close polls (Admin Card)
+* [ ] Close polls (Poll Worker Card)
 * [ ] Switch to _`Live Election Mode`_(Admin Card)
 
 #### Part 5: VxScan - Removing Results
@@ -85,6 +85,7 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 * [ ] Remove ballot bag
 * [ ] Remove ballots from ballot bag
 * [ ] Set aside blank piece of paper - you **will not** need this later
+* [ ] Set aside blank and overvoted ballots - you **will not** need this later
 * [ ] Set aside test deck ballots - you **will** need this later
 * [ ] Open metal enclosure
 * [ ] Remove USB drive and set aside
@@ -95,6 +96,7 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 
 ### **Pack Up and Seal Equipment**
 
+* [ ] Verify neither VxScan nor VxMark has an orange testing banner on the screen
 * [ ] Insert USB drive into VxScan
 * [ ] Close metal enclosure
 * [ ] Close Ballot Bag Main Opening&#x20;
@@ -113,8 +115,8 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 
 | Seal Location           | Seal Color | Number |
 | ----------------------- | ---------- | ------ |
-| Ballot Box Main Opening | Red        |        |
-| Ballot Box Flap 1       | Yellow     |        |
-| Ballot Box Flap 2       | Yellow     |        |
-| VxScan                  | Green      |        |
-| VxMark                  | Green      |        |
+| Ballot Box Main Opening |            |        |
+| Ballot Box Flap 1       |            |        |
+| Ballot Box Flap 2       |            |        |
+| VxScan                  |            |        |
+| VxMark                  |            |        |

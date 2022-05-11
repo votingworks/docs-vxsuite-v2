@@ -10,24 +10,24 @@
   * [ ] Turn power backup on
   * [ ] Lift screen upright
   * [ ] Open ballot entry flap
-  * [ ] Attach tray
+  * [ ] Attach ballot entry tray
 * [ ] [VxMark Setup](setting-up-and-opening-polls/vxmark.md)
   * [ ] Set up printer
     * [ ] Remove printer from case
     * [ ] Plug power cable into printer and outlet
     * [ ] Turn on
   * [ ] Remove and document VxMark seal
-  * [ ] Open VxMark
+  * [ ] Open all four latches
   * [ ] Plug power cord into outlet
   * [ ] Connect printer cable to printer
   * [ ] Set accessible controller to side
   * [ ] Plug headphones into accessible controller
-  * [ ] Set up privacy shield
   * [ ] Turn on (screen shows "Polls Closed")
+  * [ ] Set up privacy shield
 
 ### [Open Polls](setting-up-and-opening-polls/opening-polls.md)
 
-* [ ] Insert poll worker card into VxScan
+* [ ] Insert Poll Worker Card into VxScan
 * [ ] Select _`Yes, Open the Polls`_
 * [ ] Insert Poll Worker Card into VxMark
 * [ ] Select _`Print Tally Report` -_ 2 copies will print
@@ -75,24 +75,26 @@
   * [ ] Turn off
   * [ ] Lower screen
   * [ ] Unplug power cord and place in lid pocket
-  * [ ] Remove feeder tray and place inside outer bag
+  * [ ] Remove ballot entry tray and place inside outer bag
   * [ ] Close ballot entry flap
   * [ ] Close top
   * [ ] Seal ballot entry flap and top zippers together
   * [ ] Document seal number
 * [ ] [VxMark](closing-polls-and-packing-up/packing-up-vxmark.md)
   * [ ] Pack up printer
+    * [ ] Turn off printer
+    * [ ] Disconnect printer cable
     * [ ] Disconnect power cord from outlet and printer
     * [ ] Place printer into case
-    * [ ] Place cord into case
+    * [ ] Place power cord into case
+  * [ ] Privacy shield: return to case lid, foam facing you
   * [ ] Turn off VxMark
   * [ ] Power adapter: return to case, back-left
   * [ ] Printer cable: return to case, middle-right
-  * [ ] Accessible controller: return to case, front-left
   * [ ] Headphones: return to pouch, place atop screen
+  * [ ] Accessible controller: return to case, front-left
   * [ ] All cables: neatly within case
-  * [ ] Privacy shield: place behind top foam
-  * [ ] Close latches
+  * [ ] Close all four latches
   * [ ] Seal container
   * [ ] Document seal number
 

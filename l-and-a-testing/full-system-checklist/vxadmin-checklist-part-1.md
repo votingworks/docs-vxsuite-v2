@@ -5,32 +5,31 @@ This checklist needs to be run only once for the entire jurisdiction. Its purpos
 | Name: | Date: |
 | ----- | ----- |
 
-* [ ] Connect VxAdmin to printer (model **m404dn**)
+* [ ] Turn on VxAdmin and printer (model **m404dn**)
 * [ ] Confirm printer has plenty of paper
-* [ ] Turn on VxAdmin and printer
 * [ ] Confirm VxAdmin is configured for the appropriate election
-* [ ] _`Print Test Decks`_ for  _`All Precincts`_ - this may take a few minutes
-* [ ] Print Test Deck Tallies
-  * [ ] Print 1 _`Test Ballot Deck Tally`_ for `All Precincts`
-  * [ ] Print 1 _`Test Ballot Deck Tally`_ for _each_ precinct
-* [ ] Print an _`Unofficial Full Election Tally Report`_ as the Zero Report
-* [ ] Print Additional Test Ballots
-  * [ ] Print 2 Test Ballots from _any_ precinct
+* [ ] Using the Tally tab, select_`Print Test Decks`_ for  _`All Precincts`_ - button is at the bottom of the page
+* [ ] Using the Tally tab, Print Test Deck Tally Reports - button is at the bottom of the page
+  * [ ] Select _`View Test Ballot Deck Tally`_ and then `All Precincts`
+  * [ ] Select _`View Test Ballot Deck Tally`_ and then __ select _each_ precinct and _`Print Results Report`_
+* [ ] Using the Tally tab, print an _`Unofficial Full Election Tally Report`_ as the Zero Report
+* [ ] Using the Ballots tab, print additional test ballots
+  * [ ] Print 2 Test Ballots from _any_ precinct (used when testing VxCentralScan)
     * [ ] Leave the first blank
-    * [ ] Overvote one race on the second
-  * [ ] Print 2 Test Ballots from _each_ precinct and ballot style
+    * [ ] Overvote **one race** on the second
+  * [ ] Print 2 Test Ballots from _each_ precinct and ballot style (used for each VxScan)
     * [ ] Leave the first of each pair blank
-    * [ ] Overvote one race on the second of each pair
+    * [ ] Overvote **one race** on the second of each pair
 * [ ] Organize precinct-specific materials by precinct. Each precinct should have:
   * [ ] Test Ballot Deck Tally
   * [ ] Test Deck
-  * [ ] Blank Ballot
-  * [ ] Overvoted Ballot
+  * [ ] Blank ballot
+  * [ ] Overvoted ballot
 * [ ] Confirm that you also have the following materials for the overall election:
-  * [ ] Zero Report
+  * [ ] Zero Report (Unofficial Full Election Tally Report)
   * [ ] Test Ballot Deck Tally for All Precincts
-  * [ ] Blank Ballot
-  * [ ] Overvoted Ballot
+  * [ ] Blank ballot
+  * [ ] Overvoted ballot
 
 {% content-ref url="../test-deck-printing.md" %}
 [test-deck-printing.md](../test-deck-printing.md)

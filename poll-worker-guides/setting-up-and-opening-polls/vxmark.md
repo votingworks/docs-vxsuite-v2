@@ -16,7 +16,7 @@ description: >-
 
 ## VxMark Setup
 
-The **VxMark** should be setup on a different table than the **VxScan**, in a place that provides a voter using the device privacy to vote and print a ballot.\
+The **VxMark** should be set up on a different table than the **VxScan**, in a place that provides a voter using the device privacy to vote and print a ballot.\
 \
 **VxMark** can be set up through the following steps:
 

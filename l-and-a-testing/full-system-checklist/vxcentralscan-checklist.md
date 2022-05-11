@@ -15,9 +15,11 @@ The VxCentralScan Checklist should be run for _each_ VxCentralScan station. If y
 * [ ] Scan the blank ballot
   * [ ] Confirm it shows up as blank
   * [ ] Select _`Tabulate Duplicate Ballot`_
+  * [ ] Select _`Tabulate Ballot and Continue Scanning`_
 * [ ] Scan the overvoted ballot
   * [ ] Confirm it shows up as an overvote
   * [ ] Select _`Tabulate Duplicate Ballot`_
+  * [ ] Select _`Tabulate Ballot and Continue Scanning`_
 * [ ] `Export` the CVR file to a USB drive
 * [ ] Select _`Toggle to Live Election Mode`_ in the Admin menu
 
