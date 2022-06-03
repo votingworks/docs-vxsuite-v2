@@ -9,6 +9,13 @@ We recommend using 28lb or heavier letter paper (8.5" x 11"). Specifically:
 
 **Do not use paper thinner than 28 lb.** Significantly thinner paper is somewhat transparent, and marks from one side of the ballot show through the paper and interfere with scanning of the opposite side.
 
+### Toner Cartridges
+
+The HP printers for both VxMark and VxAdmin use toner cartridge 58. HP offers two sizes:
+
+* [HP 58A](https://www.hp.com/us-en/shop/pdp/hp-58a-black-original-laserjet-toner-cartridge) - regular size, prints approximately 3000 pages
+* [HP 58X](https://www.hp.com/us-en/shop/pdp/hp-58x-high-yield-black-original-laserjet-toner-cartridge) - high yield, prints approximately 10000 pages
+
 ### USB Drive Recommendations and Compatibility
 
 While our system does not require a particular type of USB drive, some USB drives will not work because of how they are formatted.&#x20;
