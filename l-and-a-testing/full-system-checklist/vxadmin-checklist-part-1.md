@@ -8,11 +8,10 @@ This checklist needs to be run only once for the entire jurisdiction. Its purpos
 * [ ] Turn on VxAdmin and printer (model **m404dn**)
 * [ ] Confirm printer has plenty of paper
 * [ ] Confirm VxAdmin is configured for the appropriate election
-* [ ] Using the Tally tab, select_`Print Test Decks`_ for  _`All Precincts`_ - button is at the bottom of the page
 * [ ] Using the Tally tab, Print Test Deck Tally Reports - button is at the bottom of the page
   * [ ] Select _`View Test Ballot Deck Tally`_ and then `All Precincts`
   * [ ] Select _`View Test Ballot Deck Tally`_ and then __ select _each_ precinct and _`Print Results Report`_
-* [ ] Using the Tally tab, print an _`Unofficial Full Election Tally Report`_ as the Zero Report
+* [ ] Using the Tally tab, select_`Print Test Decks`_ for  _`All Precincts`_ - button is at the bottom of the page
 * [ ] Using the Ballots tab, print additional test ballots
   * [ ] Print 2 Test Ballots from _any_ precinct (used when testing VxCentralScan)
     * [ ] Leave the first blank
@@ -25,6 +24,7 @@ This checklist needs to be run only once for the entire jurisdiction. Its purpos
   * [ ] Test Deck
   * [ ] Blank ballot
   * [ ] Overvoted ballot
+* [ ] Using the Tally tab, print an _`Unofficial Full Election Tally Report`_ as the Zero Report
 * [ ] Confirm that you also have the following materials for the overall election:
   * [ ] Zero Report (Unofficial Full Election Tally Report)
   * [ ] Test Ballot Deck Tally for All Precincts

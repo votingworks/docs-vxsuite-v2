@@ -23,7 +23,7 @@
 ## L\&A Testing
 
 * [L\&A Overview](l-and-a-testing/l-and-a-checklist.md)
-* [Central System Checklist](l-and-a-testing/election-manager-and-ballot-scanner-checklist.md)
+* [Central System (only) Checklist](l-and-a-testing/election-manager-and-ballot-scanner-checklist.md)
 * [Full System Checklist](l-and-a-testing/full-system-checklist/README.md)
   * [VxAdmin Checklist - Part 1](l-and-a-testing/full-system-checklist/vxadmin-checklist-part-1.md)
   * [Precinct (VxScan + VxMark) Checklist](l-and-a-testing/full-system-checklist/precinct-vxscan-+-vxmark-checklist/README.md)

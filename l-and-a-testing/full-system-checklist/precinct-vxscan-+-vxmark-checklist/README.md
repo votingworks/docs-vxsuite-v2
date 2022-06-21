@@ -7,9 +7,10 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 
 ### **Gather Precinct Materials**
 
-* [ ] Admin Card
-* [ ] Poll Worker Card(s)
-* [ ] Labelled USB drive
+* [ ] Admin Card (enough for everyone testing)
+* [ ] Poll Worker Card(s) (all that will be used on Election Day)
+* [ ] USB drive
+* [ ] Seals
 * [ ] Blank white piece of paper - same thickness as ballots
 * [ ] [Ballot Style Checklist](per-ballot-style-per-vxmark-checklist.md) for each ballot style
 * [ ] Precinct-specific test ballots
@@ -35,6 +36,7 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 
 #### **Part 1: VxScan - Opening**
 
+* [ ] Insert a new USB drive
 * [ ] Confirm Election, Election ID, Date, Time, and Precinct (Admin Card)
 * [ ] Select _`Calibrate Scanner`_ and insert a blank sheet of paper (Admin Card)
 * [ ] Confirm VxScan is in Testing Mode (Admin Card)
@@ -45,6 +47,8 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 #### Part 2: VxMark - Opening and Marking Ballots
 
 * [ ] Confirm printer has plenty of paper
+* [ ] Confirm Election, Election ID, Date, Time, and Precinct
+* [ ] Confirm VxMark is in Testing Mode
 * [ ] Print Tally Report from VxScan to serve as the Zero Report (Poll Worker Card)
 * [ ] Confirm Zero Report is all zeros
 * [ ] Open polls on VxMark (Poll Worker Card)
@@ -52,8 +56,6 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 * [ ] Confirm all Poll Worker Cards work
 * [ ] Run the [Ballot Style Sub-Checklist](per-ballot-style-per-vxmark-checklist.md) for _each_ ballot style
 * [ ] For one of the ballot styles selected at random, confirm that the entire ballot can be filled out and printed using only the audio track over headphones and the accessible controller **(do not scan this ballot)**
-* [ ] Confirm Election, Election ID, Date, Time, and Precinct (Admin Card)
-* [ ] Confirm VxMark is in Testing Mode (Admin Card)
 * [ ] Print a Test Deck for the current precinct (Admin Card)
 
 
