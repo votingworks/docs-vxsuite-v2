@@ -57,6 +57,9 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 * [ ] Run the [Ballot Style Sub-Checklist](per-ballot-style-per-vxmark-checklist.md) for _each_ ballot style
 * [ ] For one of the ballot styles selected at random, confirm that the entire ballot can be filled out and printed using only the audio track over headphones and the accessible controller **(do not scan this ballot)**
 * [ ] Print a Test Deck for the current precinct (Admin Card)
+  * [ ] Select _`View Test Ballot Decks`_
+  * [ ] Select precinct
+  * [ ] Select Print x ballots
 
 
 
