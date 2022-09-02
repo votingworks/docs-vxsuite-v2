@@ -32,7 +32,7 @@ description: >-
 
 * [ ] open the case by lifting the latches on front
 
-![Lift the latches](<../.gitbook/assets/image (87).png>)
+![Lift the latches](<../.gitbook/assets/image (87) (1).png>)
 
 * [ ] **prepare the components:**
   * [ ] remove the **laptop**

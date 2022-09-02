@@ -32,6 +32,6 @@ Pack up **VxMark** through the following steps:
 * [ ] seal in one of the two locations highlighted with a square in the picture below
 * [ ] record the seal number
 
-![](<../../.gitbook/assets/image (220).png>)
+![](<../../.gitbook/assets/image (220) (1).png>)
 
 Record the seal number on the **Equipment Seals Log** and store or return the equipment according to your election administrator's directions.

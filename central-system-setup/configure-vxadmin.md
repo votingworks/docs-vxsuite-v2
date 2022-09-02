@@ -15,7 +15,7 @@ Before creating an election, you'll need to download two files from SEMS (be sur
 
 When VxAdmin is not configured, the screen will display **Configure VxAdmin**.
 
-![Configure VxAdmin](<../.gitbook/assets/image (216).png>)
+![Configure VxAdmin](<../.gitbook/assets/image (216) (2).png>)
 
 SEMS files can be loaded to define an election in a self-service fashion. Due to frequent irregularities in SEMS data, however, many customers prefer that VotingWorks check and convert their SEMS files into a VotingWorks election definition file.
 
@@ -25,7 +25,7 @@ You must have the two election details files exported from SEMS saved to a USB d
 
 Select _`Convert from SEMS files`_ to open the SEMS file conversion page. Then select _`SEMS main file.`_
 
-![Convert from SEMS files](<../.gitbook/assets/convert SEMS.png>) ![SEMS main file](<../.gitbook/assets/Sems main file.png>)
+![Convert from SEMS files](<../.gitbook/assets/VxAdmin convert from SEMS.png>) ![SEMS main file](<../.gitbook/assets/Sems main file.png>)
 
 &#x20;Next, select the main SEMS file which should be named COUNTYID\_DATE.txt. Select _`Open`_. _`✓ Loaded SEMS main file`_ will display when loaded.
 
@@ -35,7 +35,7 @@ Next, select _`SEMS candidate mapping file`_ to open the SEMS candidate mapping 
 
 ![Select SEMS candidate mapping file](<../.gitbook/assets/sems candidate mapping.png>) ![Select SEMS CANDMAP file](<../.gitbook/assets/candmap file picker.png>)
 
-Once complete, the Ballots tab will show the list of all ballots.
+Once complete, the the Definition tab will display all of the details of your election.
 
 ### Option 2: From VotingWorks Election Definition File
 
@@ -43,9 +43,9 @@ Save the election definition file provided by VotingWorks to a USB drive. Insert
 
 Select _`Select Existing Election Definition File.`_Select the file from the USB drive and select _`Open.`_
 
-![Select existing election definition file](<../.gitbook/assets/select existing election def.png>) ![Select main SEMS file](<../.gitbook/assets/select sems file (1).png>)
+![Select existing election definition file](<../.gitbook/assets/VxAdmin select existing.png>) ![Select file](<../.gitbook/assets/Vxadmin select main.png>)
 
-Once complete, the Ballots tab will show the list of all ballots.
+Once complete, the Definition tab will display all of the details of your election.
 
 ## Remove Election
 
@@ -53,6 +53,6 @@ If you need to change an election definition or reset VxScan for the next electi
 
 Select the Definition tab and scroll to the bottom. Select the red _`Remove Election`_ button.
 
-![Remove Election](<../.gitbook/assets/image (141).png>)
+![Remove Election](<../.gitbook/assets/image (190).png>)
 
 After confirming that you want to remove the election definition and results data, you will return to the initial VxAdmin configuration screen. From there you can re-configure VxAdmin and load a new election definition file by repeating the steps above.

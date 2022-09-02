@@ -2,17 +2,29 @@
 
 ### Unlocking
 
-VxAdmin and VxCentralScan require users to use an Admin Card and a Security Code to login. Both machines have a smart card reader as shown below.
+VxAdmin and VxCentralScan require users to use an Election Manager Card and a security code to login. Both machines have a smartcard reader as shown below.&#x20;
 
-![Laptop on and locked](<../.gitbook/assets/image (219).png>)
+![Laptop on and locked](<../.gitbook/assets/image (219) (2).png>)
 
-Both machines will display Machine Locked when turned on. To unlock the machine, insert your Admin Card into the attached card reader.
+Both machines will display Machine Locked when turned on. To unlock the machine, insert your Election Manager Card into the attached card reader.
 
-![Machine locked screen](<../.gitbook/assets/machine locked screen.png>) ![Admin Card in card reader](<../.gitbook/assets/admin card in card reader.png>)
+<div>
 
-Enter the card security code and remove your Admin Card.
+<img src="../.gitbook/assets/admin card in card reader (2).png" alt="Admin Card in card reader">
 
-![Enter card security code](<../.gitbook/assets/image (173).png>)
+ 
+
+<figure><img src="../.gitbook/assets/VxAdmin is Locked.png" alt=""><figcaption><p>Locked screen</p></figcaption></figure>
+
+</div>
+
+Enter the card security code and remove your Election Manager Card.
+
+![Enter card security code](<../.gitbook/assets/image (173) (2).png>)
+
+{% hint style="info" %}
+Note: A System Administrator Card may also be used to unlock VxAdmin.
+{% endhint %}
 
 ### Locking
 
@@ -20,8 +32,8 @@ Any time a machine will be left unattended, be sure to lock the machine by selec
 
 **VxAdmin**
 
-![](<../.gitbook/assets/image (188).png>)
+<figure><img src="../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
 
 **VxCentralScan**
 
-![](<../.gitbook/assets/image (142).png>)
+<figure><img src="../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>

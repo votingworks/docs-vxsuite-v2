@@ -7,18 +7,22 @@
 * [VxAdmin Hardware Setup](central-system-setup/vxadmin-hardware-setup.md)
 * [Pre-Election Setup Checklist](central-system-setup/pre-election-setup-checklist.md)
 * [Configure VxAdmin](central-system-setup/configure-vxadmin.md)
-* [Print & Proof Ballots](central-system-setup/print-proofing-ballots.md)
-* [Export Ballot Package](central-system-setup/export-ballot-package.md)
+* [Review Definition & Proof Ballots](central-system-setup/review-definition-proofing-ballots.md)
+* [Smartcards](hardware-setup/programming-cards.md)
+* [Ballots](central-system-setup/ballots.md)
+* [Save Ballot Package](central-system-setup/save-ballot-package.md)
 * [VxCentralScan Hardware Setup](central-system-setup/vxcentralscan-hardware-setup.md)
 * [Configure VxCentralScan](central-system-setup/configure-ballot-scanner.md)
 * [Unlocking/Locking Hardware](central-system-setup/unlocking-locking-hardware.md)
-* [Smart Cards](hardware-setup/programming-cards.md)
 * [Setting Date & Time](central-system-setup/setting-date-and-time.md)
+* [Demo Election Definition](central-system-setup/demo-election-definition.md)
 
-## Precinct System Setup <a href="#hardware-setup" id="hardware-setup"></a>
+## Precinct System Setup & Diagnostics <a href="#Precinct-system-setup-diagnostics" id="Precinct-system-setup-diagnostics"></a>
 
-* [Configure VxScan](hardware-setup/configure-vxscan.md)
-* [Configure VxMark](hardware-setup/configuring-and-operating-vxmark.md)
+* [Configure VxScan](Precinct-system-setup-diagnostics/configure-vxscan.md)
+* [Configure VxMark](Precinct-system-setup-diagnostics/configuring-and-operating-vxmark.md)
+* [VxScan Error Messages](Precinct-system-setup-diagnostics/vxscan-error-messages.md)
+* [VxMark System Diagnostics & Troubleshooting](Precinct-system-setup-diagnostics/vxmark-system-diagnostics-and-troubleshooting.md)
 
 ## L\&A Testing
 
@@ -31,7 +35,6 @@
   * [VxCentralScan Checklist](l-and-a-testing/full-system-checklist/vxcentralscan-checklist.md)
   * [VxAdmin Checklist - Part 2](l-and-a-testing/full-system-checklist/vxadmin-checklist-part-2.md)
 * [Print VxAdmin Test Materials](l-and-a-testing/test-deck-printing.md)
-* [Print VxMark Test Decks](l-and-a-testing/print-test-deck-2.md)
 * [Scan Test Decks with VxCentralScan](l-and-a-testing/test-deck-scanning.md)
 * [Tally Test Results](l-and-a-testing/tabulate-test-deck.md)
 * [L\&A Cleanup](l-and-a-testing/prepare-for-election-day.md)
@@ -55,7 +58,7 @@
 * [Central Scanning](election-ops/scanning-ballots.md)
 * [Precinct Reporting](election-ops/precinct-reporting.md)
 * [Tally Results](election-ops/tabulating-results.md)
-* [Export Results](election-ops/export-results.md)
+* [Save Results](election-ops/export-results.md)
 
 ## After Election Night
 
@@ -67,4 +70,5 @@
 ## Reference
 
 * [Hardware Specifications](reference/hardware-specifications.md)
+* [Printer FAQs](reference/printer-faqs.md)
 * [Supply List](reference/supply-list.md)

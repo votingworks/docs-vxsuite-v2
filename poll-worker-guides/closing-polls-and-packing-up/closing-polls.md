@@ -18,26 +18,6 @@ To print the report, insert the Poll Worker Card into a VxMark and select _`Prin
 
 Two copies of the report will now print from the VxMark's printer in the following format:
 
-![Polls Closed Report - Cover Page](<../../.gitbook/assets/polls-closed-10-18-2021-pages-1 (1).jpg>) ![Polls Closed Report - Results Page](<../../.gitbook/assets/polls-closed-10-18-2021-pages-2 (1).jpg>) ![Polls Closed Report - Automatic Election Results Reporting](<../../.gitbook/assets/polls-closed-10-18-2021-pages-3 (1).jpg>)
-
-### QuickResults Reporting
-
-The final page of the polls closed report contains a QR code which contains VxScan's results.
-
-![](../../.gitbook/assets/QR\_Code\_Arrow.jpg)
-
-**Using your smartphone camera, read the QR code, and report the results:**
-
-* [ ] Open the camera app on your phone
-* [ ] Point your camera at the QR code and make sure the whole code is in focus.&#x20;
-* [ ] Once your camera recognizes the code, it will try to open the results website. Follow the link to visit the website.
-
-Simply by visiting the website, you are reporting the results. The QR code represents a tamper-proof summary of your precinct's results. While the QR code can be scanned as many times as you would like, the results will only be reported once, and valid QR codes can only be created on a registered VotingWorks machine.
-
-### Closing Polls on VxMark
-
-To close the polls on the VxMark, insert the Poll Worker Card and select _`Close Polls for [precinct name].`_
-
-![](<../../.gitbook/assets/image (102).png>)
+![Polls Closed Report - Cover Page](<../../.gitbook/assets/polls-closed-10-18-2021-pages-1 (1).jpg>) ![Polls Closed Report - Results Page](<../../.gitbook/assets/polls-closed-10-18-2021-pages-2 (1).jpg>)
 
 ``

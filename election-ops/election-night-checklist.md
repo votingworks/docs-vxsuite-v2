@@ -12,8 +12,8 @@ On election night, you will need the [VxCentralScan](../central-system-setup/vxc
 * [ ] Adjudicate ballots with the resolution board
 * [ ] Scan resolution board ballots
 * [ ] Write down the number ballots scanned by the scanner (on laptop screen)
-* [ ] Export CVRs to USB drive
-* [ ] Export Backup to USB drive (in Admin menu)
+* [ ] Save CVRs to USB drive
+* [ ] Save Backup to USB drive (in Admin menu)
 
 ### VxScan USB Retrieval
 
@@ -31,13 +31,17 @@ On election night, you will need the [VxCentralScan](../central-system-setup/vxc
 * [ ] Close the top zipper
 * [ ] Seal and record the top and entry flap zippers together
 
+
+
+
+
 ### [Tallying](tabulating-results.md) and [Exporting](export-results.md) Results
 
 * [ ] [Set up VxAdmin](../central-system-setup/vxadmin-hardware-setup.md)
 * [ ] Verify there are no CVRs on VxAdmin
-* [ ] Print an _`Unofficial Full Election Tally Report`_ as the Zero Report
-* [ ] Import CVRs from USB drives
-* [ ] If applicable, load SEMS file from other machines (e.g. TSX GEMS results)
-* [ ] Print an unofficial tally&#x20;
-* [ ] Export SEMS file to USB drive
+* [ ] In the Reports tab, print an _`Unofficial Full Election Tally Report`_ as the Zero Report
+* [ ] In the Tally tab, load CVRs from USB drives
+* [ ] If applicable, select _`Load External Results File`_ to save SEMS file from other machines (e.g. TSX GEMS results)&#x20;
+* [ ] In the Reports tab, print an _`Unofficial Full Election Tally Report`_ for the results&#x20;
+* [ ] Save SEMS Results file to USB drive
 * [ ] Upload SEMS file to SEMS

@@ -33,7 +33,6 @@
 * [ ] Select _`Print Tally Report` -_ 2 copies will print
 * [ ] Verify precinct name, date, time and totals are zero
 * [ ] Retain and/or display the Tally Report as instructed by your election administrator
-* [ ] Select _`Open Polls for [precinct name]`_
 
 ### [Assisting Voters](checklist.md#assisting-voters)
 
@@ -59,13 +58,8 @@
 * [ ] Insert Poll Worker Card into VxScan
 * [ ] Select _`Yes, Close the Polls`_
 * [ ] Insert Poll Worker Card into VxMark
-* [ ] Select _`Print Tally Report` -_ 2 copies will print, each 3 pages
-* [ ] Open the QR code on page three to report election results
-  * [ ] Open the camera on your smart phone
-  * [ ] Point the camera at the QR code
-  * [ ] Follow prompt to open the link&#x20;
+* [ ] Select _`Print Tally Report` -_ 2 copies will print, each 2 pages
 * [ ] Retain and/or display the Tally Report as instructed by your election administrator
-* [ ] Select _`Close Polls for [precinct name]`_
 
 ###
 

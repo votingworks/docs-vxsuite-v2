@@ -1,15 +1,37 @@
 # Supply List
 
-### Paper Recommendations and Compatibility
+## Paper Recommendation & Compatibility
 
-We recommend using 28lb or heavier letter paper (8.5" x 11"). Specifically:
+### Third Party Printing
 
-* Election Day ballots, white paper - [Hammermill 102450](https://www.amazon.com/Hammermill-Premium-Letter-Bright-102450C/dp/B00006IDP3/)
-* Absentee ballots, canary yellow paper - [Springhill 024159R](https://www.amazon.com/gp/product/B06WW39DGN/)
+When sending ballot PDFs to a third party printer, VotingWorks recommends printing ballots on paper weights ranging between 140-177gsm. The most common paper weights in this range are:
 
-**Do not use paper thinner than 28 lb.** Significantly thinner paper is somewhat transparent, and marks from one side of the ballot show through the paper and interfere with scanning of the opposite side.
+* 38# Bond (140gsm)
+* 100# Text (140gsm)
+* 60# Cover (162gsm)
+* 90# Index (162 gsm)
+* 120# Text (177 gsm)
+* 65# Cover (177 gsm)
 
-### Toner Cartridges
+### Printing On-Demand
+
+There are two ways of printing  on-demand: hand-marked paper ballot printing via VxAdmin and ballot-marked device printing via VxMark.&#x20;
+
+#### VxAdmin - Precinct Ballot Printing
+
+VotingWorks recommends the following 40# Bond (150gsm) paper for precinct ballot printing on-demand: [HP HeavyWeight Project Paper 40lb.](https://www.amazon.com/dp/B06WGR9RMH)
+
+#### VxAdmin - Absentee Ballot Printing
+
+VotingWorks recommends the following 28# Bond (104gsm) paper for colored (yellow) absentee ballot printing on-demand: [Springhill Canary Yellow 28lb.](https://www.amazon.com/gp/product/B06WW39DGN/)&#x20;
+
+#### VxMark - BMD Ballots & Report Printing
+
+VotingWorks recommends the following 32# Bond (120 gsm) for BMD ballots & report printing: [HP Premium 32lb. Paper](https://www.amazon.com/HP-Printer-Paper-Premium32-Letter/dp/B01NBJJR99/)
+
+Alternatively, for low volume BMD ballot printing, VotingWorks recommends using the same [40# Bond (150gsm) paper](https://www.amazon.com/dp/B06WGR9RMH). Please note this paper weight is only supported using Tray 1 on the VxMark-attached HP404n printer.
+
+#### Toner Cartridges
 
 The HP printers for both VxMark and VxAdmin use toner cartridge 58. HP offers two sizes:
 
@@ -25,7 +47,7 @@ There are a handful of USB drive models that we have tested and recommend to cus
 **Most Highly Recommended USB Drives:**
 
 * Micro Center SuperSpeed - [Amazon](https://www.amazon.com/dp/B09G2Q8NYP), [Micro Center](https://www.microcenter.com/product/487102/micro-center-16gb-superspeed-usb-31-\(gen-1\)-flash-drive) (Our Default Option)
-* PNY HP v150w - [Amazon](https://www.amazon.com/HP-v150w-Flash-Drive-10-Pack/dp/B08XLQQXGK), [Walmart](https://www.walmart.com/ip/HP-16GB-v150w-USB-2-0-Flash-Drive-10-Pack/516285756)
+* PNY HP v150w - [Amazon](https://www.amazon.com/HP-v150w-Flash-Drive-10-Pack/dp/B08XLQQXGK)
 * Verbatim Pinstripe - [Amazon](https://www.amazon.com/Verbatim-32GB-Pinstripe-Flash-Drive/dp/B07HGG7FXH?th=1), [Walmart](https://www.walmart.com/ip/Verbatim-VER70062-32GB-PinStripe-USB-Flash-Drive-Business-10pk-Black-10-Pack-Black/126526356)
 
 **Other Recommended USB Drives:**

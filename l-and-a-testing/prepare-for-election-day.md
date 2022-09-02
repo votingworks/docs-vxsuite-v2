@@ -2,32 +2,32 @@
 
 ### Remove CVR Files from VxAdmin
 
-To finish with L\&A, select _`Remove CVR Files`_ to clear VxAdmin of CVRs in preparation for election day. Confirm by selecting _`Remove CVR Files`_ in the popup confirmation screen.
+To finish L\&A, select _`Remove CVR Files`_ to clear VxAdmin of CVRs in preparation for election day. Confirm by selecting _`Remove CVR Files`_ in the popup confirmation screen.
 
-![](<../.gitbook/assets/image (128).png>)
+<figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
 ### Toggle VxCentralScan to Live Mode
 
 After you have removed CVR files from VxAdmin, you'll also need to change VxCentralScan from Test mode to Live mode. To change modes, select _`Admin`_ and then _`Toggle to Live Mode`_.
 
-![](<../.gitbook/assets/image (178) (1).png>)
+![](<../.gitbook/assets/image (207).png>)
 
 ### Toggle VxMark to Live Mode
 
-Insert the Admin Card into VxMark to show the Admin Screen, and select _`Live Election Mode`_.
+Insert the Election Manager Card into VxMark to show the Admin Screen, and select _`Live Election Mode`_.
 
-![](<../.gitbook/assets/image (166).png>)
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
-Remove the Admin Card, and confirm that the VxMark is in live mode by ensuring there is no orange Test Mode banner and Polls Closed is displayed.
+Remove the Election Manager Card, and confirm that the VxMark is in live mode by ensuring there is no orange Test Mode banner and Polls Closed is displayed.
 
 ![](<../.gitbook/assets/image (91).png>)
 
 ### Toggle VxScan to Live Mode
 
-Insert the Admin Card into VxScan to show the Administrator Settings Screen, and select _`Live Election Mode`_.
+Insert the Election Manager Card into VxScan to show the Administrator Settings Screen, and select _`Live Election Mode`_.
 
-![](<../.gitbook/assets/image (100) (1).png>)
+![Toggle to Live Election Mode](<../.gitbook/assets/image (231).png>)
 
-Remove the Admin Card, and confirm that the VxScan is in live mode by ensuring there is no orange Test Mode banner and Polls Closed is displayed.
+Remove the Election Manager Card, and confirm that the VxScan is in live mode by ensuring there is no orange Test Mode banner and Polls Closed is displayed.
 
-![](<../.gitbook/assets/image (213).png>)
+![](<../.gitbook/assets/image (213) (2).png>)

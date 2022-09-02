@@ -6,24 +6,24 @@ When you are ready to certify election results, you can mark VxAdmin results as 
 You may not add additional CVR files after marking as official so please ensure you are ready to do so!
 {% endhint %}
 
-To mark as official, navigate to the `Tally` **** tab and select `Mark Tally Results as Official....`
+To mark as official, navigate to the Tally **** tab and select _`Unofficial Full Election Tally Report.`_
 
-![](<../.gitbook/assets/image (210).png>)
+<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+
+Then select _`Mark Tally Results as Official.`_
+
+<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Confirm by selecting `Mark Tally Results as Official.`
 
-![](<../.gitbook/assets/Parallels Picture 65.png>)
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-All references in VxAdmin to unofficial results will be changed to official. Note that you can no longer load any additional CVRs at this point, unless you clear all results and start over.
+All references in VxAdmin to unofficial results will be changed to official. Note that you can no longer load any additional CVRs at this point, unless you clear all results and start over. _``_ You can print an official tally by going to the Reports tab and selecting `Official Full Election Tally Report.`
 
-![](<../.gitbook/assets/Parallels Picture 66.png>)
+<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
-You can print an official tally by scrolling to `View Official Full Election Tally.`
+To print, click _`Print Report`_ in the subsequent screen. Official will be displayed at the top of the screen and on the report.
 
-![](<../.gitbook/assets/image (42).png>)
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-To print, click `Print Report` in the subsequent screen.
-
-![](<../.gitbook/assets/image (163) (1).png>)
-
-After printing official election results, you can export and upload official election results to SEMS by following the [Export Results documentation.](https://docs.voting.works/vxpaper/election-ops/export-results)
+After printing official election results, you can save and upload official election results to SEMS by following the [Export Results documentation.](https://docs.voting.works/vxpaper/election-ops/export-results)

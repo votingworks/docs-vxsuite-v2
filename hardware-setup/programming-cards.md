@@ -1,21 +1,33 @@
-# Smart Cards
+---
+description: Smartcards can only be created by a System Administrator
+---
+
+# Smartcards
 
 ## Overview
 
-Smart cards are used to configure and operate equipment. It's the same technology as the chip in your credit card, but instead used to enable administrators and poll workers to configure and operate the equipment. There are two types of cards: Admin Cards and Poll Worker Cards**.**
+Smartcards are used to configure and operate equipment. It's the same technology as the chip in your credit card, but instead used to enable election administrators and poll workers to configure and operate the equipment. There are three types of cards: System Administrator, Election Manager, and Poll Worker Cards**.**
 
-![Admin and Poll Worker Cards](<../.gitbook/assets/image (157).png>)
+<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption><p>Smartcards</p></figcaption></figure>
 
-### Admin Cards
+### System Administrator Cards
 
-Admin Cards allow election administrators to unlock VxAdmin and VxCentral Scan as well as configure precinct equipment including:
+System Administrator Cards allow an election administrator to create/load an election definition, proof sample ballots, create smartcards, and remove the election definition from VxAdmin. This card is also used to perform software updates on all machines.
 
-* Configuring the equipment for a specific precinct
-* Configuring VxMarks with the list of contests and candidates
-* Toggling between Test mode and Live Election mode for L\&A
-* Updating settings like date and time
+System Administrator Cards should only need to be used at the very beginning and very end of an election. Keep this card in a secure location when not in use and from election to election.&#x20;
 
-Because Admin Cards allow access to VxAdmin and VxCentralScan as well as configure and unconfigure precinct equipment, they should only be used by election administrators and should be kept in a secure location.
+### Election Manager Cards
+
+Election Manager Cards allow election administrators to use central system devices and configure precinct system devices. Election Managers are responsible for:
+
+* printing ballots
+* preparing L\&A materials
+* centrally scanning ballots
+* configuring precinct equipment
+* tallying CVRs
+* printing and exporting results
+
+Election Manager Cards should only be used by election administrators and should be kept secure at all times.
 
 ### Poll Worker Cards
 
@@ -24,40 +36,30 @@ Poll Worker Cards allow poll workers to manage election day precinct tasks, incl
 * Opening the polls
 * Activating voter sessions on VxMark
 * Closing the polls
-* Printing reports
+* Printing precinct tally reports
 
 Every precinct will need at least one Poll Worker Card in order to operate the polls.
 
-## Managing Cards
+## Creating Cards
 
-For each election, you will encode the smart cards specifically for that election. Smart cards can be encoded quickly and easily with VxAdmin, in the Cards tab.
+For each election, you will create Election Manager and Poll Worker Cards specifically for that election. Smartcards can be created quickly and easily with VxAdmin, in the Smartcards tab.
 
-![Cards tab](<../.gitbook/assets/image (130).png>)
+![](<../.gitbook/assets/image (238).png>)
 
-You will use the HID Omnikey Card Reader provided with VxAdmin.&#x20;
+You will use the HID Omnikey Card Reader provided with VxAdmin to program a card. Simply insert the card of your choice and select the correct button for the card.
 
-### Encoding Admin Cards
+![Insert card into card reader](<../.gitbook/assets/admin card in card reader.png>) ![Select Election Manager Card or Poll Worker Car](<../.gitbook/assets/vxadmin smartcards create new card EM PW buttons highlighted.png>)
 
-Insert a smart card labelled Admin Card into the card reader. Push the card into the slot, stopping when you feel it tap the bottom of the card reader. In the Cards tab in VxAdmin, select _`Encode Admin Card.`_
+When creating an Election Manager card, the screen will provide you with a unique PIN for that card. Keep the PIN secure. When creating a Poll Worker card, the screen will simply confirm the card is created.
 
-![Insert Admin Card in reader](<../.gitbook/assets/admin card in card reader (1).png>) ![Select Encode Admin Card](<../.gitbook/assets/encode admin card.png>)
+![Election Manager Card confirmation screen with PIN](<../.gitbook/assets/vxadmin smarcards EM confirmation.png>) ![Poll Worker Card confirmation screen](<../.gitbook/assets/VxAdmin smart cards PW conf screen.png>)
 
-Create a Security Code for the card and click _`Create Card`_. Programming an Admin Card will take several seconds during which the lights on the card reader will flash and the screen will show Programming card...
+To create an additional System Administrator Card or reset the PIN, select _`Create System Administrator Cards`_ from the Election Cards screen. If a PIN already exists, a _`Reset Card PIN`_ button will appear.  If the card is not programmed a PIN will be generated.
 
-![Create security code](<../.gitbook/assets/create card.png>) ![Wait for programming to complete](<../.gitbook/assets/programming card.png>)
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
-After the message is gone, the card is programmed.
+### Unprogramming Cards
 
-### Encoding Poll Worker Cards
+If a card has already been programmed, when you insert the card into the card reader, a prompt to _`Unprogram Card`_ will be displayed. Select the _`Unprogram Card`_ button to clear the card.
 
-Insert the smart card labelled Poll Worker into the card reader. Push the card into the slot, stopping when you feel it tap the bottom of the card reader. In the Cards tab in VxAdmin, select _Encode Poll Worker Card._
-
-![Insert Poll Worker Card in reader](<../.gitbook/assets/poll worker card in reader.png>) ![Select Encode Poll Worker Card](<../.gitbook/assets/encode poll worker card.png>)
-
-VxAdmin will show that it is Programming card... briefly. The light on the card reader will blink green and red. For a Poll Worker card, this process will take a second or less.
-
-![](<../.gitbook/assets/image (203) (1).png>)
-
-After the message is gone, the card is programmed.
-
-##
+![Select Unprogram Card](<../.gitbook/assets/image (217).png>)

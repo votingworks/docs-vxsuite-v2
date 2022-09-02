@@ -13,6 +13,5 @@ The following is the master checklist to use for L\&A when using VxMarks and VxS
 * [ ] Backup Machine Testing
   * [ ] [Precinct Checklist](precinct-vxscan-+-vxmark-checklist/) for each backup set (VxScan + VxMark)
     * [ ] VxScan and VxMark should be configured for "All Precincts"
-    * [ ] Scan **full** test decks rather than precinct-specific test decks&#x20;
-  * [ ] [VxAdmin Checklist - Part 2](vxadmin-checklist-part-2.md)
-    * [ ] CVR count and tally results should match the test deck tally multiplied by the number of backup precincts
+    * [ ] Scan **full** test deck rather than precinct-specific test decks&#x20;
+    * [ ] Tally results should match the test deck tally - do not import CVRs to VxAdmin

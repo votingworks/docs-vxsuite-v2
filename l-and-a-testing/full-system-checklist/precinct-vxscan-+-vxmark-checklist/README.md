@@ -1,23 +1,19 @@
 # Precinct (VxScan + VxMark) Checklist
 
-This Precinct Checklist is appropriate for any precinct using both VxMark as an accessible ballot-marking device and VxScan as a precinct scanner. The equipment is best tested together, as they need matching configurations and will be used together at the precinct. At this point in logic and accuracy testing, both [VxScan](../../../hardware-setup/configure-vxscan.md) and [VxMark](../../../hardware-setup/configuring-and-operating-vxmark.md) should already be configured.
+This Precinct Checklist is appropriate for any precinct using both VxMark as an accessible ballot-marking device and VxScan as a precinct scanner. The equipment is best tested together, as they need matching configurations and will be used together at the precinct. At this point in logic and accuracy testing, both [VxScan](../../../Precinct-system-setup-diagnostics/configure-vxscan.md) and [VxMark](../../../Precinct-system-setup-diagnostics/configuring-and-operating-vxmark.md) should already be configured.
 
 | Name: | Date: |
 | ----- | ----- |
 
 ### **Gather Precinct Materials**
 
-* [ ] Admin Card (enough for everyone testing)
+* [ ] Election Manager (EM) Card (enough for everyone testing)
 * [ ] Poll Worker Card(s) (all that will be used on Election Day)
 * [ ] USB drive
 * [ ] Seals
 * [ ] Blank white piece of paper - same thickness as ballots
 * [ ] [Ballot Style Checklist](per-ballot-style-per-vxmark-checklist.md) for each ballot style
-* [ ] Precinct-specific test ballots
-  * [ ] VxAdmin Test Deck
-  * [ ] Blank ballot
-  * [ ] Overvoted ballot
-  * [ ] Test Ballot Deck Tally
+* [ ] L\&A Package
 
 ### **Set Up Equipment**
 
@@ -30,16 +26,16 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
   * [ ] Close enclosure
   * [ ] Insert ballot bag (optional)
 
-### ****
+****
 
 ### **Using Equipment**
 
 #### **Part 1: VxScan - Opening**
 
 * [ ] Insert a new USB drive
-* [ ] Confirm Election, Election ID, Date, Time, and Precinct (Admin Card)
-* [ ] Select _`Calibrate Scanner`_ and insert a blank sheet of paper (Admin Card)
-* [ ] Confirm VxScan is in Testing Mode (Admin Card)
+* [ ] Confirm Election, Election ID, Date, Time, and Precinct (EM Card)
+* [ ] Select _`Calibrate Scanner`_ and insert a blank sheet of paper (EM Card)
+* [ ] Confirm VxScan is in Testing Mode (EM Card)
 * [ ] Open polls (Poll Worker Card)
 
 
@@ -56,34 +52,28 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 * [ ] Confirm all Poll Worker Cards work
 * [ ] Run the [Ballot Style Sub-Checklist](per-ballot-style-per-vxmark-checklist.md) for _each_ ballot style
 * [ ] For one of the ballot styles selected at random, confirm that the entire ballot can be filled out and printed using only the audio track over headphones and the accessible controller **(do not scan this ballot)**
-* [ ] Print a Test Deck for the current precinct (Admin Card)
-  * [ ] Select _`View Test Ballot Decks`_
-  * [ ] Select precinct
-  * [ ] Select Print x ballots
 
 
 
 #### Part 3: VxScan - Casting Votes and Closing
 
-* [ ] Scan each ballot from VxMark (machine-marked) Test Deck
-  * [ ] Do **not** scan your own test votes from VxMark&#x20;
-* [ ] Scan each ballot from VxAdmin (hand-marked) Test Deck
-* [ ] Scan blank ballot
-  * [ ] Confirm it is rejected & select _`Count Ballot`_
-* [ ] Scan overvoted ballot
-  * [ ] Confirm it is rejected & select _`Count Ballot`_
+* [ ] Scan all ballots from the precinct's L\&A Package
+  * [ ] Pre-voted VxMark test ballots (do **not** scan your own test votes from VxMark)
+  * [ ] Pre-voted hand-marked test ballots&#x20;
+  * [ ] The blank ballot
+    * [ ] Confirm it is rejected & select _`Cast Ballot as Is`_
+  * [ ] The overvoted ballot
+    * [ ] Confirm it is rejected & select _`Cast Ballot as Is`_
 * [ ] Close polls (Poll Worker Card)
-* [ ] Switch to _`Live Election Mode`_ (Admin Card)
+* [ ] Switch to _`Live Election Mode`_ (EM Card)
 
 ####
 
 #### Part 4: VxMark - Closing
 
 * [ ] Print Polls Closed Report (Poll Worker Card)
-* [ ] Confirm Polls Closed Report matches Test Deck Tally (x2 if scanning VxMark & VxScan ballots)
-* [ ] Scan QR code
-* [ ] Close polls (Poll Worker Card)
-* [ ] Switch to _`Live Election Mode`_(Admin Card)
+* [ ] Confirm Polls Closed Report matches Test Deck Tally
+* [ ] Switch to _`Live Election Mode`_(EM Card)
 
 #### Part 5: VxScan - Removing Results
 
