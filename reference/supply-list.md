@@ -1,50 +1,45 @@
 # Supply List
 
-## Paper Recommendation & Compatibility
+## Ballot Printing In Bulk (From External Printer)
 
-### Third Party Printing
 
-When sending ballot PDFs to a third party printer, VotingWorks recommends printing ballots on paper weights ranging between 140-177gsm. The most common paper weights in this range are:
 
-* 38# Bond (140gsm)
-* 100# Text (140gsm)
-* 60# Cover (162gsm)
-* 90# Index (162 gsm)
-* 120# Text (177 gsm)
-* 65# Cover (177 gsm)
+When using a third party printer, VotingWorks recommends printing ballots on paper between 38# Bond (140 GSM) - 65# Cover (177 GSM) for the best voter experience. The commonly available paper weights in this range are:
 
-### Printing On-Demand
+* 38# Bond (140 GSM)
+* 100# Text (140 GSM)
+* 60# Cover (162 GSM)
+* 90# Index (162 GSM)
+* 120# Text (177 GSM)
+* 65# Cover (177 GSM)
 
-There are two ways of printing  on-demand: hand-marked paper ballot printing via VxAdmin and ballot-marked device printing via VxMark.&#x20;
+## Ballot Printing On-Demand
 
-#### VxAdmin - Precinct Ballot Printing
+When printing ballots on-demand using supplied HP printers, VotingWorks suggests printing ballots on 40# Bond (150 GSM) and specifically recommends [HP 40# Project Paper](https://www.amazon.com/dp/B06WGR9RMH) for use with these printers. Heavier paper is most important for printing of precinct hand-marked paper ballots for an improved voter experience inserting ballots into VxScan and to reduce the rates of paper jams.
 
-VotingWorks recommends the following 40# Bond (150gsm) paper for precinct ballot printing on-demand: [HP HeavyWeight Project Paper 40lb.](https://www.amazon.com/dp/B06WGR9RMH)
+The following alternative common off-the-shelf paper weights are suitable for absentee ballot or ballot-marked device ballot printing on-demand:&#x20;
 
-#### VxAdmin - Absentee Ballot Printing
+* 32# Bond (120 GSM)&#x20;
+  * Specific recommendations: [HP Premium 32](https://www.amazon.com/HP-Printer-Paper-Premium32-Letter/dp/B000099O2W),[ Hammermill Premium 32 ](https://www.amazon.com/Hammermill-Premium-Letter-Bright-104646R/dp/B000J0C464)
+* 28# Bond (105 GSM)&#x20;
+  * Specific recommendations: [HP Premium 28](https://www.amazon.com/dp/B00RUKC3PI/), [Hammermill Premium 28](https://www.amazon.com/dp/B00006IDP3/), [SpringHill 28 (Colored)](https://www.amazon.com/gp/product/B06WW39DGN/)
 
-VotingWorks recommends the following 28# Bond (104gsm) paper for colored (yellow) absentee ballot printing on-demand: [Springhill Canary Yellow 28lb.](https://www.amazon.com/gp/product/B06WW39DGN/)&#x20;
+Note: printing of paper heavier than 32# Bond (120 GSM) requires use of either the HP454dn printer or Tray 1 on the HP404dn or HP404n printers.
 
-#### VxMark - BMD Ballots & Report Printing
-
-VotingWorks recommends the following 32# Bond (120 gsm) for BMD ballots & report printing: [HP Premium 32lb. Paper](https://www.amazon.com/HP-Printer-Paper-Premium32-Letter/dp/B01NBJJR99/)
-
-Alternatively, for low volume BMD ballot printing, VotingWorks recommends using the same [40# Bond (150gsm) paper](https://www.amazon.com/dp/B06WGR9RMH). Please note this paper weight is only supported using Tray 1 on the VxMark-attached HP404n printer.
-
-#### Toner Cartridges
+### Toner Cartridges
 
 The HP printers for both VxMark and VxAdmin use toner cartridge 58. HP offers two sizes:
 
 * [HP 58A](https://www.hp.com/us-en/shop/pdp/hp-58a-black-original-laserjet-toner-cartridge) - regular size, prints approximately 3000 pages
 * [HP 58X](https://www.hp.com/us-en/shop/pdp/hp-58x-high-yield-black-original-laserjet-toner-cartridge) - high yield, prints approximately 10000 pages
 
-### USB Drive Recommendations and Compatibility
+## USB Drive Recommendations and Compatibility
 
-While our system does not require a particular type of USB drive, some USB drives will not work because of how they are formatted.&#x20;
+While our system does not require a particular type of USB drive, some USB drives will not work because of how they are formatted. Drives must be in a FAT format.
 
 There are a handful of USB drive models that we have tested and recommend to customers. We selected them because they work with our system, have reputable manufacturers, and can be bought at a reasonable price. You don't need more than 8GB in size, but for most of our recommended models the minimum you can buy is 16GB.
 
-**Most Highly Recommended USB Drives:**
+**Highly Recommended USB Drives:**
 
 * Micro Center SuperSpeed - [Amazon](https://www.amazon.com/dp/B09G2Q8NYP), [Micro Center](https://www.microcenter.com/product/487102/micro-center-16gb-superspeed-usb-31-\(gen-1\)-flash-drive) (Our Default Option)
 * PNY HP v150w - [Amazon](https://www.amazon.com/HP-v150w-Flash-Drive-10-Pack/dp/B08XLQQXGK)
@@ -58,7 +53,7 @@ There are a handful of USB drive models that we have tested and recommend to cus
 
 You can try USB drives that are not on this list, but you must test each model with our equipment before you use it in an election.&#x20;
 
-### Voting Instruction Posters
+## Voting Instruction Posters
 
 [Voting Instruction Poster - landscape](https://drive.google.com/file/d/1SMwmFbpt\_7QXWu1r4bmcX3r35XBnc3y0/view?usp=sharing)
 
