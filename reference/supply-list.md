@@ -1,26 +1,25 @@
 # Supply List
 
-## Ballot Printing In Bulk (From External Printer)
+### Ballot Printing in Bulk (From External Printer)&#x20;
 
+When using a third party printer, VotingWorks recommends printing ballots on paper between 38# Bond (140 GSM) - 65# Cover (177 GSM) for the best voter experience. The commonly available paper weights in this range are:&#x20;
 
-
-When using a third party printer, VotingWorks recommends printing ballots on paper between 38# Bond (140 GSM) - 65# Cover (177 GSM) for the best voter experience. The commonly available paper weights in this range are:
-
-* 38# Bond (140 GSM)
-* 100# Text (140 GSM)
-* 60# Cover (162 GSM)
+* 38# Bond (140 GSM)&#x20;
+* 100# Text (140 GSM)&#x20;
+* 40# Bond (150 GSM)&#x20;
+* 60# Cover (162 GSM)&#x20;
 * 90# Index (162 GSM)
-* 120# Text (177 GSM)
-* 65# Cover (177 GSM)
+* 120# Text (177 GSM)&#x20;
+* 65# Cover (177 GSM)&#x20;
 
-## Ballot Printing On-Demand
+### Ballot Printing On-Demand (In-House)&#x20;
 
 When printing ballots on-demand using supplied HP printers, VotingWorks suggests printing ballots on 40# Bond (150 GSM) and specifically recommends [HP 40# Project Paper](https://www.amazon.com/dp/B06WGR9RMH) for use with these printers. Heavier paper is most important for printing of precinct hand-marked paper ballots for an improved voter experience inserting ballots into VxScan and to reduce the rates of paper jams.
 
 The following alternative common off-the-shelf paper weights are suitable for absentee ballot or ballot-marked device ballot printing on-demand:&#x20;
 
 * 32# Bond (120 GSM)&#x20;
-  * Specific recommendations: [HP Premium 32](https://www.amazon.com/HP-Printer-Paper-Premium32-Letter/dp/B000099O2W),[ Hammermill Premium 32 ](https://www.amazon.com/Hammermill-Premium-Letter-Bright-104646R/dp/B000J0C464)
+  * Specific recommendations: [HP Premium 32](https://www.amazon.com/HP-Printer-Paper-Premium32-Letter/dp/B000099O2W), [Hammermill Premium 32](https://www.amazon.com/HP-Printer-Paper-Premium32-Letter/dp/B000099O2W)&#x20;
 * 28# Bond (105 GSM)&#x20;
   * Specific recommendations: [HP Premium 28](https://www.amazon.com/dp/B00RUKC3PI/), [Hammermill Premium 28](https://www.amazon.com/dp/B00006IDP3/), [SpringHill 28 (Colored)](https://www.amazon.com/gp/product/B06WW39DGN/)
 
