@@ -29,6 +29,6 @@ Select _`Load`_ for the CVR file you want to import.
 
 <figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
-## Export Results
+## Save Results
 
-To export results with the new CVR included, follow the process used on election night, described in [Export Results](../election-ops/export-results.md).
+To save results with the new CVR included, follow the process used on election night, described in [Save Results](../election-ops/export-results.md).

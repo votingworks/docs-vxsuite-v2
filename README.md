@@ -19,7 +19,7 @@ VotingWorks consists of two subsystems:
 
 VotingWorks Central System includes two products:
 
-1. **VxAdmin**: the main tool for local election officials, which programs elections, prints ballots, and tabulates results on election night.
+1. **VxAdmin**: the main tool for local election administrators, which programs elections, prints ballots, and tabulates results on election night.
 2. **VxCentralScan**: a central scanner used for rapidly scanning absentee ballots on election night.
 
 ![Central System: VxCentralScan (left) and VxAdmin (right)](<.gitbook/assets/image (178).png>)
@@ -45,7 +45,7 @@ All votes cast using VotingWorks are on paper ballots for security and post-elec
 There are two types of VotingWorks paper ballots:
 
 * **Hand-marked paper ballot**
-  * All absentee voters will receive a hand-marked paper ballot that is printed on-demand. Absentee ballots are scanned by election officials using a high-speed central scanner (VxCentralScan).
+  * All absentee voters will receive a hand-marked paper ballot that is printed on-demand. Absentee ballots are scanned by election administrators using a high-speed central scanner (VxCentralScan).
   * Most in-precinct voters will receive a hand-marked paper ballot that is printed in-bulk or on-demand. Precinct ballots are scanned by voters using a precinct scanner (VxScan).&#x20;
 * **Machine-marked paper ballot** (via ballot marking device)
   * In-precinct voters may request to use the accessible ballot marking device (VxMark), which prints a voter verifiable paper ballot. Machine-marked precinct ballots are scanned by voters using the same precinct scanner (VxScan).

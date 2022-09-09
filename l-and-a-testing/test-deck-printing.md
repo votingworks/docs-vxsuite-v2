@@ -21,7 +21,7 @@ Each L\&A Package will print:
 * Precinct Tally Report (expected results of the precinct)
 * Pre-voted VxMark test ballots
 * Pre-voted hand-marked test ballots
-* Two blank hand-marked test ballots (one remains blank, one is hand-marked by an election official to replace a pre-voted hand-marked test ballot)
+* Two blank hand-marked test ballots (one remains blank, one is hand-marked by an election administrator to replace a pre-voted hand-marked test ballot)
 * One overvoted hand-marked test ballot
 
 ## Print Full Test Deck Tally Report

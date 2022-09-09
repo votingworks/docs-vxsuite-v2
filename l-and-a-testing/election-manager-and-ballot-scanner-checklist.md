@@ -18,7 +18,7 @@ This checklist is for jurisdictions who are using the VotingWorks central system
 * [ ] Remove the following from each L\&A Package:
   * [ ] Precinct Tally Report (expected results of the precinct)
   * [ ] Pre-voted VxMark test ballots
-  * [ ] All but two blank hand-marked test ballots from one ballot style (one remains blank, one is hand-marked by an election official to replace a pre-voted hand-marked test ballot)
+  * [ ] All but two blank hand-marked test ballots from one ballot style (one remains blank, one is hand-marked by an election administrator to replace a pre-voted hand-marked test ballot)
   * [ ] All but one overvoted hand-marked test ballot
 * [ ] Ensure the following items remain for each precinct and ballot style:
   * [ ] Pre-voted hand-marked test ballots

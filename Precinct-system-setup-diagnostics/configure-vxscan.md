@@ -8,8 +8,8 @@ Before you configure VxScan, you must setup the machine. Follow the steps in the
 
 To configure **VxScan**, you must do two things:
 
-1. [Export the ballot package](../central-system-setup/save-ballot-package.md) to a USB drive.
-2. [Encode an Election Manager Card](../hardware-setup/programming-cards.md).
+1. [Save the ballot package](../central-system-setup/save-ballot-package.md) to a USB drive.
+2. [Create an Election Manager Card](../hardware-setup/programming-cards.md).
 
 ## Loading The Ballot Package
 

@@ -16,7 +16,7 @@ This checklist needs to be run only once for the entire jurisdiction. Its purpos
   * [ ] Precinct Tally Report (expected results of the precinct)
   * [ ] Pre-voted VxMark test ballots
   * [ ] Pre-voted hand-marked test ballots
-  * [ ] Two blank hand-marked test ballots (one remains blank, one is hand-marked by an election official to replace a pre-voted hand-marked test ballot)
+  * [ ] Two blank hand-marked test ballots (one remains blank, one is hand-marked by an election administrator to replace a pre-voted hand-marked test ballot)
   * [ ] One overvoted hand-marked test ballot
 * [ ] Confirm that you also have the following materials for the overall election:
   * [ ] Zero Report (Unofficial Full Election Tally Report)

@@ -25,7 +25,7 @@ Election Manager Cards allow election administrators to use central system devic
 * centrally scanning ballots
 * configuring precinct equipment
 * tallying CVRs
-* printing and exporting results
+* printing and saving results
 
 Election Manager Cards should only be used by election administrators and should be kept secure at all times.
 

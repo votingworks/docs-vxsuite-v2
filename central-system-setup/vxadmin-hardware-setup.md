@@ -1,14 +1,14 @@
 ---
 description: >-
-  Part of the Central System, VxAdmin is used by local election officials to
-  program elections, print ballots, and tabulate results on election night.
+  Part of the Central System, VxAdmin is used by local election administrators
+  to program elections, print ballots, and tabulate results on election night.
 ---
 
 # VxAdmin Hardware Setup
 
 ### Hardware Overview
 
-**VxAdmin** is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software and an HP printer. All USB drives, cords, adapters, and programmable smart cards needed to operate the system are included and stored in an orange case.
+**VxAdmin** is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software and an HP printer. All USB drives, cords, adapters, and programmable smartcards needed to operate the system are included and stored in an orange case.
 
 ![](<../.gitbook/assets/VxAdmin case.png>) ![](<../.gitbook/assets/VxAdmin unpacked.png>)
 

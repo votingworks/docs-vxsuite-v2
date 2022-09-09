@@ -42,7 +42,7 @@ To save the Cast Vote Record (CVR) of scanned results, select _`Save CVRs`_ in t
 
 <figure><img src="../.gitbook/assets/image (237).png" alt=""><figcaption><p>Save CVRs</p></figcaption></figure>
 
-An export dialog appears prompting you to insert a USB drive. Once you do, the USB drive is detected in a few seconds, and the export can be done automatically by selecting _`Save`_. Once the CVR file has been saved to the USB drive, select _`Eject USB`_. When complete, the CVRs Saved screen will prompt you to close and eject the USB drive.
+A prompt will apear prompting you to insert a USB drive. Once you do, the USB drive is detected in a few seconds, and saving can be done automatically by selecting _`Save`_. Once the CVR file has been saved to the USB drive, select _`Eject USB`_. When complete, the CVRs Saved screen will prompt you to close and eject the USB drive.
 
 <div>
 

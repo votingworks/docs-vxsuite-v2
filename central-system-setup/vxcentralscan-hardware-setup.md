@@ -1,7 +1,7 @@
 ---
 description: >-
-  Part of the Central System, VxCentralScan is used by local election officials
-  to rapidly scan ballots.
+  Part of the Central System, VxCentralScan is used by local election
+  administrators to rapidly scan ballots.
 ---
 
 # VxCentralScan Hardware Setup
