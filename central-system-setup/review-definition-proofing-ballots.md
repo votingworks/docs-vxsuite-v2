@@ -16,11 +16,11 @@ Then review each contest's data by selecting a contest button. Carefully review 
 
 After each contest's information has been reviewed, take some time to review the ballot samples.
 
-All ballot samples are found in the Ballots tab. The list may be sorted by _`Precinct`_ or _`Style`_ using the buttons to the right of Sort  number of ballot by:.
+All ballot samples are found in the Ballots tab. The list may be sorted by _`Precinct`_ or _`Style`_ using the buttons to the right of Sort number of ballots by:.
 
 ![](<../.gitbook/assets/image (225).png>)
 
-To proof or print a ballot, select _`View Ballot`_to the left of the ballot to review. or use the _`Print All`_ button to print a copy of each ballot.
+To proof or print a ballot, select _`View Ballot`_to the left of the ballot to review or use the _`Print All`_ button to print a copy of each ballot.
 
 ![View Ballot to display a ballot for review or Print All to print each ballot for review](<../.gitbook/assets/image (229).png>)
 

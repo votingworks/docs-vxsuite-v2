@@ -35,7 +35,7 @@ Next, select _`SEMS candidate mapping file`_ to open the SEMS candidate mapping 
 
 ![Select SEMS candidate mapping file](<../.gitbook/assets/sems candidate mapping.png>) ![Select SEMS CANDMAP file](<../.gitbook/assets/candmap file picker.png>)
 
-Once complete, the the Definition tab will display all of the details of your election.
+Once complete, the Definition tab will display all of the details of your election.
 
 ### Option 2: From VotingWorks Election Definition File
 

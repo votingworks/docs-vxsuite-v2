@@ -60,7 +60,7 @@ Repeat the following for each VxCentralScan USB drive:
 
 * [ ] Insert USB drive with the CVR files
 * [ ] Select _`Import CVR Files`_ in the Tally tab
-* [ ] Import the CVR file from the given VxCentralScan
+* [ ] Load the CVR file from the given VxCentralScan
 * [ ] Confirm that the CVR count in VxAdmin matches the number of ballots in the test deck
 * [ ] Print _`Unofficial Full Election Tally Report`_
 * [ ] Compare to the Test Ballot Deck Tally  - the totals on the Test Ballot Deck Tally should be divided by 4 and then should match your scanning results (the Test Ballot Deck Tally report is programmed for the Full System)

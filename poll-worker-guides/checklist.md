@@ -44,7 +44,7 @@
 * [ ] Instruct voter they can begin voting by selecting _`Start Voting` _ or alternately, provide the voter with headphones and the accessible control for audio instructions
 * [ ] Allow voter to vote privately
 * [ ] After the voter prints their ballot, assist and instruct them to:
-  * [ ] Review their printed ballot
+  * [ ] Review their printed ballot (if able)
   * [ ] Insert their ballot into VxScan
 
 #### **Helping a voter cast their ballot at VxScan**

@@ -92,7 +92,7 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 ### **Pack Up and Seal Equipment**
 
 * [ ] Verify neither VxScan nor VxMark has an orange testing banner on the screen
-* [ ] Insert USB drive into VxScan
+* [ ] Insert tested USB drive into VxScan
 * [ ] Close metal enclosure
 * [ ] Close Ballot Bag Main Opening&#x20;
 * [ ] Seal Ballot Bag Main Opening

@@ -16,7 +16,7 @@ When using a third party printer, VotingWorks recommends printing ballots on pap
 
 When printing ballots on-demand using supplied HP printers, VotingWorks suggests printing ballots on 40# Bond (150 GSM) and specifically recommends [HP 40# Project Paper](https://www.amazon.com/dp/B06WGR9RMH) for use with these printers. Heavier paper is most important for printing of precinct hand-marked paper ballots for an improved voter experience inserting ballots into VxScan and to reduce the rates of paper jams.
 
-The following alternative common off-the-shelf paper weights are suitable for absentee ballot or ballot-marked device ballot printing on-demand:&#x20;
+The following alternative common off-the-shelf paper weights are suitable for absentee ballot or ballot-marking device ballot printing on-demand:&#x20;
 
 * 32# Bond (120 GSM)&#x20;
   * Specific recommendations: [HP Premium 32](https://www.amazon.com/HP-Printer-Paper-Premium32-Letter/dp/B000099O2W), [Hammermill Premium 32](https://www.amazon.com/HP-Printer-Paper-Premium32-Letter/dp/B000099O2W)&#x20;

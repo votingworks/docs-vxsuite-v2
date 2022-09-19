@@ -6,7 +6,7 @@ description: Smartcards can only be created by a System Administrator
 
 ## Overview
 
-Smartcards are used to configure and operate equipment. It's the same technology as the chip in your credit card, but instead used to enable election administrators and poll workers to configure and operate the equipment. There are three types of cards: System Administrator, Election Manager, and Poll Worker Cards**.**
+Smartcards are used to configure and operate equipment. It's the same technology as the chip in your credit card, but is instead used to enable election administrators and poll workers to configure and operate the equipment. There are three types of cards: System Administrator, Election Manager, and Poll Worker Cards**.**
 
 <figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption><p>Smartcards</p></figcaption></figure>
 
@@ -48,7 +48,15 @@ For each election, you will create Election Manager and Poll Worker Cards specif
 
 You will use the HID Omnikey Card Reader provided with VxAdmin to program a card. Simply insert the card of your choice and select the correct button for the card.
 
-![Insert card into card reader](<../.gitbook/assets/admin card in card reader.png>) ![Select Election Manager Card or Poll Worker Car](<../.gitbook/assets/vxadmin smartcards create new card EM PW buttons highlighted.png>)
+<div>
+
+<figure><img src="../.gitbook/assets/EM Card in reader.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/create new election card (2).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 When creating an Election Manager card, the screen will provide you with a unique PIN for that card. Keep the PIN secure. When creating a Poll Worker card, the screen will simply confirm the card is created.
 

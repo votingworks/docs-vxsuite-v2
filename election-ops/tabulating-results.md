@@ -6,11 +6,11 @@ All tabulation functionality in VxAdmin is available within the Tally tab. Selec
 
 <figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption><p>Load CVR Files</p></figcaption></figure>
 
-To tally results, each USB drive from the precincts and VxCentralScan must be imported. One at a time, insert the USB drives. A dialog box will pop up and show you each CVR file saved on the USB drive. Select _`Load`_ next to the file (live election, correct number of ballots, correct time) you'd like to import.
+To tally results, each USB drive from the precincts and VxCentralScan must be loaded. One at a time, insert the USB drives. A dialog box will pop up and show you each CVR file saved on the USB drive. Select _`Load`_ next to the file (live election, correct number of ballots, correct time) you'd like to load.
 
 <figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
-When imported, confirm that the presented file name, CVR count, and precinct(s) are as expected. Load CVR files from all of your scanners, VxScan and VxCentralScan. To review the ballot count by precinct and view any unofficial tally reports desired, go to the Reports tab.&#x20;
+When loaded, confirm that the presented file name, CVR count, and precinct(s) are as expected. Load CVR files from all of your scanners, VxScan and VxCentralScan. To review the ballot count by precinct and view any unofficial tally reports desired, go to the Reports tab.&#x20;
 
 <figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 

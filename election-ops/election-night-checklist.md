@@ -35,7 +35,7 @@ On election night, you will need the [VxCentralScan](../central-system-setup/vxc
 
 
 
-### [Tallying](tabulating-results.md) and [Exporting](export-results.md) Results
+### [Tallying](tabulating-results.md) and [Saving](export-results.md) Results
 
 * [ ] [Set up VxAdmin](../central-system-setup/vxadmin-hardware-setup.md)
 * [ ] Verify there are no CVRs on VxAdmin

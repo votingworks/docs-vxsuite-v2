@@ -20,7 +20,7 @@ Pack up **VxMark** through the following steps:
 * [ ] remove the **privacy screen** and place behind the foam
 * [ ] remove the **headphones** (b) from the accessible controller (a), place them in the travel pouch, and place them on to of the screen
 * [ ] put the **accessible controller** (a) in the front-left compartment&#x20;
-* [ ] unplug the the **power** **cord** (c) from the outlet and put in the back-left compartment&#x20;
+* [ ] unplug the **power** **cord** (c) from the outlet and put in the back-left compartment&#x20;
 * [ ] put the **printer cable** (d) in the mid-right compartment&#x20;
 * [ ] press and hold for 1 second the power button to turn the VxMark off (button on the mid-right side of the screen)
 

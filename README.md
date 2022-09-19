@@ -26,7 +26,7 @@ VotingWorks Central System includes two products:
 
 ### Precinct System
 
-VotingWorks Precinct System consists of two portable self-contained products:
+VotingWorks Precinct System consists of two portable, self-contained products:
 
 1. **VxMark**: an accessible ballot marking device and attached printer that produces a voter-verifiable paper ballot.
 2. **VxScan**: a voter-facing precinct scanner that scans paper ballots and notifies voters of ballot issues for second-chance voting.

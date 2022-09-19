@@ -63,7 +63,7 @@
 ## After Election Night
 
 * [Final Post-Election Checklist](after-election-night/final-post-election-checklist.md)
-* [Process Late Ballots](after-election-night/adding-ballots.md)
+* [Processing Late Ballots](after-election-night/adding-ballots.md)
 * [Mark Results as Official](after-election-night/mark-results-as-official.md)
 * [Retaining & Removing Election Files](after-election-night/retaining-and-removing-election-files.md)
 

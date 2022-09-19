@@ -7,7 +7,7 @@
 * [ ] Adjudicate ballots as needed with the resolution board
 * [ ] Scan resolution board ballots
 * [ ] Save CVRs to USB drive – this should be the combined CVRs of all ballots, election night + late
-* [ ] Import the new set of CVRs
+* [ ] Load the new set of CVRs
 * [ ] If applicable, load the SEMS file from other machines (e.g. TSX GEMS results) in the Tally tab by selecting _`Load External Results File`_
 * [ ] Print an _`Unofficial Full Election Tally Report`_ from the Reports tab
 * [ ] _`Save SEMS Results`_ file to USB drive

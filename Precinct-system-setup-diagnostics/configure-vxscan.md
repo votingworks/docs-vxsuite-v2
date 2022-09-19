@@ -15,11 +15,11 @@ To configure **VxScan**, you must do two things:
 
 An unconfigured machine will prompt you to insert a USB drive with the election's ballot package.
 
-![](<../.gitbook/assets/image (103) (1).png>)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 After you insert the USB drive, VxScan will automatically begin loading all ballot styles for the election.
 
-![](<../.gitbook/assets/image (120) (1) (1).png>)
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 If the USB drive contains multiple ballot packages, VxScan will use the most recent.
 

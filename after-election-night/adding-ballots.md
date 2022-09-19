@@ -1,4 +1,4 @@
-# Process Late Ballots
+# Processing Late Ballots
 
 You may receive properly post-marked absentee ballots for five days after election day that need to be counted. To add these ballots to unofficial results:
 
@@ -17,7 +17,7 @@ When you turn on VxCentralScan, you should see previous batches scanned on elect
 
 ## Save CVRs
 
-After scanning all late-received ballots, save the combined CVR file that contains all ballots, both election-night and late-received. See instructions under [Tally Results](../election-ops/tabulating-results.md), the portion on exporting CVRs.
+After scanning all late-received ballots, save the combined CVR file that contains all ballots, both election-night and late-received. See instructions under [Tally Results](../election-ops/tabulating-results.md), the portion on loading CVRs.
 
 ## Load CVRs
 
@@ -25,7 +25,7 @@ In VxAdmin, load the new CVR file. Select _`Load CVR Files`_.
 
 <figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-Select _`Load`_ for the CVR file you want to import.
+Select _`Load`_ for the CVR file you want to load.
 
 <figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 

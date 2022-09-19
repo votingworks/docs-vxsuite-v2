@@ -10,7 +10,7 @@ Before scanning the first ballot batch, confirm that VxCentralScan displays No b
 
 <figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
-Load a stack of ballots into the feeder tray of the scanner. VotingWorks recommends loading no more than 50 ballot sheets at at time. The ballots need to be in a neat stack, unfolded and lying flat, but ballots can be in any orientation (e.g. upside down or backwards is fine).
+Load a stack of ballots into the feeder tray of the scanner. VotingWorks recommends loading no more than 50 ballot sheets at time. The ballots need to be in a neat stack, unfolded and lying flat, but ballots can be in any orientation (e.g. upside down or backwards is fine).
 
 Select _`Scan New Batch`_. Ballots feed through the scanner automatically and the number of ballots scanned will increase as each ballot is scanned under Ballot Count. A timestamp will appear under the Finished At header when a batch is done scanning.&#x20;
 
@@ -32,7 +32,7 @@ VxCentralScan will stop scanning and present a review screen if scanning cannot 
 
 #### **Original Ballot Scan**
 
-If scanning an original voter-marked ballot, remove the last ballot sheet scanned from the scanner output tray and confirm it matches the ballot sheet displayed onscreen. Once removed, select _`Remove to Adjudicate`_ and confirm that they _`Ballot has been removed`_. Once confirmed, the scanner will resume scanning ballots in the batch.&#x20;
+If scanning an original voter-marked ballot, remove the last ballot sheet scanned from the scanner output tray and confirm it matches the ballot sheet displayed onscreen. Once removed, select _`Remove to Adjudicate`_ and confirm that the _`Ballot has been removed`_. Once confirmed, the scanner will resume scanning ballots in the batch.&#x20;
 
 The example below shows an **Overvote** detected that is being removed for Resolution Board processing.
 

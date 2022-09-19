@@ -14,7 +14,7 @@ To open the polls, a poll worker must insert their Poll Worker Card into the car
 
 ![](<../../.gitbook/assets/image (219) (1).png>)
 
-The Polls Opened Report will save to the Poll Worker card.  Remove the Poll Worker card from VxScan and go to the VMark to print the report.
+The Polls Opened Report will save to the Poll Worker card.  Remove the Poll Worker card from VxScan and go to the VxMark to print the report.
 
 ![](<../../.gitbook/assets/image (104).png>)
 

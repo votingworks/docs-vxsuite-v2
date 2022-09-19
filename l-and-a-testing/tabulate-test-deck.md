@@ -12,7 +12,7 @@ Once you insert a USB drive with CVRs, you should automatically see the CVR file
 
 <figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption><p>Select Load</p></figcaption></figure>
 
-When imported, confirm that the presented file name, count and precinct(s) are as expected. You may also review the ballot count by precinct and view any unofficial tally reports in the Reports tab.
+When loaded, confirm that the presented file name, count and precinct(s) are as expected. You may also review the ballot count by precinct and view any unofficial tally reports in the Reports tab.
 
 <figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 

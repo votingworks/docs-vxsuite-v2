@@ -19,7 +19,7 @@ The VxCentralScan Checklist should be run for _each_ VxCentralScan station. If y
   * [ ] Confirm it shows up as an overvote
   * [ ] Select _`Tabulate As Is`_
   * [ ] Select _`Yes, tabulate ballot as is`_
-* [ ] _`Save CVRs`_ the CVR file to a USB drive
+* [ ] _`Save CVRs`_ to a USB drive
 * [ ] Select _`Toggle to Live Election Mode`_ in the Admin menu
 
 {% content-ref url="../test-deck-scanning.md" %}
