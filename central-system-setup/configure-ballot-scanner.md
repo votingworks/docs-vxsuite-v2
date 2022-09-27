@@ -6,7 +6,9 @@ To configure VxCentralScan, you must first [save the ballot package](save-ballot
 
 ## Load Ballot Package
 
-Once you have the ballot package saved to a USB drive, you can load the file to VxCentralScan.
+Once you have the ballot package saved to a USB drive, you can load the file to VxCentralScan
+<div style="page-break-after: always"></div>
+
 
 When turned on and authenticated, the VxCentralScan laptop will display the Load Election Configuration screen, prompting you to insert a USB drive. Insert the USB drive with the ballot package saved from VxAdmin. After a few seconds, VxCentralScan will display all ballot packages found on the USB drive. _`Select`_the correct ballot package.&#x20;
 
