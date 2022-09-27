@@ -18,6 +18,4 @@ After all files are loaded:
 * [ ] Confirm that the tallies match
 * [ ] Remove CVR files
 
-{% content-ref url="../tabulate-test-deck.md" %}
-[tabulate-test-deck.md](../tabulate-test-deck.md)
-{% endcontent-ref %}
+Full Instructions for this checklist can be found on the [Tally Test Results page](../tabulate-test-deck.md).

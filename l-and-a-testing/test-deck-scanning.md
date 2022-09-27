@@ -2,11 +2,7 @@
 
 Before scanning each test deck, confirm that the election information in the footer is correct.&#x20;
 
-If VxCentralScan is not already configured, please follow the instructions to configure VxCentralScan for the election:
-
-{% content-ref url="../central-system-setup/configure-ballot-scanner.md" %}
-[configure-ballot-scanner.md](../central-system-setup/configure-ballot-scanner.md)
-{% endcontent-ref %}
+If VxCentralScan is not already configured, please follow the instructions to [configure VxCentralScan](../central-system-setup/configure-ballot-scanner.md) for the election.
 
 ## Toggle Test Mode
 
@@ -30,7 +26,7 @@ Load the stack of ballots into the feeder tray of the scanner. VotingWorks recom
 
 From VxCentralScan, select _`Scan New Batch`_. Ballots feed through the scanner automatically and the number of ballots scanned will increase as each ballot is scanned under Ballot Count. A timestamp will appear under the Finished At header when a batch is done scanning. Repeat the scanning process until all ballots are scanned.
 
-<figure><img src="../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (244).png" alt=""><figcaption><p>Scan New Batch</p></figcaption></figure>
 
 Next, scan the additional test ballots created. One is blank and one should be marked with an overvote. Verify the scanner requests each [ballot be adjudicated](../election-ops/scanning-ballots.md#adjudicate-ballots) before proceeding.
 
@@ -42,15 +38,15 @@ To save the Cast Vote Record (CVR) of scanned results, select _`Save CVRs`_ in t
 
 <figure><img src="../.gitbook/assets/image (237).png" alt=""><figcaption><p>Save CVRs</p></figcaption></figure>
 
-A prompt will apear prompting you to insert a USB drive. Once you do, the USB drive is detected in a few seconds, and saving can be done automatically by selecting _`Save`_. Once the CVR file has been saved to the USB drive, select _`Eject USB`_. When complete, the CVRs Saved screen will prompt you to close and eject the USB drive.
+A prompt will appear prompting you to insert a USB drive. Once you do, the USB drive is detected in a few seconds, and saving can be done automatically by selecting _`Save`_. Once the CVR file has been saved to the USB drive, select _`Eject USB`_. When complete, the CVRs Saved screen will prompt you to close and eject the USB drive.
 
 <div>
 
-<figure><img src="../.gitbook/assets/VxCS Save CVRs (1).png" alt=""><figcaption><p>Save</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/VxCS Save CVRs.png" alt=""><figcaption><p>Save</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/VxCS Save CVRs CVRs Saved modal (1).png" alt=""><figcaption><p>Eject USB</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/VxCS Save CVRs CVRs Saved modal.png" alt=""><figcaption><p>Eject USB</p></figcaption></figure>
 
  
 

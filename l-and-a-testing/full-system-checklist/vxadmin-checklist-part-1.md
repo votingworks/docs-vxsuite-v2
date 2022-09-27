@@ -1,6 +1,6 @@
 # VxAdmin Checklist - Part 1
 
-This checklist needs to be run only once for the entire jurisdiction. Its purpose is to print materials used for later stages of L\&A. For help with these steps, see [Printing VxAdmin Test Materials](../test-deck-printing.md).
+This checklist needs to be run only once for the entire jurisdiction. Its purpose is to print materials used for later stages of L\&A.&#x20;
 
 | Name: | Date: |
 | ----- | ----- |
@@ -22,6 +22,4 @@ This checklist needs to be run only once for the entire jurisdiction. Its purpos
   * [ ] Zero Report (Unofficial Full Election Tally Report)
   * [ ] Full Test Deck Tally Report (expected results of all precincts)
 
-{% content-ref url="../test-deck-printing.md" %}
-[test-deck-printing.md](../test-deck-printing.md)
-{% endcontent-ref %}
+Full Instructions for this checklist can be found on the [Print VxAdmin Test Materials page](../test-deck-printing.md).

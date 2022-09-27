@@ -12,7 +12,7 @@ To configure VxCentralScan and VxScan you must first save the ballot package fro
 
 You will be prompted to insert a USB drive. Once you insert a USB drive, the screen updates and prompts you to save the ballot package. Select _`Save`_.
 
-![No USB drive detected](<../.gitbook/assets/VxAdmin Ballots Ballot Package No USB drive detected.png>) ![Save ballot package](<../.gitbook/assets/VxAdmin Ballots Ballot Package Save Ballot Package (1).png>)
+![No USB drive detected](<../.gitbook/assets/VxAdmin Ballots Ballot Package No USB drive detected (3).png>) ![Save ballot package](<../.gitbook/assets/VxAdmin Ballots Ballot Package Save Ballot Package.png>)
 
 VxAdmin will generate the ballot package of all ballot styles, saving it automatically on the USB drive. You don't need to worry about the exact file location, but if you do want to look for it later, the file will be saved inside the ballot-packages folder.
 

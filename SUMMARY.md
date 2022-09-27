@@ -58,7 +58,7 @@
 * [Central Scanning](election-ops/scanning-ballots.md)
 * [Precinct Reporting](election-ops/precinct-reporting.md)
 * [Tally Results](election-ops/tabulating-results.md)
-* [Save Results](election-ops/export-results.md)
+* [Save Results for SEMS](election-ops/export-results.md)
 
 ## After Election Night
 

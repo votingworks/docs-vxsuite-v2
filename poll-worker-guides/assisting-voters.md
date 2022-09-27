@@ -16,7 +16,7 @@ If the ballot has no errors, the ballot will go into the ballot box and the scre
 
 After a few seconds, VxScan will return to the Insert Your Ballot Below screen in preparation for the next voter. &#x20;
 
-If the ballot was not counted because of an an issue, the scanner will push the ballot back toward the voter but maintain a grip on it. There could be any of the following issues with the ballot.
+If the ballot was not counted because of an issue, the scanner will push the ballot back toward the voter but maintain a grip on it. There could be any of the following issues with the ballot.
 
 ### Overvoted Ballots
 

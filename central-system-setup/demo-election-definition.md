@@ -1,6 +1,6 @@
 # Demo Election Definition
 
-VxAdmin has a demo election definition built in to allow election administrators an election that is more practice and demonstration friendly.  Use the demo election to:
+VxAdmin has a demo election definition built in to provide election administrators an election that is more practice and demonstration friendly.  Use the demo election to:
 
 * practice various Election Manager functions
 * provide poll workers with a training election

@@ -35,4 +35,4 @@ Find the USB drive in the center and pull it out.
 
 ![](../.gitbook/assets/IMG\_5064.jpeg) ![](../.gitbook/assets/IMG\_5072.jpeg)
 
-After you have removed the USB drive, make sure you close the metal enclosure.&#x20;
+After you have removed the USB drive, make sure you close the metal enclosure and seal VxScan.

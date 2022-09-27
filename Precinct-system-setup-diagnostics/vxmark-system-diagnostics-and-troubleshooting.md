@@ -24,12 +24,12 @@ If an accessible controller is not functioning properly, there are two ways to t
 
 Insert a Poll Worker card into the VxMark and select _`Reset Accessible Controller`_.
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption><p>Reset Accessible Controller</p></figcaption></figure>
 
 If the reset does not remedy the problem, go to the System Diagnostics screen by selecting _`System Diagnostics`_.
 
-<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption><p>System Diagnostics</p></figcaption></figure>
 
 Then select _`Start Accessible Controller Test`_ and follow the prompts on the screen using the accessible controller to navigate.
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Start Accessible Controller Test</p></figcaption></figure>

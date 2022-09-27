@@ -43,7 +43,7 @@ Save the election definition file provided by VotingWorks to a USB drive. Insert
 
 Select _`Select Existing Election Definition File.`_Select the file from the USB drive and select _`Open.`_
 
-![Select existing election definition file](<../.gitbook/assets/VxAdmin select existing.png>) ![Select file](<../.gitbook/assets/Vxadmin select main.png>)
+![Select existing election definition file](<../.gitbook/assets/VxAdmin select existing.png>) ![Select .json file](<../.gitbook/assets/json file pick.png>)
 
 Once complete, the Definition tab will display all of the details of your election.
 

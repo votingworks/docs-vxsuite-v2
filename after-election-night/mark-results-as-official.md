@@ -18,7 +18,7 @@ Then select _`Mark Tally Results as Official.`_
 
 <figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-All references in VxAdmin to unofficial results will be changed to official. Note that you can no longer load any additional CVRs at this point, unless you clear all results and start over. _``_ You can print an official tally by going to the Reports tab and selecting `Official Full Election Tally Report.`
+All references in VxAdmin to unofficial results will be changed to official. Note that you can no longer load any additional CVRs at this point, unless you clear all results and start over. You can print an official tally by going to the Reports tab and selecting `Official Full Election Tally Report.`
 
 <figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 

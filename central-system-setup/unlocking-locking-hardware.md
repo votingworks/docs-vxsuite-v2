@@ -8,9 +8,15 @@ VxAdmin and VxCentralScan require users to use an Election Manager Card and a se
 
 Both machines will display Machine Locked when turned on. To unlock the machine, insert your Election Manager Card into the attached card reader.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Election Manager Card in card reader</p></figcaption></figure>
+<div>
 
-<figure><img src="../.gitbook/assets/VxAdmin is Locked.png" alt=""><figcaption><p>Locked screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/election manager card inserted.png" alt=""><figcaption><p>Election Manager Card in card reader</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/vxadmin is locked screen.png" alt=""><figcaption><p>Locked screen</p></figcaption></figure>
+
+</div>
 
 Enter the card security code and remove your Election Manager Card.
 

@@ -28,9 +28,7 @@ This checklist is for jurisdictions who are using the VotingWorks central system
   * [ ] Zero Report (Unofficial Full Election Tally Report)
   * [ ] Full Test Deck Tally Report (expected results of all precincts)
 
-{% content-ref url="test-deck-printing.md" %}
-[test-deck-printing.md](test-deck-printing.md)
-{% endcontent-ref %}
+Full Instructions for this checklist can be found on the [Print VxAdmin Test Materials page](test-deck-printing.md).
 
 ### VxCentralScan
 
@@ -50,9 +48,7 @@ Repeat the following for each VxCentralScan station:
 * [ ] Verify the count of scanned ballots
 * [ ] Save Results to USB drive
 
-{% content-ref url="test-deck-scanning.md" %}
-[test-deck-scanning.md](test-deck-scanning.md)
-{% endcontent-ref %}
+Full Instructions for this checklist can be found on the [Scan Test Decks with VxCentralScan page](test-deck-scanning.md).
 
 ### VxAdmin - Part 2
 
@@ -66,9 +62,7 @@ Repeat the following for each VxCentralScan USB drive:
 * [ ] Compare to the Test Ballot Deck Tally  - the totals on the Test Ballot Deck Tally should be divided by 4 and then should match your scanning results (the Test Ballot Deck Tally report is programmed for the Full System)
 * [ ] Clear CVR files
 
-{% content-ref url="tabulate-test-deck.md" %}
-[tabulate-test-deck.md](tabulate-test-deck.md)
-{% endcontent-ref %}
+Full Instructions for this checklist can be found on the [Tally Test Results page](tabulate-test-deck.md).
 
 ### **Cleanup**
 
@@ -77,6 +71,4 @@ Repeat the following for each VxCentralScan USB drive:
 * [ ] Shut down VxAdmin
 * [ ] Shut down VxCentralScan
 
-{% content-ref url="prepare-for-election-day.md" %}
-[prepare-for-election-day.md](prepare-for-election-day.md)
-{% endcontent-ref %}
+Full Instructions for this checklist can be found on the [L\&A Cleanup page](prepare-for-election-day.md).

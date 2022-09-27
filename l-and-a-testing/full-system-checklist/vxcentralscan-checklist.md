@@ -22,7 +22,5 @@ The VxCentralScan Checklist should be run for _each_ VxCentralScan station. If y
 * [ ] _`Save CVRs`_ to a USB drive
 * [ ] Select _`Toggle to Live Election Mode`_ in the Admin menu
 
-{% content-ref url="../test-deck-scanning.md" %}
-[test-deck-scanning.md](../test-deck-scanning.md)
-{% endcontent-ref %}
+Full Instructions for this checklist can be found on the [Scan Test Decks with VxCentralScan page](../test-deck-scanning.md).
 

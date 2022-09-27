@@ -20,11 +20,11 @@ When loaded, confirm that the presented file name, count and precinct(s) are as 
 
 Once reviewed, go to the Reports tab and select _`Unofficial Full Election Tally Report`_.&#x20;
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption><p>Unofficial Full Election Tally Report</p></figcaption></figure>
 
 A preview of the report will be on screen. Select _`Print Report`_ to print the report or _`Save Report as PDF`_ to save the election tally to a USB drive.
 
-<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption><p>Print or Save Report</p></figcaption></figure>
 
 ## Compare Results
 

@@ -1,10 +1,6 @@
 # Configure VxScan
 
-Before you configure VxScan, you must setup the machine. Follow the steps in the Poll Worker VxScan Setup Guide.
-
-{% content-ref url="../poll-worker-guides/setting-up-and-opening-polls/vxscan-setup.md" %}
-[vxscan-setup.md](../poll-worker-guides/setting-up-and-opening-polls/vxscan-setup.md)
-{% endcontent-ref %}
+Before you configure VxScan, you must setup the machine. Follow the steps in the [Poll Worker VxScan Setup Guide](../poll-worker-guides/setting-up-and-opening-polls/vxscan-setup.md).
 
 To configure **VxScan**, you must do two things:
 
@@ -57,13 +53,19 @@ Select _`Calibrate Scanner`_ on the admin screen to start the calibration proces
 
 ![Select Calibrate Scanner](<../.gitbook/assets/image (168).png>)
 
-VxScan will prompt you to insert a blank piece of paper.
+VxScan will prompt you to insert a blank piece of paper. Insert a piece of blank paper. The scanner will grip the paper and an option to Calibrate will appear. Select _`Calibrate`_ and VxScan will slowly process the piece of paper.
 
-![](<../.gitbook/assets/Calibrate Insert Paper.png>)
+<div>
 
-Insert a piece of blank paper. The scanner will grip the paper and an option to Calibrate will appear. Select _`Calibrate`_ and VxScan will slowly process the piece of paper.
+<figure><img src="../.gitbook/assets/Calibrate Insert Paper (1).png" alt=""><figcaption><p>Insert blank sheet</p></figcaption></figure>
 
-![](<../.gitbook/assets/Calibrate Ready.png>) ![](<../.gitbook/assets/Calibration In Progress.png>) ![](<../.gitbook/assets/Calibration Succeeded.png>)
+ 
+
+<figure><img src="../.gitbook/assets/Calibrate Ready (1).png" alt=""><figcaption><p>Select Calibrate</p></figcaption></figure>
+
+</div>
+
+![](<../.gitbook/assets/Calibration In Progress.png>) ![](<../.gitbook/assets/Calibration Succeeded.png>)
 
 After calibration is complete, retrieve the blank piece of paper from inside the ballot bag. If you are calibrating during Logic and Accuracy Testing, you may choose to leave the paper in until you retrieve all testing materials and confirm the ballot bag is empty at the end of testing.
 

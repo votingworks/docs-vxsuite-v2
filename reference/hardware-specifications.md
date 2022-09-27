@@ -15,7 +15,7 @@ VxAdmin can also be used to print in color with the **HP m454dn** printer, but d
 
 ### Toner
 
-New printers come with toner pre-installed, but in the future you may have to install a new toner cartridge. The rate at which you use toner will highly depend on how dense the ballots are, i.e. how many contests are on each ballot. Both the HP m404n and HP m404dn accept the same toner cartridges: HP 58a or HP 58x, the latter being the high-yield version. To install a new toner cartridge, follow [HP's instructions](https://support.hp.com/us-en/document/c06392751).
+New printers come with toner pre-installed, but in the future you may have to install a new toner cartridge. The rate at which you use toner will depend on how dense the ballots are, i.e. how many contests are on each ballot. Both the HP m404n and HP m404dn accept the same toner cartridges: HP 58a or HP 58x, the latter being the high-yield version. To install a new toner cartridge, follow [HP's instructions](https://support.hp.com/us-en/document/c06392751).
 
 ### Feeder Tray
 
