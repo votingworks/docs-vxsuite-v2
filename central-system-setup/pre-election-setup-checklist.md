@@ -12,3 +12,5 @@ To prepare for an election, complete the following steps:
 * [ ] [Configure VxMarks](../Precinct-system-setup-diagnostics/configuring-and-operating-vxmark.md)
 * [ ] [Configure VxCentralScan](configure-ballot-scanner.md)
 * [ ] Prepare for [Logic and Accuracy Testing](../l-and-a-testing/l-and-a-checklist.md)
+
+{% embed url="https://www.youtube.com/watch?index=2&list=PLvehCClJUfizN6MwWFNrgTuo-Ub_9sHCc&v=ui3G1h_6E3A" %}

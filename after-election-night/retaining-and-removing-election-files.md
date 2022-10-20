@@ -70,3 +70,5 @@ In VxScan, insert an Election Manager Card and select _`Delete All Election Data
 In VxMark, insert an Election Manager Card and select _`Unconfigure Machine`_.
 
 <figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption><p>Unconfigure Machine</p></figcaption></figure>
+
+{% embed url="https://www.youtube.com/watch?index=6&list=PLvehCClJUfizN6MwWFNrgTuo-Ub_9sHCc&v=zX1XWegvWNQ" %}

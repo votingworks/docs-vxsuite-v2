@@ -45,3 +45,5 @@ On election night, you will need the [VxCentralScan](../central-system-setup/vxc
 * [ ] In the Reports tab, print an _`Unofficial Full Election Tally Report`_ for the results&#x20;
 * [ ] Save SEMS Results file to USB drive
 * [ ] Upload SEMS file to SEMS
+
+{% embed url="https://www.youtube.com/watch?index=5&list=PLvehCClJUfizN6MwWFNrgTuo-Ub_9sHCc&v=jMVME0VOBiw" %}

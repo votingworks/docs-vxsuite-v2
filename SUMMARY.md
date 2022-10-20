@@ -42,6 +42,7 @@
 ## Poll Worker Guides
 
 * [Poll Worker Checklist](poll-worker-guides/checklist.md)
+* [Poll Worker Training Video](poll-worker-guides/poll-worker-training-video.md)
 * [Setting Up and Opening Polls](poll-worker-guides/setting-up-and-opening-polls/README.md)
   * [VxScan Setup](poll-worker-guides/setting-up-and-opening-polls/vxscan-setup.md)
   * [VxMark Setup](poll-worker-guides/setting-up-and-opening-polls/vxmark.md)
