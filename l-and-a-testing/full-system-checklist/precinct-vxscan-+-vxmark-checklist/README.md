@@ -45,9 +45,8 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 * [ ] Confirm printer has plenty of paper
 * [ ] Confirm Election, Election ID, Date, Time, and Precinct
 * [ ] Confirm VxMark is in Testing Mode
-* [ ] Print Tally Report from VxScan to serve as the Zero Report (Poll Worker Card)
-* [ ] Confirm Zero Report is all zeros
-* [ ] Open polls on VxMark (Poll Worker Card)
+* [ ] Open polls and print Open Polls Report from VxScan to serve as the Zero Report (Poll Worker Card)
+* [ ] Confirm Opened Polls Report is all zeros
 * [ ] Confirm all expected ballot styles show up as options at top of screen
 * [ ] Confirm all Poll Worker Cards work
 * [ ] Run the [Ballot Style Sub-Checklist](per-ballot-style-per-vxmark-checklist.md) for _each_ ballot style
