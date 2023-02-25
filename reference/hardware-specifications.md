@@ -45,11 +45,11 @@ VxScan uses the [Plustek VTM 300 ](https://plustek.com/us/products/customized-sc
 
 VotingWorks equipment uses standard laptops and tablets. Below is a list of devices currently in use in our products and links to documentation if you would like to learn more:
 
-| VotingWorks Product     | Device               | Documentation                                                                                                              |
-| ----------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| VxAdmin + VxCentralScan | HP Elitebook 840     | [Datasheet](https://www8.hp.com/h20195/v2/getpdf.aspx/4AA7-4326EEAP.pdf)                                                   |
-| VxMark                  | Lenovo Flex 14       | [Specifications](https://psref.lenovo.com/syspool/Sys/PDF/IdeaPad/Lenovo\_Flex\_6\_14IKB/Lenovo\_Flex\_6\_14IKB\_Spec.PDF) |
-| VxScan                  | Microsoft Surface Go | [Specifications](https://www.microsoft.com/en-us/surface/devices/surface-go-2/tech-specs)                                  |
+| VotingWorks Product     | Device                    | Documentation                                                                                                              |
+| ----------------------- | ------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| VxAdmin + VxCentralScan | Lenovo ThinkPad L14 Gen 2 | [Specifications](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadl/thinkpad-l14-g2/22tpl14l4n2)                    |
+| VxMark                  | Lenovo Flex 14            | [Specifications](https://psref.lenovo.com/syspool/Sys/PDF/IdeaPad/Lenovo\_Flex\_6\_14IKB/Lenovo\_Flex\_6\_14IKB\_Spec.PDF) |
+| VxScan                  | Microsoft Surface Go      | [Specifications](https://www.microsoft.com/en-us/surface/devices/surface-go-2/tech-specs)                                  |
 
 ## Hardware Dimensions
 
