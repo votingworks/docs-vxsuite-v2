@@ -28,7 +28,7 @@
 ### [Open Polls](setting-up-and-opening-polls/opening-polls.md)
 
 * [ ] Insert Poll Worker Card into VxScan
-* [ ] Select _`Yes, Open the Polls`_
+* [ ] Select _`Open Polls for [Precinct Name]`_
 * [ ] Insert Poll Worker Card into VxMark
 * [ ] Select _`Print Tally Report` -_ 2 copies will print
 * [ ] Verify precinct name, date, time and totals are zero
@@ -41,7 +41,7 @@
 * [ ] Insert Poll Worker Card
 * [ ] Select the appropriate ballot style
 * [ ] Remove Poll Worker Card
-* [ ] Instruct voter they can begin voting by selecting _`Start Voting` _ or alternately, provide the voter with headphones and the accessible control for audio instructions
+* [ ] Instruct voter they can begin voting by selecting _`Start Voting`_ or alternately, provide the voter with headphones and the accessible control for audio instructions
 * [ ] Allow voter to vote privately
 * [ ] After the voter prints their ballot, assist and instruct them to:
   * [ ] Review their printed ballot (if able)
@@ -56,7 +56,7 @@
 ### [Close Polls](checklist.md#close-polls)
 
 * [ ] Insert Poll Worker Card into VxScan
-* [ ] Select _`Yes, Close the Polls`_
+* [ ] Select _`Close Polls for [Precinct Name]`_
 * [ ] Insert Poll Worker Card into VxMark
 * [ ] Select _`Print Tally Report` -_ 2 copies will print, each 2 pages
 * [ ] Retain and/or display the Tally Report as instructed by your election administrator

@@ -80,7 +80,7 @@ The voter will be presented with one contest at a time. They will make a selecti
 
 The voter moves to the next contest by selecting _`Next.`_The voter can skip a contest by selecting _`Next`_ without making a selection.  To return to a previous contest, they should select _`Back.`_
 
-After working through all contests, a Review Your Votes **** screen appears that allows the voter to change any vote by selecting _`Change`_.
+After working through all contests, a Review Your Votes screen appears that allows the voter to change any vote by selecting _`Change`_.
 
 ![](<../.gitbook/assets/image (134) (1).png>)
 

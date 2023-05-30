@@ -12,7 +12,7 @@ To tally results, each USB drive from the precincts and VxCentralScan must be lo
 
 When loaded, confirm that the presented file name, CVR count, and precinct(s) are as expected. Load CVR files from all of your scanners, VxScan and VxCentralScan. To review the ballot count by precinct and view any unofficial tally reports desired, go to the Reports tab.&#x20;
 
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 After loading your CVR file(s), go to the Reports tab and select _`Unofficial Full Election Tally Report`._&#x20;
 

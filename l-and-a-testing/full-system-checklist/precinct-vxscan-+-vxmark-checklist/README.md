@@ -26,7 +26,7 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
   * [ ] Close enclosure
   * [ ] Insert ballot bag (optional)
 
-****
+
 
 ### **Using Equipment**
 
@@ -107,10 +107,4 @@ This Precinct Checklist is appropriate for any precinct using both VxMark as an 
 
 ### **Seal Tracking**
 
-| Seal Location           | Seal Color | Number |
-| ----------------------- | ---------- | ------ |
-| Ballot Box Main Opening |            |        |
-| Ballot Box Flap 1       |            |        |
-| Ballot Box Flap 2       |            |        |
-| VxScan                  |            |        |
-| VxMark                  |            |        |
+<table><thead><tr><th width="247.1129234629862">Seal Location</th><th width="165.23734657984156">Seal Color</th><th>Number</th></tr></thead><tbody><tr><td>Ballot Box Main Opening</td><td></td><td></td></tr><tr><td>Ballot Box Flap 1</td><td></td><td></td></tr><tr><td>Ballot Box Flap 2</td><td></td><td></td></tr><tr><td>VxScan</td><td></td><td></td></tr><tr><td>VxMark</td><td></td><td></td></tr></tbody></table>

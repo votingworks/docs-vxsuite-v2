@@ -41,7 +41,7 @@ Your chosen precinct will appear on the precinct button and in the lower left-ha
 
 ## Setting Mode
 
-Use the toggle button to switch between _`Testing Mode`_ **** and _`Live Election Mode`_. You will want to put the machine in Testing Mode **** before Logic and Accuracy Testing and return it to Live Election Mode after Logic and Accuracy Testing and before Election Day.&#x20;
+Use the toggle button to switch between _`Testing Mode`_ and _`Live Election Mode`_. You will want to put the machine in Testing Mode before Logic and Accuracy Testing and return it to Live Election Mode after Logic and Accuracy Testing and before Election Day.&#x20;
 
 ![](<../.gitbook/assets/image (179).png>)
 
@@ -78,7 +78,7 @@ To remove a ballot package and reset VxScan:
 
 ![Select Delete All Election Data from VxScan](<../.gitbook/assets/image (234).png>)
 
-Confirm your selection by selecting _ `Yes, Delete All.`_
+Confirm your selection by selecting _`Yes, Delete All.`_
 
 ![Select Yes, Delete All](<../.gitbook/assets/image (160).png>)
 

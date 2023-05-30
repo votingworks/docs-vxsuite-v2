@@ -13,7 +13,7 @@ Pack up **VxMark** through the following steps:
 
 ![Press the power button to turn off](<../../.gitbook/assets/printer power button.png>) ![Unplug cords](<../../.gitbook/assets/printer power cord (1).png>) ![Place printer and cord in case](<../../.gitbook/assets/printer in case (1).png>)
 
-****
+
 
 2\. **Store the components:**
 

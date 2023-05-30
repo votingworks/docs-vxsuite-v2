@@ -8,6 +8,7 @@ To prepare for an election, complete the following steps:
 * [ ] [Create Election Manager & Poll Worker Cards](../hardware-setup/programming-cards.md)
 * [ ] [Save Ballot Package](save-ballot-package.md) - if ballots or sample ballots will be printed by a vendor or external printer
 * [ ] [Print ballots](ballots.md)
+* [ ] [Format USB Drives](formatting-usb-drives.md) (if not new)
 * [ ] [Configure VxScans](../Precinct-system-setup-diagnostics/configure-vxscan.md)
 * [ ] [Configure VxMarks](../Precinct-system-setup-diagnostics/configuring-and-operating-vxmark.md)
 * [ ] [Configure VxCentralScan](configure-ballot-scanner.md)

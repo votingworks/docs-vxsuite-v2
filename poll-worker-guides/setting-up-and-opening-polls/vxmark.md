@@ -42,7 +42,7 @@ The **VxMark** should be set up on a different table than the **VxScan**, in a p
     * [ ] remove the **headphones** (b) from the travel pouch on top of the screen and plug them into the accessible controller (a)
     * [ ] pull the **power** **cord** (c) out from the back-left compartment and plug it into an outlet
     * [ ] pull the **printer cable** (d) from the mid-right compartment and connect it to the back of the printer
-    * [ ] do **not** remove **** the **card reader** (e) from the front-right compartment, no action is required
+    * [ ] do **not** remove the **card reader** (e) from the front-right compartment, no action is required
 
 
 

@@ -29,7 +29,11 @@ description: >-
 
 * [ ] open the case by lifting the latches on the front
 
-![Open the case by lifting the latches](<../.gitbook/assets/image (120).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (120).png" alt="Open the case by lifting the latches">
+
+</div>
 
 * [ ] **prepare the components:**
   * [ ] remove the **laptop**

@@ -2,9 +2,9 @@
 
 ### Closing Polls on VxScan
 
-To close the polls on VxScan, a poll worker must insert their Poll Worker Card into the card reader. The card must be facing away from the screen. Select _`Yes, Close the Polls.`_
+To close the polls on VxScan, a poll worker must insert their Poll Worker Card into the card reader. The card must be facing away from the screen. Select _`Close Polls for [Precinct Name].`_
 
-![](<../../.gitbook/assets/image (148).png>)
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 A Close Polls Report is saved to the Poll Worker Card which includes the number of ballots scanned and the tabulated results of those ballots. Take the Poll Worker Card to VxMark to print.
 
@@ -20,4 +20,3 @@ Two copies of the report will now print from the VxMark's printer in the followi
 
 ![Polls Closed Report - Cover Page](<../../.gitbook/assets/polls-closed-10-18-2021-pages-1 (1).jpg>) ![Polls Closed Report - Results Page](<../../.gitbook/assets/polls-closed-10-18-2021-pages-2 (1).jpg>)
 
-``

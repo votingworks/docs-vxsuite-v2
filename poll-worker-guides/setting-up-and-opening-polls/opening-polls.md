@@ -10,9 +10,9 @@ After VxScan is initially turned on, it will show the Polls Closed screen.
 If there is an orange banner that says "Testing Mode" on the screen, contact your election administrator immediately to prepare the machine for the election.
 {% endhint %}
 
-To open the polls, a poll worker must insert their Poll Worker Card into the card reader behind the screen. The front of the Poll Worker Card must be facing away from the screen. To open the polls, select _`Yes, Open the Polls`_.
+To open the polls, a poll worker must insert their Poll Worker Card into the card reader behind the screen. The front of the Poll Worker Card must be facing away from the screen. To open the polls, select _`Open Polls for [Precinct Name]`_.
 
-![](<../../.gitbook/assets/image (219) (1).png>)
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 The Polls Opened Report will save to the Poll Worker card.  Remove the Poll Worker card from VxScan and go to the VxMark to print the report.
 
@@ -20,7 +20,7 @@ The Polls Opened Report will save to the Poll Worker card.  Remove the Poll Work
 
 ### Printing the Polls Opened  Report
 
-To print the report, insert the Poll Worker card into the **** VxMark's card reader. Select _`Open Polls and Print Report`_to open the polls and print the Polls Opened Report.  The Polls Opened  Report also serves as the precincts Zero Report.
+To print the report, insert the Poll Worker card into the VxMark's card reader. Select _`Open Polls and Print Report`_to open the polls and print the Polls Opened Report.  The Polls Opened  Report also serves as the precincts Zero Report.
 
 <figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 

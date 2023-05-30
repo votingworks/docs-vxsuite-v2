@@ -2,7 +2,7 @@
 
 ## Save Ballot Package
 
-To configure VxCentralScan, you must first [save the ballot package](save-ballot-package.md) from VxAdmin **** to a USB drive.&#x20;
+To configure VxCentralScan, you must first [save the ballot package](save-ballot-package.md) from VxAdmin to a USB drive.&#x20;
 
 ## Load Ballot Package
 

@@ -15,6 +15,7 @@
 * [Configure VxCentralScan](central-system-setup/configure-ballot-scanner.md)
 * [Unlocking/Locking Hardware](central-system-setup/unlocking-locking-hardware.md)
 * [Setting Date & Time](central-system-setup/setting-date-and-time.md)
+* [Formatting USB Drives](central-system-setup/formatting-usb-drives.md)
 * [Demo Election Definition](central-system-setup/demo-election-definition.md)
 
 ## Precinct System Setup & Diagnostics <a href="#Precinct-system-setup-diagnostics" id="Precinct-system-setup-diagnostics"></a>
