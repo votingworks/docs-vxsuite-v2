@@ -6,7 +6,7 @@ When you are ready to certify election results, you can mark VxAdmin results as 
 You may not add additional CVR files after marking as official so please ensure you are ready to do so!
 {% endhint %}
 
-To mark as official, navigate to the Tally tab and select _`Unofficial Full Election Tally Report.`_
+To mark as official, navigate to the Reports tab and select _`Unofficial Full Election Tally Report.`_
 
 <figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
