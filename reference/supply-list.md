@@ -25,6 +25,10 @@ The following alternative common off-the-shelf paper weights are suitable for ab
 
 Note: printing of paper heavier than 32# Bond (120 GSM) requires use of either the HP454dn printer or Tray 1 on the HP404dn or HP404n printers.
 
+### Marking Utensils
+
+There is no specific recommendation for a marking utensil but it should be an ink pen that dries quickly. No markers.
+
 ### Toner Cartridges
 
 The HP printers for both VxMark and VxAdmin use toner cartridge 58. HP offers two sizes:
