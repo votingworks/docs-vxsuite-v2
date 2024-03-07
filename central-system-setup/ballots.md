@@ -47,3 +47,5 @@ A sample ballot should be used for proofing, display, or demonstration use. Samp
 An absentee ballot should be used for absentee voting and a precinct ballot should be used for all precinct voters, including affidavit, curbside, and emergency voters. Absentee and precinct ballots are the same with the exception of a label printed in the top-left corner and on every page footer for absentee ballots. With a color printer, the label is printed as white text on purple background. With a black-and-white printer, the label is printed as white text on grey background.
 
 ![Absentee header in color](<../.gitbook/assets/image (179) (2).png>)
+
+If printing ballots outside of VxAdmin, please review the [Ballot Printing Specifications page](../reference/ballot-printing-specificatins-and-supply-list.md) for important instructions.

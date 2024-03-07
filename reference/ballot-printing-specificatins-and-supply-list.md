@@ -1,4 +1,4 @@
-# Supply List
+# Ballot Printing Specificatins & Supply List
 
 ### Ballot Printing in Bulk (From External Printer)&#x20;
 
@@ -24,6 +24,8 @@ The following alternative common off-the-shelf paper weights are suitable for ab
   * Specific recommendations: [HP Premium 28](https://www.amazon.com/dp/B00RUKC3PI/), [Hammermill Premium 28](https://www.amazon.com/dp/B00006IDP3/), [SpringHill 28 (Colored)](https://www.amazon.com/gp/product/B06WW39DGN/)
 
 Note: printing of paper heavier than 32# Bond (120 GSM) requires use of either the HP454dn printer or Tray 1 on the HP404dn or HP404n printers.
+
+_**If printing ballots on another computer or printer with the ballot package .pdfs, your Adobe settings must be set to "actual size" under page sizing. Any alteration of page size may effect scanning and tabulation.**_
 
 ### Marking Utensils
 

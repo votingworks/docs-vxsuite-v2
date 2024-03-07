@@ -73,4 +73,4 @@
 
 * [Hardware Specifications](reference/hardware-specifications.md)
 * [Printer FAQs](reference/printer-faqs.md)
-* [Supply List](reference/supply-list.md)
+* [Ballot Printing Specificatins & Supply List](reference/ballot-printing-specificatins-and-supply-list.md)
