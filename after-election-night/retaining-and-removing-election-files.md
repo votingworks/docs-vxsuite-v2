@@ -33,6 +33,10 @@ Next, login as a System Administrator, select _`Log`_, and _`Save Log File`_.
 
 <figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption><p>Save Log File</p></figcaption></figure>
 
+{% hint style="info" %}
+**Log files** contain records of user interactions with the machine (e.g., election officials and poll workers unlocking the machine, voters casting ballots, etc.) as well as internal system information (e.g., the status of paper running through the scanner, errors, etc.). [A detailed description for each event in the log can be found in Github](https://github.com/votingworks/vxsuite/blob/913c82216121d3cfd643b8cf4ce61bff8edcfa59/libs/logging/VotingWorksLoggingDocumentation.md).
+{% endhint %}
+
 ### VxCentralScan Backup Files
 
 VxCentralScan backup files are saved on election night. This file includes the CVRs, logs, and ballot images. If the backup file was not saved on election night, simply go to the Admin menu and select _`Save Backup`_.
