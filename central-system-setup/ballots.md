@@ -48,4 +48,4 @@ An absentee ballot should be used for absentee voting and a precinct ballot shou
 
 ![Absentee header in color](<../.gitbook/assets/image (179) (2).png>)
 
-If printing ballots outside of VxAdmin, please review the [Ballot Printing Specifications page](../reference/ballot-printing-specificatins-and-supply-list.md) for important instructions.
+If printing ballots outside of VxAdmin, please review the [Ballot Printing Specifications page](../reference/ballot-printing-specifications-and-supply-list.md) for important instructions.
