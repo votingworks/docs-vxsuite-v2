@@ -34,9 +34,9 @@ If you haven't inserted a USB drive, you will be prompted to do so. VxAdmin will
 
 ## Upload to SEMS
 
-Connect the USB drive with the saved results to a computer connected to SEMS. Once connected, you will need to copy the results file to your local computer drive (C$ (\\\Client)(V:)) as SEMS does not recognize USB drives. You can launch SEMS after you have copied the appropriate results file to your local computer. It may take a moment for the C$ drive to appear.
+Connect the USB drive with the saved results to a computer connected to SEMS.&#x20;
 
-In SEMS, navigate to the Election Management view for the corresponding election and select _`Election Results`_ in the left navigation. From the results view, select _`Import Results`_ and then browse to the copied results file on your computer from the subsequent import dialog. Close the import dialog once finished importing.
+In SEMS, navigate to the Election Management view for the corresponding election and select _`Election Results`_ in the left navigation. From the results view, select _`Import Results`_ and browse to the results file on your USB drive from the subsequent import dialog. Close the import dialog once you have finished importing. Please note that the USB drive name in SEMS may be different than on your computer.&#x20;
 
 Your election results should now be presented to you in SEMS. If results are not immediately presented, select the _`Refresh Wizard Status`_in the bottom left of the screen. You should see results after refreshing.
 
